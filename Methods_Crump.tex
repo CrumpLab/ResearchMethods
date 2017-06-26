@@ -1,0 +1,241 @@
+\documentclass[oneside]{tufte-book}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{hyperref}
+\usepackage{makeidx}
+\usepackage{natbib}
+\usepackage{amsmath}
+
+\hypersetup{colorlinks=true}
+
+\usepackage{microtype}
+\usepackage{fancyvrb} % Allows customization of verbatim environments
+\fvset{fontsize=\normalsize} % The font size of all verbatim text can be changed here
+
+\newcommand{\monthyear}{\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi\space\number\year}
+
+\newcommand{\openepigraph}[2]{ % This block sets up a command for printing an epigraph with 2 arguments - the quote and the author
+\begin{fullwidth}
+\sffamily\large
+\begin{doublespace}
+\noindent\allcaps{#1}\\ % The quote
+\noindent\allcaps{#2} % The author
+\end{doublespace}
+\end{fullwidth}
+}
+
+
+
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\lstset{ %
+  language=R,                     % the language of the code
+  basicstyle=\footnotesize,       % the size of the fonts that are used for the code
+  numbers=left,                   % where to put the line-numbers
+  numberstyle=\tiny\color{black},  % the style that is used for the line-numbers
+  stepnumber=1,                   % the step between two line-numbers. If it's 1, each line
+                                  % will be numbered
+  numbersep=5pt,                  % how far the line-numbers are from the code
+  backgroundcolor=\color{shadecolor},  % choose the background color. You must add \usepackage{color}
+  showspaces=false,               % show spaces adding particular underscores
+  showstringspaces=false,         % underline spaces within strings
+  showtabs=false,                 % show tabs within strings adding particular underscores
+                     % adds a frame around the code
+  rulecolor=\color{black},        % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. commens (green here))
+  tabsize=2,                      % sets default tabsize to 2 spaces
+  captionpos=b,                   % sets the caption-position to bottom
+  breaklines=true,                % sets automatic line breaking
+  breakatwhitespace=false,        % sets if automatic breaks should only happen at whitespace
+  title=\lstname,                 % show the filename of files included with \lstinputlisting;
+                                  % also try caption instead of title
+  keywordstyle=\color{blue},      % keyword style
+  commentstyle=\color{dkgreen},   % comment style
+  stringstyle=\color{red},      % string literal style
+  escapeinside={\%*}{*)},         % if you want to add a comment within your code
+  morekeywords={*,...},            % if you want to add more keywords to the set
+  basicstyle=\ttfamily
+} 
+
+\setcounter{tocdepth}{4}
+
+
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+
+
+
+%opening
+%\title{Research Methods in Psychology}
+
+\title{Research Methods \\for Psychology \\ \small{The Brooklyn College Edition}}
+
+\author{Matthew Crump}
+\publisher{Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International License}
+\makeindex
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+%----------------------------------------------------------------------------------------
+%	EPIGRAPH
+%----------------------------------------------------------------------------------------
+
+\thispagestyle{empty}
+
+\openepigraph{Children are born true scientists. They spontaneously experiment and experience and re-experience again. They select, combine, and test, seeking to find order in their experiences - "which is the mostest? which is the leastest?" They smell, taste, bite, and touch-test for hardness, softness, springiness, roughness, smoothness, coldness, warmness: they heft, shake, punch, squeeze, push, crush, rub, and try to pull things apart.}{- Buckminster Fuller}
+
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\newpage
+\begin{fullwidth}
+~\vfill
+\thispagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\baselineskip}
+%Copyright \copyright\ \the\year\ \thanklessauthor
+
+\par\smallcaps{Published by \thanklesspublisher}
+
+\par
+
+This textbook is an adaptation of one originally written by Paul C. Price (California State University, Fresno) and adapted by The Saylor Foundation under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License without attribution as requested by the work's original creator or licensee. The original text is available here \url{http://www.saylor.org/site/textbooks/}
+
+This adaptation constitutes the Brooklyn College edition by Matthew J. C. Crump (Brooklyn College and Graduate Center of the City University of New York). This newest adaptation incorporates the second Canadian edition by Rajiv S. Jhangiani (Kwantlen Polytechnic University) and I-Chant A. Chiang (Quest University Canada) and is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. And, incorporates the second U.S. edition authored by Dana C. Leighton (Southern Arkansas University) and is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+
+Revisions in the current edition include:
+
+Research Methods in Psychology - 3rd American Edition by Paul C. Price, Rajiv Jhangiani, I-Chant A. Chiang, Dana C. Leighton, \& Matthew J. C. Crump is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted.
+
+
+%\par\smallcaps{\url{http://www.cognitionperformancelab.org}}
+
+
+\par\textit{CURRENT DRAFT VERSION 1, \today}
+\end{fullwidth}
+
+
+\tableofcontents
+
+
+
+
+%\chapter{The Workshop of Psychological Science}
+
+%\input{Roadmap.tex}
+
+
+%\chapter{Experiment Number One}
+%\input{Chapter1.tex}
+
+\chapter{1 The Science of Psychology}
+\lhead{\allcaps{Science of Psychology}}
+\input{Chapter1.tex}
+
+\chapter{2 Getting Started in Research}
+\lhead{\allcaps{Getting started in Research}}
+\input{Chapter2.tex}
+
+\chapter{3 Research Ethics}
+\lhead{\allcaps{Research Ethics}}
+\input{Chapter3.tex}
+
+\chapter{4 Theory in Psychology}
+\lhead{\allcaps{Theory in Psychology}}
+\input{Chapter4.tex}
+
+\chapter{5 Measurement}
+\lhead{\allcaps{Measurement}}
+\input{Chapter5.tex}
+
+\chapter{6 Experimental Research}
+\lhead{\allcaps{Experimental Research}}
+\input{Chapter6.tex}
+
+\chapter{7 Nonexperimental Research}
+\lhead{\allcaps{Nonexperimental Research}}
+\input{Chapter7.tex}
+
+\chapter{8 Complex Research Designs}
+\lhead{\allcaps{Complex Research Designs}}
+\input{Chapter8.tex}
+
+\chapter{9 Survey Research}
+\lhead{\allcaps{Survey Research}}
+\input{Chapter9.tex}
+
+\chapter{10 Single Subject Research}
+\lhead{\allcaps{Single Subject Research}}
+\input{Chapter10.tex}
+
+\chapter{11 Presenting your Research}
+\lhead{\allcaps{Presenting your Research}}
+\input{Chapter11.tex}
+
+\chapter{12 Descriptive Statistics}
+\lhead{\allcaps{Descriptive Statistics}}
+\input{Chapter12.tex}
+
+\chapter{13 Inferential Statistics}
+\lhead{\allcaps{Inferential Statistics}}
+\input{Chapter13.tex}
+
+
+\bibliography{MyLibrary}
+\bibliographystyle{apalike}
+
+\printindex
+\end{document}
