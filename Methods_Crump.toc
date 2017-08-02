@@ -55,334 +55,366 @@
 \contentsline {subsection}{Zotero and Organizing the papers you find}{61}{subsection*.56}
 \contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{62}{subsection*.57}
 \contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{62}{subsection*.58}
-\contentsline {chapter}{3 Research Ethics}{63}{chapter*.59}
-\contentsline {section}{Moral Foundations of Ethical Research}{64}{section*.60}
-\contentsline {subsection}{Was It Worth It?}{65}{subsection*.61}
-\contentsline {subsection}{Acting Responsibly and With Integrity}{66}{subsection*.62}
-\contentsline {subsection}{Seeking Justice}{67}{subsection*.63}
-\contentsline {subsection}{"They Were Betrayed"}{67}{subsection*.64}
-\contentsline {subsection}{Respecting People's Rights and Dignity}{68}{subsection*.65}
-\contentsline {subsection}{Unavoidable Ethical Conflict}{68}{subsection*.66}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{69}{subsection*.67}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{69}{subsection*.68}
-\contentsline {section}{From Moral Principles to Ethics Codes}{70}{section*.69}
-\contentsline {subsection}{Historical Overview}{70}{subsection*.70}
-\contentsline {subsection}{APA Ethics Code}{71}{subsection*.71}
-\contentsline {subsection}{Informed Consent}{75}{subsection*.72}
-\contentsline {subsection}{Deception}{76}{subsection*.73}
-\contentsline {subsection}{Debriefing}{77}{subsection*.74}
-\contentsline {subsection}{Nonhuman Animal Subjects}{77}{subsection*.75}
-\contentsline {subsection}{Scholarly Integrity}{78}{subsection*.76}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{78}{subsection*.77}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{79}{subsection*.78}
-\contentsline {section}{Putting Ethics Into Practice}{80}{section*.79}
-\contentsline {subsection}{Know and Accept Your Ethical Responsibilities}{80}{subsection*.80}
-\contentsline {subsection}{Identify and Minimize Risks}{80}{subsection*.81}
-\contentsline {subsection}{Identify and Minimize Deception}{82}{subsection*.82}
-\contentsline {subsection}{Weigh the Risks Against the Benefits}{83}{subsection*.83}
-\contentsline {subsection}{Create Informed Consent and Debriefing Procedures}{83}{subsection*.84}
-\contentsline {subsection}{Get Approval}{84}{subsection*.85}
-\contentsline {subsection}{Follow Through}{85}{subsection*.86}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{85}{subsection*.87}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{85}{subsection*.88}
-\contentsline {chapter}{4 Theory in Psychology}{87}{chapter*.89}
-\contentsline {section}{Phenomena and Theories}{88}{section*.90}
-\contentsline {subsection}{Phenomena}{88}{subsection*.91}
-\contentsline {subsection}{Some Famous Psychological Phenomena}{88}{subsection*.92}
-\contentsline {subsection}{Replicability}{89}{subsection*.93}
-\contentsline {subsection}{Theories}{90}{subsection*.94}
-\contentsline {subsection}{What Are Theories For?}{91}{subsection*.95}
-\contentsline {subsection}{Organization}{92}{subsection*.96}
-\contentsline {subsection}{Prediction}{93}{subsection*.97}
-\contentsline {subsection}{Generation of New Research}{94}{subsection*.98}
-\contentsline {subsection}{Multiple Theories}{94}{subsection*.99}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{95}{subsection*.100}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{95}{subsection*.101}
-\contentsline {section}{The Variety of Theories in Psychology}{97}{section*.102}
-\contentsline {subsection}{Formality}{97}{subsection*.103}
-\contentsline {subsection}{Some Formal Theories in Psychology}{97}{subsection*.104}
-\contentsline {subsection}{Scope}{98}{subsection*.105}
-\contentsline {subsection}{Theoretical Approach}{99}{subsection*.106}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{101}{subsection*.107}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{101}{subsection*.108}
-\contentsline {section}{Using Theories in Psychological Research}{102}{section*.109}
-\contentsline {subsection}{Theory Testing and Revision}{102}{subsection*.110}
-\contentsline {subsection}{Constructing or Choosing a Theory}{103}{subsection*.111}
-\contentsline {subsection}{Deriving Hypotheses}{104}{subsection*.112}
-\contentsline {subsection}{Evaluating and Revising Theories}{105}{subsection*.113}
-\contentsline {subsection}{Incorporating Theory Into Your Research}{106}{subsection*.114}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{108}{subsection*.115}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{109}{subsection*.116}
-\contentsline {chapter}{5 Measurement}{111}{chapter*.117}
-\contentsline {section}{Understanding Psychological Measurement}{112}{section*.118}
-\contentsline {subsection}{What Is Measurement?}{112}{subsection*.119}
-\contentsline {subsection}{Psychological Constructs}{113}{subsection*.120}
-\contentsline {subsection}{Operational Definitions}{115}{subsection*.121}
-\contentsline {subsection}{Levels of Measurement}{116}{subsection*.122}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{119}{subsection*.123}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{120}{subsection*.124}
-\contentsline {section}{Reliability and Validity of Measurement}{121}{section*.125}
-\contentsline {subsection}{Reliability}{121}{subsection*.126}
-\contentsline {subsection}{Test-Retest Reliability}{121}{subsection*.127}
-\contentsline {subsection}{Internal Consistency}{122}{subsection*.128}
-\contentsline {subsection}{Validity}{124}{subsection*.129}
-\contentsline {subsection}{Face Validity}{124}{subsection*.130}
-\contentsline {subsection}{Content Validity}{125}{subsection*.131}
-\contentsline {subsection}{Criterion Validity}{125}{subsection*.132}
-\contentsline {subsection}{Discriminant Validity}{126}{subsection*.133}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{127}{subsection*.134}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{127}{subsection*.135}
-\contentsline {section}{Practical Strategies for Psychological Measurement}{128}{section*.136}
-\contentsline {subsection}{Conceptually Defining the Construct}{128}{subsection*.137}
-\contentsline {subsection}{Deciding on an Operational Definition}{128}{subsection*.138}
-\contentsline {subsection}{Using an Existing Measure}{128}{subsection*.139}
-\contentsline {subsection}{Creating Your Own Measure}{129}{subsection*.140}
-\contentsline {subsection}{Implementing the Measure}{131}{subsection*.141}
-\contentsline {subsection}{Evaluating the Measure}{132}{subsection*.142}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{133}{subsection*.143}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{133}{subsection*.144}
-\contentsline {chapter}{6 Experimental Research}{135}{chapter*.145}
-\contentsline {section}{Experiment Basics}{137}{section*.146}
-\contentsline {subsection}{What Is an Experiment?}{137}{subsection*.147}
-\contentsline {subsection}{Internal Validity}{138}{subsection*.148}
-\contentsline {subsection}{External Validity}{138}{subsection*.149}
-\contentsline {subsection}{Construct Validity}{140}{subsection*.150}
-\contentsline {subsection}{Statistical Validity}{141}{subsection*.151}
-\contentsline {subsection}{Prioritizing Validities}{141}{subsection*.152}
-\contentsline {subsection}{Manipulation of the Independent Variable}{142}{subsection*.153}
-\contentsline {subsection}{Control of Extraneous Variables}{143}{subsection*.154}
-\contentsline {subsection}{Extraneous Variables as "Noise"}{143}{subsection*.155}
-\contentsline {subsection}{Extraneous Variables as Confounding Variables}{144}{subsection*.156}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{145}{subsection*.157}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{146}{subsection*.158}
-\contentsline {section}{Experimental Design}{147}{section*.159}
-\contentsline {subsection}{Between-Subjects Experiments}{147}{subsection*.160}
-\contentsline {subsection}{Random Assignment}{147}{subsection*.161}
-\contentsline {subsection}{Treatment and Control Conditions}{149}{subsection*.162}
-\contentsline {subsection}{Within-Subjects Experiments}{151}{subsection*.163}
-\contentsline {subsection}{Carryover Effects and Counterbalancing}{152}{subsection*.164}
-\contentsline {subsection}{Simultaneous Within-Subjects Designs}{154}{subsection*.165}
-\contentsline {subsection}{Between-Subjects or Within-Subjects?}{154}{subsection*.166}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{155}{subsection*.167}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{156}{subsection*.168}
-\contentsline {section}{Conducting Experiments}{157}{section*.169}
-\contentsline {subsection}{Recruiting Participants}{157}{subsection*.170}
-\contentsline {subsection}{Standardizing the Procedure}{158}{subsection*.171}
-\contentsline {subsection}{Record Keeping}{161}{subsection*.172}
-\contentsline {subsection}{Pilot Testing}{161}{subsection*.173}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{162}{subsection*.174}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{162}{subsection*.175}
-\contentsline {chapter}{7 Nonexperimental Research}{163}{chapter*.176}
-\contentsline {section}{Overview of Non-experimental Research}{164}{section*.177}
-\contentsline {subsection}{What Is Non-experimental Research?}{164}{subsection*.178}
-\contentsline {subsection}{When to Use Non-experimental Research}{164}{subsection*.179}
-\contentsline {subsection}{Types of Non-experimental Research}{165}{subsection*.180}
-\contentsline {subsection}{Internal Validity Revisited}{167}{subsection*.181}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{168}{subsection*.182}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{168}{subsection*.183}
-\contentsline {section}{Correlational Research}{169}{section*.184}
-\contentsline {subsection}{What Is Correlational Research?}{169}{subsection*.185}
-\contentsline {subsection}{Data Collection in Correlational Research}{171}{subsection*.186}
-\contentsline {subsection}{Naturalistic Observation}{171}{subsection*.187}
-\contentsline {subsection}{Archival Data}{173}{subsection*.188}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{174}{subsection*.189}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{174}{subsection*.190}
-\contentsline {section}{Quasi-Experimental Research}{176}{section*.191}
-\contentsline {subsection}{Nonequivalent Groups Design}{176}{subsection*.192}
-\contentsline {subsection}{Pretest-Posttest Design}{177}{subsection*.193}
-\contentsline {subsection}{Interrupted Time Series Design}{179}{subsection*.194}
-\contentsline {subsection}{Combination Designs}{181}{subsection*.195}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{182}{subsection*.196}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{182}{subsection*.197}
-\contentsline {section}{Qualitative Research}{183}{section*.198}
-\contentsline {subsection}{What Is Qualitative Research?}{183}{subsection*.199}
-\contentsline {subsection}{The Purpose of Qualitative Research}{183}{subsection*.200}
-\contentsline {subsection}{Data Collection and Analysis in Qualitative Research}{184}{subsection*.201}
-\contentsline {subsection}{Data Analysis in Qualitative Research}{186}{subsection*.202}
-\contentsline {subsection}{The Quantitative-Qualitative "Debate"}{187}{subsection*.203}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{188}{subsection*.204}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{189}{subsection*.205}
-\contentsline {chapter}{8 Complex Research Designs}{191}{chapter*.206}
-\contentsline {section}{Multiple Dependent Variables}{192}{section*.207}
-\contentsline {subsection}{Measures of Different Constructs}{192}{subsection*.208}
-\contentsline {subsection}{Manipulation Checks}{193}{subsection*.209}
-\contentsline {subsection}{Measures of the Same Construct}{194}{subsection*.210}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{194}{subsection*.211}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{195}{subsection*.212}
-\contentsline {section}{Multiple Independent Variables}{196}{section*.213}
-\contentsline {subsection}{Factorial Designs }{196}{subsection*.214}
-\contentsline {subsection}{Assigning Participants to Conditions}{198}{subsection*.215}
-\contentsline {subsection}{Non-manipulated Independent Variables}{199}{subsection*.216}
-\contentsline {subsection}{Graphing the Results of Factorial Experiments}{200}{subsection*.217}
-\contentsline {subsection}{Main Effects and Interactions}{201}{subsection*.218}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{203}{subsection*.219}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{203}{subsection*.220}
-\contentsline {section}{Complex Correlational Designs}{204}{section*.221}
-\contentsline {subsection}{Correlational Studies With Factorial Designs}{204}{subsection*.222}
-\contentsline {subsection}{Assessing Relationships Among Multiple Variables}{204}{subsection*.223}
-\contentsline {subsection}{Exploring Causal Relationships}{206}{subsection*.224}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{208}{subsection*.225}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{208}{subsection*.226}
-\contentsline {chapter}{9 Survey Research}{209}{chapter*.227}
-\contentsline {section}{Overview of Survey Research}{210}{section*.228}
-\contentsline {subsection}{What Is Survey Research?}{210}{subsection*.229}
-\contentsline {subsection}{History and Uses of Survey Research}{210}{subsection*.230}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{212}{subsection*.231}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{212}{subsection*.232}
-\contentsline {section}{Constructing Survey Questionnaires}{213}{section*.233}
-\contentsline {subsection}{Survey Responding as a Psychological Process}{213}{subsection*.234}
-\contentsline {subsection}{A Cognitive Model}{213}{subsection*.235}
-\contentsline {subsection}{Context Effects on Questionnaire Responses}{214}{subsection*.236}
-\contentsline {subsection}{Writing Survey Questionnaire Items}{215}{subsection*.237}
-\contentsline {subsection}{Types of Items}{215}{subsection*.238}
-\contentsline {subsection}{Writing Effective Items}{218}{subsection*.239}
-\contentsline {subsection}{Formatting the Questionnaire}{220}{subsection*.240}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{221}{subsection*.241}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{221}{subsection*.242}
-\contentsline {section}{Conducting Surveys}{222}{section*.243}
-\contentsline {subsection}{Sampling}{222}{subsection*.244}
-\contentsline {subsection}{Sample Size and Population Size}{224}{subsection*.245}
-\contentsline {subsection}{Sampling Bias}{224}{subsection*.246}
-\contentsline {subsection}{Conducting the Survey}{226}{subsection*.247}
-\contentsline {subsection}{Online surveys}{226}{subsection*.248}
-\contentsline {subsection}{Online Survey Creation}{227}{subsection*.249}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{227}{subsection*.250}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{228}{subsection*.251}
-\contentsline {chapter}{10 Single Subject Research}{229}{chapter*.252}
-\contentsline {section}{Overview of Single-Subject Research}{230}{section*.253}
-\contentsline {subsection}{What Is Single-Subject Research?}{230}{subsection*.254}
-\contentsline {subsection}{Assumptions of Single-Subject Research}{232}{subsection*.255}
-\contentsline {subsection}{Who Uses Single-Subject Research?}{233}{subsection*.256}
+\contentsline {chapter}{3 Measurement}{63}{chapter*.59}
+\contentsline {section}{Understanding Psychological Measurement}{64}{section*.60}
+\contentsline {subsection}{What Is Measurement?}{64}{subsection*.61}
+\contentsline {subsection}{Psychological Constructs}{65}{subsection*.62}
+\contentsline {subsection}{Operational Definitions}{67}{subsection*.63}
+\contentsline {subsection}{Levels of Measurement}{68}{subsection*.64}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{71}{subsection*.65}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{72}{subsection*.66}
+\contentsline {section}{Reliability and Validity of Measurement}{73}{section*.67}
+\contentsline {subsection}{Reliability}{73}{subsection*.68}
+\contentsline {subsection}{Test-Retest Reliability}{73}{subsection*.69}
+\contentsline {subsection}{Internal Consistency}{74}{subsection*.70}
+\contentsline {subsection}{Inter-rater Reliability}{75}{subsection*.71}
+\contentsline {subsection}{Validity}{76}{subsection*.72}
+\contentsline {subsection}{Face Validity}{76}{subsection*.73}
+\contentsline {subsection}{Content Validity}{77}{subsection*.74}
+\contentsline {subsection}{Criterion Validity}{78}{subsection*.75}
+\contentsline {subsection}{Discriminant Validity}{79}{subsection*.76}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{79}{subsection*.77}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{80}{subsection*.78}
+\contentsline {section}{Practical Strategies for Psychological Measurement}{81}{section*.79}
+\contentsline {subsection}{Conceptually Defining the Construct}{81}{subsection*.80}
+\contentsline {subsection}{Deciding on an Operational Definition}{81}{subsection*.81}
+\contentsline {subsection}{Using an Existing Measure}{81}{subsection*.82}
+\contentsline {subsection}{Creating Your Own Measure}{82}{subsection*.83}
+\contentsline {subsection}{Implementing the Measure}{84}{subsection*.84}
+\contentsline {subsection}{Evaluating the Measure}{85}{subsection*.85}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{86}{subsection*.86}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{86}{subsection*.87}
+\contentsline {chapter}{4 Single Factor Designs}{87}{chapter*.88}
+\contentsline {section}{Experiment Basics}{89}{section*.89}
+\contentsline {subsection}{What Is an Experiment?}{89}{subsection*.90}
+\contentsline {subsection}{Internal Validity}{90}{subsection*.91}
+\contentsline {subsection}{External Validity}{90}{subsection*.92}
+\contentsline {subsection}{Construct Validity}{92}{subsection*.93}
+\contentsline {subsection}{Statistical Validity}{93}{subsection*.94}
+\contentsline {subsection}{Prioritizing Validities}{93}{subsection*.95}
+\contentsline {subsection}{Manipulation of the Independent Variable}{94}{subsection*.96}
+\contentsline {subsection}{Control of Extraneous Variables}{95}{subsection*.97}
+\contentsline {subsection}{Extraneous Variables as "Noise"}{95}{subsection*.98}
+\contentsline {subsection}{Extraneous Variables as Confounding Variables}{96}{subsection*.99}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{97}{subsection*.100}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{98}{subsection*.101}
+\contentsline {section}{Experimental Design}{99}{section*.102}
+\contentsline {subsection}{Between-Subjects Experiments}{99}{subsection*.103}
+\contentsline {subsection}{Random Assignment}{99}{subsection*.104}
+\contentsline {subsection}{Treatment and Control Conditions}{101}{subsection*.105}
+\contentsline {subsection}{Within-Subjects Experiments}{103}{subsection*.106}
+\contentsline {subsection}{Carryover Effects and Counterbalancing}{104}{subsection*.107}
+\contentsline {subsection}{Simultaneous Within-Subjects Designs}{106}{subsection*.108}
+\contentsline {subsection}{Between-Subjects or Within-Subjects?}{106}{subsection*.109}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{107}{subsection*.110}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{108}{subsection*.111}
+\contentsline {section}{Conducting Experiments}{109}{section*.112}
+\contentsline {subsection}{Recruiting Participants}{109}{subsection*.113}
+\contentsline {subsection}{Standardizing the Procedure}{110}{subsection*.114}
+\contentsline {subsection}{Record Keeping}{113}{subsection*.115}
+\contentsline {subsection}{Pilot Testing}{113}{subsection*.116}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{114}{subsection*.117}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{114}{subsection*.118}
+\contentsline {chapter}{5 Factorial Designs}{115}{chapter*.119}
+\contentsline {section}{Multiple Dependent Variables}{116}{section*.120}
+\contentsline {subsection}{Measures of Different Constructs}{116}{subsection*.121}
+\contentsline {subsection}{Manipulation Checks}{117}{subsection*.122}
+\contentsline {subsection}{Measures of the Same Construct}{118}{subsection*.123}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{118}{subsection*.124}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{119}{subsection*.125}
+\contentsline {section}{Multiple Independent Variables}{120}{section*.126}
+\contentsline {subsection}{Factorial Designs }{120}{subsection*.127}
+\contentsline {subsection}{Assigning Participants to Conditions}{122}{subsection*.128}
+\contentsline {subsection}{Non-manipulated Independent Variables}{123}{subsection*.129}
+\contentsline {subsection}{Graphing the Results of Factorial Experiments}{124}{subsection*.130}
+\contentsline {subsection}{Main Effects and Interactions}{125}{subsection*.131}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{127}{subsection*.132}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{127}{subsection*.133}
+\contentsline {section}{Complex Correlational Designs}{128}{section*.134}
+\contentsline {subsection}{Correlational Studies With Factorial Designs}{128}{subsection*.135}
+\contentsline {subsection}{Assessing Relationships Among Multiple Variables}{128}{subsection*.136}
+\contentsline {subsection}{Exploring Causal Relationships}{130}{subsection*.137}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{132}{subsection*.138}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{132}{subsection*.139}
+\contentsline {chapter}{6 Theory in Psychology}{133}{chapter*.140}
+\contentsline {section}{Phenomena and Theories}{134}{section*.141}
+\contentsline {subsection}{Phenomena}{134}{subsection*.142}
+\contentsline {subsection}{Some Famous Psychological Phenomena}{134}{subsection*.143}
+\contentsline {subsection}{Replicability}{135}{subsection*.144}
+\contentsline {subsection}{Theories}{136}{subsection*.145}
+\contentsline {subsection}{What Are Theories For?}{137}{subsection*.146}
+\contentsline {subsection}{Organization}{138}{subsection*.147}
+\contentsline {subsection}{Prediction}{139}{subsection*.148}
+\contentsline {subsection}{Generation of New Research}{140}{subsection*.149}
+\contentsline {subsection}{Multiple Theories}{140}{subsection*.150}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{141}{subsection*.151}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{141}{subsection*.152}
+\contentsline {section}{The Variety of Theories in Psychology}{143}{section*.153}
+\contentsline {subsection}{Formality}{143}{subsection*.154}
+\contentsline {subsection}{Some Formal Theories in Psychology}{143}{subsection*.155}
+\contentsline {subsection}{Scope}{144}{subsection*.156}
+\contentsline {subsection}{Theoretical Approach}{145}{subsection*.157}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{147}{subsection*.158}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{147}{subsection*.159}
+\contentsline {section}{Using Theories in Psychological Research}{148}{section*.160}
+\contentsline {subsection}{Theory Testing and Revision}{148}{subsection*.161}
+\contentsline {subsection}{Constructing or Choosing a Theory}{149}{subsection*.162}
+\contentsline {subsection}{Deriving Hypotheses}{150}{subsection*.163}
+\contentsline {subsection}{Evaluating and Revising Theories}{151}{subsection*.164}
+\contentsline {subsection}{Incorporating Theory Into Your Research}{152}{subsection*.165}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{154}{subsection*.166}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{155}{subsection*.167}
+\contentsline {chapter}{7 Research Ethics}{157}{chapter*.168}
+\contentsline {section}{Moral Foundations of Ethical Research}{158}{section*.169}
+\contentsline {subsection}{Was It Worth It?}{159}{subsection*.170}
+\contentsline {subsection}{Acting Responsibly and With Integrity}{160}{subsection*.171}
+\contentsline {subsection}{Seeking Justice}{161}{subsection*.172}
+\contentsline {subsection}{"They Were Betrayed"}{161}{subsection*.173}
+\contentsline {subsection}{Respecting People's Rights and Dignity}{162}{subsection*.174}
+\contentsline {subsection}{Unavoidable Ethical Conflict}{162}{subsection*.175}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{163}{subsection*.176}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{163}{subsection*.177}
+\contentsline {section}{From Moral Principles to Ethics Codes}{164}{section*.178}
+\contentsline {subsection}{Historical Overview}{164}{subsection*.179}
+\contentsline {subsection}{APA Ethics Code}{165}{subsection*.180}
+\contentsline {subsection}{Informed Consent}{169}{subsection*.181}
+\contentsline {subsection}{Deception}{170}{subsection*.182}
+\contentsline {subsection}{Debriefing}{171}{subsection*.183}
+\contentsline {subsection}{Nonhuman Animal Subjects}{171}{subsection*.184}
+\contentsline {subsection}{Scholarly Integrity}{172}{subsection*.185}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{172}{subsection*.186}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{173}{subsection*.187}
+\contentsline {section}{Putting Ethics Into Practice}{174}{section*.188}
+\contentsline {subsection}{Know and Accept Your Ethical Responsibilities}{174}{subsection*.189}
+\contentsline {subsection}{Identify and Minimize Risks}{174}{subsection*.190}
+\contentsline {subsection}{Identify and Minimize Deception}{176}{subsection*.191}
+\contentsline {subsection}{Weigh the Risks Against the Benefits}{177}{subsection*.192}
+\contentsline {subsection}{Create Informed Consent and Debriefing Procedures}{177}{subsection*.193}
+\contentsline {subsection}{Get Approval}{178}{subsection*.194}
+\contentsline {subsection}{Follow Through}{179}{subsection*.195}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{179}{subsection*.196}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{179}{subsection*.197}
+\contentsline {chapter}{8 Control Problems}{181}{chapter*.198}
+\contentsline {section}{Experiment Basics}{183}{section*.199}
+\contentsline {subsection}{What Is an Experiment?}{183}{subsection*.200}
+\contentsline {subsection}{Internal Validity}{184}{subsection*.201}
+\contentsline {subsection}{External Validity}{184}{subsection*.202}
+\contentsline {subsection}{Construct Validity}{186}{subsection*.203}
+\contentsline {subsection}{Statistical Validity}{187}{subsection*.204}
+\contentsline {subsection}{Prioritizing Validities}{187}{subsection*.205}
+\contentsline {subsection}{Manipulation of the Independent Variable}{188}{subsection*.206}
+\contentsline {subsection}{Control of Extraneous Variables}{189}{subsection*.207}
+\contentsline {subsection}{Extraneous Variables as "Noise"}{189}{subsection*.208}
+\contentsline {subsection}{Extraneous Variables as Confounding Variables}{190}{subsection*.209}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{191}{subsection*.210}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{192}{subsection*.211}
+\contentsline {section}{Experimental Design}{193}{section*.212}
+\contentsline {subsection}{Between-Subjects Experiments}{193}{subsection*.213}
+\contentsline {subsection}{Random Assignment}{193}{subsection*.214}
+\contentsline {subsection}{Treatment and Control Conditions}{195}{subsection*.215}
+\contentsline {subsection}{Within-Subjects Experiments}{197}{subsection*.216}
+\contentsline {subsection}{Carryover Effects and Counterbalancing}{198}{subsection*.217}
+\contentsline {subsection}{Simultaneous Within-Subjects Designs}{200}{subsection*.218}
+\contentsline {subsection}{Between-Subjects or Within-Subjects?}{200}{subsection*.219}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{201}{subsection*.220}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{202}{subsection*.221}
+\contentsline {section}{Conducting Experiments}{203}{section*.222}
+\contentsline {subsection}{Recruiting Participants}{203}{subsection*.223}
+\contentsline {subsection}{Standardizing the Procedure}{204}{subsection*.224}
+\contentsline {subsection}{Record Keeping}{207}{subsection*.225}
+\contentsline {subsection}{Pilot Testing}{207}{subsection*.226}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{208}{subsection*.227}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{208}{subsection*.228}
+\contentsline {chapter}{9 Nonexperimental Research}{209}{chapter*.229}
+\contentsline {section}{Overview of Non-experimental Research}{210}{section*.230}
+\contentsline {subsection}{What Is Non-experimental Research?}{210}{subsection*.231}
+\contentsline {subsection}{When to Use Non-experimental Research}{210}{subsection*.232}
+\contentsline {subsection}{Types of Non-experimental Research}{211}{subsection*.233}
+\contentsline {subsection}{Internal Validity Revisited}{213}{subsection*.234}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{214}{subsection*.235}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{214}{subsection*.236}
+\contentsline {section}{Correlational Research}{215}{section*.237}
+\contentsline {subsection}{What Is Correlational Research?}{215}{subsection*.238}
+\contentsline {subsection}{Data Collection in Correlational Research}{217}{subsection*.239}
+\contentsline {subsection}{Naturalistic Observation}{217}{subsection*.240}
+\contentsline {subsection}{Archival Data}{219}{subsection*.241}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{220}{subsection*.242}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{220}{subsection*.243}
+\contentsline {section}{Quasi-Experimental Research}{222}{section*.244}
+\contentsline {subsection}{Nonequivalent Groups Design}{222}{subsection*.245}
+\contentsline {subsection}{Pretest-Posttest Design}{223}{subsection*.246}
+\contentsline {subsection}{Interrupted Time Series Design}{225}{subsection*.247}
+\contentsline {subsection}{Combination Designs}{227}{subsection*.248}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{228}{subsection*.249}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{228}{subsection*.250}
+\contentsline {section}{Qualitative Research}{229}{section*.251}
+\contentsline {subsection}{What Is Qualitative Research?}{229}{subsection*.252}
+\contentsline {subsection}{The Purpose of Qualitative Research}{229}{subsection*.253}
+\contentsline {subsection}{Data Collection and Analysis in Qualitative Research}{230}{subsection*.254}
+\contentsline {subsection}{Data Analysis in Qualitative Research}{232}{subsection*.255}
+\contentsline {subsection}{The Quantitative-Qualitative "Debate"}{233}{subsection*.256}
 \contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{234}{subsection*.257}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{234}{subsection*.258}
-\contentsline {section}{Single-Subject Research Designs}{235}{section*.259}
-\contentsline {subsection}{General Features of Single-Subject Designs}{235}{subsection*.260}
-\contentsline {subsection}{Reversal Designs}{235}{subsection*.261}
-\contentsline {subsection}{Multiple-Baseline Designs}{237}{subsection*.262}
-\contentsline {subsection}{Data Analysis in Single-Subject Research}{239}{subsection*.263}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{241}{subsection*.264}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{242}{subsection*.265}
-\contentsline {section}{The Single-Subject Versus Group "Debate"}{243}{section*.266}
-\contentsline {subsection}{Data Analysis}{243}{subsection*.267}
-\contentsline {subsection}{External Validity}{244}{subsection*.268}
-\contentsline {subsection}{Single-Subject and Group Research as Complementary Methods}{245}{subsection*.269}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{246}{subsection*.270}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{247}{subsection*.271}
-\contentsline {chapter}{11 Presenting your Research}{249}{chapter*.272}
-\contentsline {section}{American Psychological Association (APA) Style}{250}{section*.273}
-\contentsline {subsection}{ What Is APA Style?}{250}{subsection*.274}
-\contentsline {subsection}{The Levels of APA Style}{250}{subsection*.275}
-\contentsline {subsection}{APA Style and the Values of Psychology}{251}{subsection*.276}
-\contentsline {subsection}{Online APA Style Resources}{253}{subsection*.277}
-\contentsline {subsection}{APA-Style References and Citations}{254}{subsection*.278}
-\contentsline {subsection}{References}{254}{subsection*.279}
-\contentsline {subsection}{Journal}{254}{subsection*.280}
-\contentsline {subsection}{Reference Citations}{256}{subsection*.281}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{258}{subsection*.282}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{258}{subsection*.283}
-\contentsline {section}{Writing a Research Report in American Psychological Association (APA) Style}{259}{section*.284}
-\contentsline {subsection}{Sections of a Research Report}{259}{subsection*.285}
-\contentsline {subsection}{Title Page and Abstract}{259}{subsection*.286}
-\contentsline {subsection}{It's Soooo Cute! How Informal Should an Article Title Be?}{260}{subsection*.287}
-\contentsline {subsection}{Introduction}{260}{subsection*.288}
-\contentsline {subsection}{The Opening}{261}{subsection*.289}
-\contentsline {subsection}{Breaking the Rules}{261}{subsection*.290}
-\contentsline {subsection}{The Literature Review}{262}{subsection*.291}
-\contentsline {subsection}{The Closing}{263}{subsection*.292}
-\contentsline {subsection}{Method}{264}{subsection*.293}
-\contentsline {subsection}{Results}{266}{subsection*.294}
-\contentsline {subsection}{Discussion}{267}{subsection*.295}
-\contentsline {subsection}{References}{268}{subsection*.296}
-\contentsline {subsection}{Appendices, Tables, and Figures}{268}{subsection*.297}
-\contentsline {subsection}{Sample APA-Style Research Report}{269}{subsection*.298}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{269}{subsection*.299}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{269}{subsection*.300}
-\contentsline {section}{Other Presentation Formats}{274}{section*.301}
-\contentsline {subsection}{Other Types of Manuscripts}{274}{subsection*.302}
-\contentsline {subsection}{Review and Theoretical Articles}{274}{subsection*.303}
-\contentsline {subsection}{Final Manuscripts}{274}{subsection*.304}
-\contentsline {subsection}{Conference Presentations}{275}{subsection*.305}
-\contentsline {subsection}{Professional Conferences}{276}{subsection*.306}
-\contentsline {subsection}{Oral Presentations}{276}{subsection*.307}
-\contentsline {subsection}{Posters}{277}{subsection*.308}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{279}{subsection*.309}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{279}{subsection*.310}
-\contentsline {chapter}{12 Descriptive Statistics}{281}{chapter*.311}
-\contentsline {section}{Describing Single Variables}{281}{section*.312}
-\contentsline {subsection}{The Distribution of a Variable}{281}{subsection*.313}
-\contentsline {subsection}{Frequency Tables}{282}{subsection*.314}
-\contentsline {subsection}{Histograms}{283}{subsection*.315}
-\contentsline {subsection}{Distribution Shapes}{283}{subsection*.316}
-\contentsline {subsection}{Measures of Central Tendency and Variability}{284}{subsection*.317}
-\contentsline {subsection}{Central Tendency}{284}{subsection*.318}
-\contentsline {subsection}{Measures of Variability}{286}{subsection*.319}
-\contentsline {subsection}{N or N-1}{288}{subsection*.320}
-\contentsline {subsection}{Percentile Ranks and z Scores}{288}{subsection*.321}
-\contentsline {subsection}{Online Descriptive Statistics}{289}{subsection*.322}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{289}{subsection*.323}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{290}{subsection*.324}
-\contentsline {section}{Describing Statistical Relationships}{290}{section*.325}
-\contentsline {subsection}{Differences Between Groups or Conditions}{290}{subsection*.326}
-\contentsline {subsection}{Effect size}{291}{subsection*.327}
-\contentsline {subsection}{Sex Differences Expressed as Cohen's d}{293}{subsection*.328}
-\contentsline {subsection}{Correlations Between Quantitative Variables}{293}{subsection*.329}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{297}{subsection*.330}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{297}{subsection*.331}
-\contentsline {section}{Expressing Your Results}{298}{section*.332}
-\contentsline {subsection}{Presenting Descriptive Statistics in Writing}{298}{subsection*.333}
-\contentsline {subsection}{Presenting Descriptive Statistics in Graphs}{299}{subsection*.334}
-\contentsline {subsection}{Bar Graphs}{300}{subsection*.335}
-\contentsline {subsection}{Line Graphs}{300}{subsection*.336}
-\contentsline {subsection}{Scatterplots}{301}{subsection*.337}
-\contentsline {subsection}{Expressing Descriptive Statistics in Tables}{302}{subsection*.338}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{304}{subsection*.339}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{304}{subsection*.340}
-\contentsline {section}{Conducting Your Analyses}{304}{section*.341}
-\contentsline {subsection}{Prepare Your Data for Analysis}{304}{subsection*.342}
-\contentsline {subsection}{Preliminary Analyses}{306}{subsection*.343}
-\contentsline {subsection}{Answer Your Research Questions}{307}{subsection*.344}
-\contentsline {subsection}{Understand Your Descriptive Statistics}{308}{subsection*.345}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{308}{subsection*.346}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{309}{subsection*.347}
-\contentsline {chapter}{13 Inferential Statistics}{311}{chapter*.348}
-\contentsline {section}{Understanding Null Hypothesis Testing}{312}{section*.349}
-\contentsline {subsection}{The Purpose of Null Hypothesis Testing}{312}{subsection*.350}
-\contentsline {subsection}{The Logic of Null Hypothesis Testing}{313}{subsection*.351}
-\contentsline {subsection}{Role of Sample Size and Relationship Strength}{315}{subsection*.352}
-\contentsline {subsection}{Statistical Significance Versus Practical Significance}{316}{subsection*.353}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{317}{subsection*.354}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{317}{subsection*.355}
-\contentsline {section}{Some Basic Null Hypothesis Tests}{318}{section*.356}
-\contentsline {subsection}{The t Test}{318}{subsection*.357}
-\contentsline {subsection}{One-Sample t Test}{318}{subsection*.358}
-\contentsline {subsection}{Example One-Sample t Test}{320}{subsection*.359}
-\contentsline {subsection}{The Dependent-Samples t Test}{321}{subsection*.360}
-\contentsline {subsection}{Example Dependent-Samples t Test}{322}{subsection*.361}
-\contentsline {subsection}{The Independent-Samples t Test}{323}{subsection*.362}
-\contentsline {subsection}{Example Independent-Samples t test}{323}{subsection*.363}
-\contentsline {subsection}{The Analysis of Variance}{324}{subsection*.364}
-\contentsline {subsection}{One-Way ANOVA}{324}{subsection*.365}
-\contentsline {subsection}{Example One-Way ANOVA}{325}{subsection*.366}
-\contentsline {subsection}{ANOVA Elaborations}{326}{subsection*.367}
-\contentsline {subsection}{Post Hoc Comparisons}{326}{subsection*.368}
-\contentsline {subsection}{Repeated-Measures ANOVA}{327}{subsection*.369}
-\contentsline {subsection}{Factorial ANOVA}{327}{subsection*.370}
-\contentsline {subsection}{Testing Pearson's r}{328}{subsection*.371}
-\contentsline {subsection}{Example Test of Pearson's r}{328}{subsection*.372}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{329}{subsection*.373}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{329}{subsection*.374}
-\contentsline {section}{Additional Considerations}{330}{section*.375}
-\contentsline {subsection}{Errors in Null Hypothesis Testing}{330}{subsection*.376}
-\contentsline {subsection}{Statistical Power}{332}{subsection*.377}
-\contentsline {subsection}{Computing Power Online}{333}{subsection*.378}
-\contentsline {subsection}{Problems With Null Hypothesis Testing, and Some Solutions}{334}{subsection*.379}
-\contentsline {subsection}{Criticisms of Null Hypothesis Testing}{334}{subsection*.380}
-\contentsline {subsection}{The end of p-values?}{335}{subsection*.381}
-\contentsline {subsection}{What to Do?}{335}{subsection*.382}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{336}{subsection*.383}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{337}{subsection*.384}
-\contentsline {section}{From the "Replicability Crisis" to Open Science Practices}{337}{section*.385}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{339}{subsection*.386}
-\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{339}{subsection*.387}
-\contentsline {chapter}{Bibliography}{341}{chapter*.388}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{235}{subsection*.258}
+\contentsline {chapter}{10 Survey Research}{237}{chapter*.259}
+\contentsline {section}{Overview of Survey Research}{238}{section*.260}
+\contentsline {subsection}{What Is Survey Research?}{238}{subsection*.261}
+\contentsline {subsection}{History and Uses of Survey Research}{238}{subsection*.262}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{240}{subsection*.263}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{240}{subsection*.264}
+\contentsline {section}{Constructing Survey Questionnaires}{241}{section*.265}
+\contentsline {subsection}{Survey Responding as a Psychological Process}{241}{subsection*.266}
+\contentsline {subsection}{A Cognitive Model}{241}{subsection*.267}
+\contentsline {subsection}{Context Effects on Questionnaire Responses}{242}{subsection*.268}
+\contentsline {subsection}{Writing Survey Questionnaire Items}{243}{subsection*.269}
+\contentsline {subsection}{Types of Items}{243}{subsection*.270}
+\contentsline {subsection}{Writing Effective Items}{246}{subsection*.271}
+\contentsline {subsection}{Formatting the Questionnaire}{248}{subsection*.272}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{249}{subsection*.273}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{249}{subsection*.274}
+\contentsline {section}{Conducting Surveys}{250}{section*.275}
+\contentsline {subsection}{Sampling}{250}{subsection*.276}
+\contentsline {subsection}{Sample Size and Population Size}{252}{subsection*.277}
+\contentsline {subsection}{Sampling Bias}{252}{subsection*.278}
+\contentsline {subsection}{Conducting the Survey}{254}{subsection*.279}
+\contentsline {subsection}{Online surveys}{254}{subsection*.280}
+\contentsline {subsection}{Online Survey Creation}{255}{subsection*.281}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{255}{subsection*.282}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{256}{subsection*.283}
+\contentsline {chapter}{11 Single Subject Research}{257}{chapter*.284}
+\contentsline {section}{Overview of Single-Subject Research}{258}{section*.285}
+\contentsline {subsection}{What Is Single-Subject Research?}{258}{subsection*.286}
+\contentsline {subsection}{Assumptions of Single-Subject Research}{260}{subsection*.287}
+\contentsline {subsection}{Who Uses Single-Subject Research?}{261}{subsection*.288}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{262}{subsection*.289}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{262}{subsection*.290}
+\contentsline {section}{Single-Subject Research Designs}{263}{section*.291}
+\contentsline {subsection}{General Features of Single-Subject Designs}{263}{subsection*.292}
+\contentsline {subsection}{Reversal Designs}{263}{subsection*.293}
+\contentsline {subsection}{Multiple-Baseline Designs}{265}{subsection*.294}
+\contentsline {subsection}{Data Analysis in Single-Subject Research}{267}{subsection*.295}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{269}{subsection*.296}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{270}{subsection*.297}
+\contentsline {section}{The Single-Subject Versus Group "Debate"}{271}{section*.298}
+\contentsline {subsection}{Data Analysis}{271}{subsection*.299}
+\contentsline {subsection}{External Validity}{272}{subsection*.300}
+\contentsline {subsection}{Single-Subject and Group Research as Complementary Methods}{273}{subsection*.301}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{274}{subsection*.302}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{275}{subsection*.303}
+\contentsline {chapter}{12 Presenting your Research}{277}{chapter*.304}
+\contentsline {section}{American Psychological Association (APA) Style}{278}{section*.305}
+\contentsline {subsection}{ What Is APA Style?}{278}{subsection*.306}
+\contentsline {subsection}{The Levels of APA Style}{278}{subsection*.307}
+\contentsline {subsection}{APA Style and the Values of Psychology}{279}{subsection*.308}
+\contentsline {subsection}{Online APA Style Resources}{281}{subsection*.309}
+\contentsline {subsection}{APA-Style References and Citations}{282}{subsection*.310}
+\contentsline {subsection}{References}{282}{subsection*.311}
+\contentsline {subsection}{Journal}{282}{subsection*.312}
+\contentsline {subsection}{Reference Citations}{284}{subsection*.313}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{286}{subsection*.314}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{286}{subsection*.315}
+\contentsline {section}{Writing a Research Report in American Psychological Association (APA) Style}{287}{section*.316}
+\contentsline {subsection}{Sections of a Research Report}{287}{subsection*.317}
+\contentsline {subsection}{Title Page and Abstract}{287}{subsection*.318}
+\contentsline {subsection}{It's Soooo Cute! How Informal Should an Article Title Be?}{288}{subsection*.319}
+\contentsline {subsection}{Introduction}{288}{subsection*.320}
+\contentsline {subsection}{The Opening}{289}{subsection*.321}
+\contentsline {subsection}{Breaking the Rules}{289}{subsection*.322}
+\contentsline {subsection}{The Literature Review}{290}{subsection*.323}
+\contentsline {subsection}{The Closing}{291}{subsection*.324}
+\contentsline {subsection}{Method}{292}{subsection*.325}
+\contentsline {subsection}{Results}{294}{subsection*.326}
+\contentsline {subsection}{Discussion}{295}{subsection*.327}
+\contentsline {subsection}{References}{296}{subsection*.328}
+\contentsline {subsection}{Appendices, Tables, and Figures}{296}{subsection*.329}
+\contentsline {subsection}{Sample APA-Style Research Report}{297}{subsection*.330}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{297}{subsection*.331}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{297}{subsection*.332}
+\contentsline {section}{Other Presentation Formats}{302}{section*.333}
+\contentsline {subsection}{Other Types of Manuscripts}{302}{subsection*.334}
+\contentsline {subsection}{Review and Theoretical Articles}{302}{subsection*.335}
+\contentsline {subsection}{Final Manuscripts}{302}{subsection*.336}
+\contentsline {subsection}{Conference Presentations}{303}{subsection*.337}
+\contentsline {subsection}{Professional Conferences}{304}{subsection*.338}
+\contentsline {subsection}{Oral Presentations}{304}{subsection*.339}
+\contentsline {subsection}{Posters}{305}{subsection*.340}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{307}{subsection*.341}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{307}{subsection*.342}
+\contentsline {chapter}{13 Descriptive Statistics}{309}{chapter*.343}
+\contentsline {section}{Describing Single Variables}{309}{section*.344}
+\contentsline {subsection}{The Distribution of a Variable}{309}{subsection*.345}
+\contentsline {subsection}{Frequency Tables}{310}{subsection*.346}
+\contentsline {subsection}{Histograms}{311}{subsection*.347}
+\contentsline {subsection}{Distribution Shapes}{311}{subsection*.348}
+\contentsline {subsection}{Measures of Central Tendency and Variability}{312}{subsection*.349}
+\contentsline {subsection}{Central Tendency}{312}{subsection*.350}
+\contentsline {subsection}{Measures of Variability}{314}{subsection*.351}
+\contentsline {subsection}{N or N-1}{316}{subsection*.352}
+\contentsline {subsection}{Percentile Ranks and z Scores}{316}{subsection*.353}
+\contentsline {subsection}{Online Descriptive Statistics}{317}{subsection*.354}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{317}{subsection*.355}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{318}{subsection*.356}
+\contentsline {section}{Describing Statistical Relationships}{318}{section*.357}
+\contentsline {subsection}{Differences Between Groups or Conditions}{318}{subsection*.358}
+\contentsline {subsection}{Effect size}{319}{subsection*.359}
+\contentsline {subsection}{Sex Differences Expressed as Cohen's d}{321}{subsection*.360}
+\contentsline {subsection}{Correlations Between Quantitative Variables}{321}{subsection*.361}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{325}{subsection*.362}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{325}{subsection*.363}
+\contentsline {section}{Expressing Your Results}{326}{section*.364}
+\contentsline {subsection}{Presenting Descriptive Statistics in Writing}{326}{subsection*.365}
+\contentsline {subsection}{Presenting Descriptive Statistics in Graphs}{327}{subsection*.366}
+\contentsline {subsection}{Bar Graphs}{328}{subsection*.367}
+\contentsline {subsection}{Line Graphs}{328}{subsection*.368}
+\contentsline {subsection}{Scatterplots}{329}{subsection*.369}
+\contentsline {subsection}{Expressing Descriptive Statistics in Tables}{330}{subsection*.370}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{332}{subsection*.371}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{332}{subsection*.372}
+\contentsline {section}{Conducting Your Analyses}{332}{section*.373}
+\contentsline {subsection}{Prepare Your Data for Analysis}{332}{subsection*.374}
+\contentsline {subsection}{Preliminary Analyses}{334}{subsection*.375}
+\contentsline {subsection}{Answer Your Research Questions}{335}{subsection*.376}
+\contentsline {subsection}{Understand Your Descriptive Statistics}{336}{subsection*.377}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{336}{subsection*.378}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{337}{subsection*.379}
+\contentsline {chapter}{14 Inferential Statistics}{339}{chapter*.380}
+\contentsline {section}{Understanding Null Hypothesis Testing}{340}{section*.381}
+\contentsline {subsection}{The Purpose of Null Hypothesis Testing}{340}{subsection*.382}
+\contentsline {subsection}{The Logic of Null Hypothesis Testing}{341}{subsection*.383}
+\contentsline {subsection}{Role of Sample Size and Relationship Strength}{343}{subsection*.384}
+\contentsline {subsection}{Statistical Significance Versus Practical Significance}{344}{subsection*.385}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{345}{subsection*.386}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{345}{subsection*.387}
+\contentsline {section}{Some Basic Null Hypothesis Tests}{346}{section*.388}
+\contentsline {subsection}{The t Test}{346}{subsection*.389}
+\contentsline {subsection}{One-Sample t Test}{346}{subsection*.390}
+\contentsline {subsection}{Example One-Sample t Test}{348}{subsection*.391}
+\contentsline {subsection}{The Dependent-Samples t Test}{349}{subsection*.392}
+\contentsline {subsection}{Example Dependent-Samples t Test}{350}{subsection*.393}
+\contentsline {subsection}{The Independent-Samples t Test}{351}{subsection*.394}
+\contentsline {subsection}{Example Independent-Samples t test}{351}{subsection*.395}
+\contentsline {subsection}{The Analysis of Variance}{352}{subsection*.396}
+\contentsline {subsection}{One-Way ANOVA}{352}{subsection*.397}
+\contentsline {subsection}{Example One-Way ANOVA}{353}{subsection*.398}
+\contentsline {subsection}{ANOVA Elaborations}{354}{subsection*.399}
+\contentsline {subsection}{Post Hoc Comparisons}{354}{subsection*.400}
+\contentsline {subsection}{Repeated-Measures ANOVA}{355}{subsection*.401}
+\contentsline {subsection}{Factorial ANOVA}{355}{subsection*.402}
+\contentsline {subsection}{Testing Pearson's r}{356}{subsection*.403}
+\contentsline {subsection}{Example Test of Pearson's r}{356}{subsection*.404}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{357}{subsection*.405}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{357}{subsection*.406}
+\contentsline {section}{Additional Considerations}{358}{section*.407}
+\contentsline {subsection}{Errors in Null Hypothesis Testing}{358}{subsection*.408}
+\contentsline {subsection}{Statistical Power}{360}{subsection*.409}
+\contentsline {subsection}{Computing Power Online}{361}{subsection*.410}
+\contentsline {subsection}{Problems With Null Hypothesis Testing, and Some Solutions}{362}{subsection*.411}
+\contentsline {subsection}{Criticisms of Null Hypothesis Testing}{362}{subsection*.412}
+\contentsline {subsection}{The end of p-values?}{363}{subsection*.413}
+\contentsline {subsection}{What to Do?}{363}{subsection*.414}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{364}{subsection*.415}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{365}{subsection*.416}
+\contentsline {section}{From the "Replicability Crisis" to Open Science Practices}{365}{section*.417}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Key Takeaways}}}{367}{subsection*.418}
+\contentsline {subsection}{\textls [200]{\MakeTextUppercase {Exercises}}}{367}{subsection*.419}
+\contentsline {chapter}{Bibliography}{369}{chapter*.420}
 \contentsfinish 
