@@ -1,46 +1,52 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Methods_Crump.aux
 The style file: apalike.bst
 Database file #1: MyLibrary.bib
-You've used 1 entry,
+Warning--I didn't find a database entry for "bem_writing_????"
+Warning--empty journal in koocher_bathroom_1977
+Warning--empty journal in lepore_expressive_2002
+Warning--empty journal in middlemist_what_1977
+Warning--empty journal in onwuegbuzie_evidence-based_2010
+You've used 148 entries,
             1935 wiz_defined-function locations,
-            477 strings with 3794 characters,
-and the built_in function-call counts, 333 in all, are:
-= -- 29
-> -- 13
-< -- 1
-+ -- 4
-- -- 4
-* -- 23
-:= -- 64
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 14
-empty$ -- 24
-format.name$ -- 7
-if$ -- 63
-int.to.chr$ -- 1
+            1232 strings with 28325 characters,
+and the built_in function-call counts, 55678 in all, are:
+= -- 5340
+> -- 2252
+< -- 99
++ -- 825
+- -- 744
+* -- 4834
+:= -- 9847
+add.period$ -- 442
+call.type$ -- 148
+change.case$ -- 1078
+chr.to.int$ -- 147
+cite$ -- 152
+duplicate$ -- 2096
+empty$ -- 3928
+format.name$ -- 968
+if$ -- 10675
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 9
+missing$ -- 182
+newline$ -- 741
+num.names$ -- 444
+pop$ -- 920
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 1112
 quote$ -- 0
-skip$ -- 11
+skip$ -- 1588
 stack$ -- 0
-substring$ -- 12
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 3743
+swap$ -- 183
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 2
+type$ -- 820
+warning$ -- 4
+while$ -- 468
 width$ -- 0
-write$ -- 14
+write$ -- 1886
+(There were 5 warnings)

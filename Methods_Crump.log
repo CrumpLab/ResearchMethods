@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  2 AUG 2017 09:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 AUG 2017 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -630,23 +630,61 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 12.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip90
+\LTright=\skip91
+\LTpre=\skip92
+\LTpost=\skip93
+\LTchunksize=\count141
+\LTcapwidth=\dimen148
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@cols=\count142
+\LT@rows=\count143
+\c@LT@tables=\count144
+\c@LT@chunks=\count145
+\LT@p@ftn=\toks26
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count146
+\@cmidlb=\count147
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count148
+\@lastruleclass=\count149
+\@thisrulewidth=\dimen161
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
-\MT@toks=\toks26
-\MT@count=\count141
+\MT@toks=\toks27
+\MT@count=\count150
 LaTeX Info: Redefining \textls on input line 774.
-\MT@outer@kern=\dimen148
+\MT@outer@kern=\dimen162
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
-\MT@listname@count=\count142
+\MT@listname@count=\count151
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 916.
 LaTeX Info: Redefining \lslig on input line 916.
-\MT@outer@space=\skip90
+\MT@outer@space=\skip94
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -658,12 +696,20 @@ Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count143
+\FV@CodeLineNo=\count152
 \FV@InFile=\read1
-\FV@TabBox=\box60
-\c@FancyVerbLine=\count144
-\FV@StepNumber=\count145
+\FV@TabBox=\box64
+\c@FancyVerbLine=\count153
+\FV@StepNumber=\count154
 \FV@OutFile=\write3
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip95
+\fb@frw=\dimen163
+\fb@frh=\dimen164
+\FrameRule=\dimen165
+\FrameSep=\dimen166
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -674,14 +720,6 @@ File: lstlang2.sty 2015/06/04 1.6 listings language file
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2015/06/04 1.6 listings language file
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/framed/framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip91
-\fb@frw=\dimen149
-\fb@frh=\dimen150
-\FrameRule=\dimen151
-\FrameSep=\dimen152
-)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 1997/06/16 v2.0g defines alltt environment
 )
@@ -691,127 +729,127 @@ tim
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 119.
+(hyperref)                removing `\\' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 119.
+(hyperref)                removing `\\' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 119.
+(hyperref)                removing `\afterassignment' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 119.
+(hyperref)                removing `\<def>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\f@size' on input line 119.
+(hyperref)                removing `\f@size' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 119.
+(hyperref)                removing `\afterassignment' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 119.
+(hyperref)                removing `\<def>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\f@baselineskip' on input line 119.
+(hyperref)                removing `\f@baselineskip' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 119.
+(hyperref)                removing `\<def>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\f@linespread' on input line 119.
+(hyperref)                removing `\f@linespread' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 119.
+(hyperref)                removing `\<let>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baselinestretch' on input line 119.
+(hyperref)                removing `\baselinestretch' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 119.
+(hyperref)                removing `\<def>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 119.
+(hyperref)                removing `\<def>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\font@name' on input line 119.
+(hyperref)                removing `\font@name' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\T1/cmr/m/n/10' on input line 119.
+(hyperref)                removing `\T1/cmr/m/n/10' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\abovedisplayskip' on input line 119.
+(hyperref)                removing `\abovedisplayskip' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\abovedisplayshortskip' on input line 119.
+(hyperref)                removing `\abovedisplayshortskip' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 119.
+(hyperref)                removing `\z@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\belowdisplayshortskip' on input line 119.
+(hyperref)                removing `\belowdisplayshortskip' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\p@' on input line 119.
+(hyperref)                removing `\p@' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 119.
+(hyperref)                removing `\<def>-command' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leftmargin' on input line 119.
+(hyperref)                removing `\leftmargin' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\belowdisplayskip' on input line 119.
+(hyperref)                removing `\belowdisplayskip' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\abovedisplayskip' on input line 119.
+(hyperref)                removing `\abovedisplayskip' on input line 162.
 
 \@indexfile=\write4
 \openout4 = `Methods_Crump.idx'.
@@ -822,22 +860,13 @@ Writing index file Methods_Crump.idx
 LaTeX Warning: Label `fig:testretest' multiply defined.
 
 
-LaTeX Warning: Label `fig:Bargraph' multiply defined.
-
-
-LaTeX Warning: Label `fig:noisydata' multiply defined.
+LaTeX Warning: Label `fig:confound' multiply defined.
 
 
 LaTeX Warning: Label `fig:confound' multiply defined.
 
 
 LaTeX Warning: Label `fig:Bargraph' multiply defined.
-
-
-LaTeX Warning: Label `fig:placebo' multiply defined.
-
-
-LaTeX Warning: Label `fig:latin' multiply defined.
 
 
 LaTeX Warning: Label `fig:qualtable' multiply defined.
@@ -848,37 +877,37 @@ LaTeX Warning: Label `fig:scales' multiply defined.
 )
 \openout1 = `Methods_Crump.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 124.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 167.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 167.
 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Try loading font information for T1+pplj on input line 124.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 167.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
-\AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring ON on input line 124.
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring ON on input line 167.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -886,11 +915,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count146
+\c@section@level=\count155
 )
-LaTeX Info: Redefining \ref on input line 124.
-LaTeX Info: Redefining \pageref on input line 124.
-LaTeX Info: Redefining \nameref on input line 124.
+LaTeX Info: Redefining \ref on input line 167.
+LaTeX Info: Redefining \pageref on input line 167.
+LaTeX Info: Redefining \nameref on input line 167.
 
 (./Methods_Crump.out) (./Methods_Crump.out)
 \@outlinefile=\write5
@@ -898,7 +927,7 @@ LaTeX Info: Redefining \nameref on input line 124.
 
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 124.
+LaTeX Info: Redefining \selectfont on input line 167.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -934,7 +963,7 @@ LaTeX Info: Redefining \selectfont on input line 124.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 124.
+LaTeX Info: Redefining \microtypecontext on input line 167.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -949,17 +978,17 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count147
-\scratchdimen=\dimen153
-\scratchbox=\box62
-\nofMPsegments=\count148
-\nofMParguments=\count149
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count150
-\MPscratchDim=\dimen154
-\MPnumerator=\count151
-\makeMPintoPDFobject=\count152
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count156
+\scratchdimen=\dimen167
+\scratchbox=\box66
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen168
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -978,35 +1007,40 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \langwohyphens=\language84
-\c@lstlisting=\count153
-LaTeX Font Info:    Try loading font information for T1+phv on input line 128.
+\c@lstlisting=\count162
+LaTeX Font Info:    Try loading font information for T1+phv on input line 171.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 128.
+(Font)              scaled to size 8.99994pt on input line 171.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.19989pt on input line 128.
+(Font)              scaled to size 16.19989pt on input line 171.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 32.39978pt on input line 128.
+(Font)              scaled to size 32.39978pt on input line 171.
+
+Overfull \hbox (60.02803pt too wide) in paragraph at lines 171--171
+\T1/phv/m/n/18/200ls JHANGIANI, I-CHANT A. CHI-ANG, DANA C. LEIGHTON[]  
+ []
+
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 128.
+(Font)              scaled to size 8.09995pt on input line 171.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 12.59991pt on input line 128.
- [1
+(Font)              scaled to size 12.59991pt on input line 171.
+[1
 
 
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 136.
+(Font)              scaled to size 9.85492pt on input line 179.
 
-Overfull \hbox (0.15958pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.15958pt too wide) in paragraph at lines 179--179
 \T1/phv/m/n/10.95/200ls (+13) NESS, SMOOTH-NESS, COLD-NESS, WARM-NESS: THEY HEF
 T, SHAKE, PUNCH, 
  []
@@ -1014,41 +1048,41 @@ T, SHAKE, PUNCH,
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 155.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 198.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 155.
+(Font)              scaled to size 8.50006pt on input line 198.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 155
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 198
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 198
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 198
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 198
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 198
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1059,7 +1093,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (0.10138pt too wide) in paragraph at lines 157--158
+Overfull \hbox (0.10138pt too wide) in paragraph at lines 200--201
 \T1/pplj/m/n/10 (+20) International License. And, incorporates the second U.S. 
 edition authored by Dana C. Leighton (Southern 
  []
@@ -1081,12 +1115,6 @@ LaTeX Warning: Marginpar on page 20 moved.
 Overfull \hbox (0.14651pt too wide) in paragraph at lines 38--39
 \T1/pplj/m/n/10 (+3) replication was the fascinating effect, first reported by 
 Simone Schnall 
- []
-
-
-Overfull \hbox (0.11389pt too wide) in paragraph at lines 38--39
-\T1/pplj/m/n/10 (+7) used in the original study. To be clear, at this stage we 
-are still unable 
  []
 
 [22]
@@ -1118,7 +1146,7 @@ Overfull \hbox (0.17201pt too wide) in paragraph at lines 79--80
  much of its subject matter (e.g., thoughts and 
  []
 
-[24] [25] <figures/C1Figure1.pdf, id=1578, 318.26404pt x 301.43375pt>
+[24] [25] <figures/C1Figure1.pdf, id=1650, 318.26404pt x 301.43375pt>
 File: figures/C1Figure1.pdf Graphic file (type pdf)
 
 <use figures/C1Figure1.pdf>
@@ -1201,6 +1229,18 @@ Overfull \hbox (0.12993pt too wide) in paragraph at lines 242--243
  have been shown 
  []
 
+
+Overfull \hbox (0.12738pt too wide) in paragraph at lines 244--245
+\T1/pplj/m/n/10 (+17) sci-en-tific re-search in clin-i-cal psy-chol-ogy to con-
+tinue, but it is also im- 
+ []
+
+
+Overfull \hbox (0.1026pt too wide) in paragraph at lines 244--245
+\T1/pplj/m/n/10 (+6) por-tant for clin-i-cians who never con-duct a sci-en-tifi
+c study them-selves 
+ []
+
 [33]
 Overfull \hbox (0.24811pt too wide) in paragraph at lines 249--250
 []\T1/pplj/m/n/10 (+19) The clinical practice of psychology—the diagnosis and
@@ -1219,13 +1259,19 @@ Overfull \hbox (0.12663pt too wide) in paragraph at lines 290--291
 e showed 
  []
 
+
+Overfull \hbox (0.12077pt too wide) in paragraph at lines 290--291
+\T1/pplj/m/n/10 (+8) spheres”. This claim is possibly sensible, because it co
+uld be tested 
+ []
+
 [36] [37]) [38] (./Chapter2_GettingStarted.tex [39
 
 ]
 
 LaTeX Warning: Marginpar on page 40 moved.
 
-[40] [41] <figures/C2F2_barchart.pdf, id=1725, 491.99286pt x 244.69397pt>
+[40] [41] <figures/C2F2_barchart.pdf, id=1824, 491.99286pt x 244.69397pt>
 File: figures/C2F2_barchart.pdf Graphic file (type pdf)
 
 <use figures/C2F2_barchart.pdf>
@@ -1238,7 +1284,7 @@ Overfull \hbox (0.11171pt too wide) in paragraph at lines 50--51
  []
 
 [42 <./figures/C2F2_barchart.pdf>]
-<figures/C2F3Correlation.pdf, id=1783, 497.51108pt x 254.75586pt>
+<figures/C2F3Correlation.pdf, id=1881, 497.51108pt x 254.75586pt>
 File: figures/C2F3Correlation.pdf Graphic file (type pdf)
 
 <use figures/C2F3Correlation.pdf>
@@ -1250,7 +1296,7 @@ Overfull \hbox (0.13281pt too wide) in paragraph at lines 62--63
 relationship 
  []
 
-<figures/C2F4Correlation2.pdf, id=1784, 492.92744pt x 140.32938pt>
+<figures/C2F4Correlation2.pdf, id=1882, 492.92744pt x 140.32938pt>
 File: figures/C2F4Correlation2.pdf Graphic file (type pdf)
 
 <use figures/C2F4Correlation2.pdf>
@@ -1262,7 +1308,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--68
  []
 
 [43 <./figures/C2F3Correlation.pdf> <./figures/C2F4Correlation2.pdf>]
-<figures/C2F5Ucurve.pdf, id=1873, 497.56076pt x 249.43156pt>
+<figures/C2F5Ucurve.pdf, id=1972, 497.56076pt x 249.43156pt>
 File: figures/C2F5Ucurve.pdf Graphic file (type pdf)
 
 <use figures/C2F5Ucurve.pdf>
@@ -1274,20 +1320,14 @@ Overfull \hbox (0.11623pt too wide) in paragraph at lines 83--84
 .79) between 
  []
 
-
-Overfull \hbox (0.13812pt too wide) in paragraph at lines 83--84
-\T1/pplj/m/n/10 (+20) however, that this does not mean that eating chocolate ca
-uses people 
- []
-
-<figures/C2F6NickCage.pdf, id=1913, 484.3719pt x 191.66527pt>
+<figures/C2F6NickCage.pdf, id=2013, 484.3719pt x 191.66527pt>
 File: figures/C2F6NickCage.pdf Graphic file (type pdf)
 
 <use figures/C2F6NickCage.pdf>
-Package pdftex.def Info: figures/C2F6NickCage.pdf used on input line 90.
+Package pdftex.def Info: figures/C2F6NickCage.pdf used on input line 88.
 (pdftex.def)             Requested size: 312.0pt x 123.46375pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--93
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
 
  []
 
@@ -1296,55 +1336,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--93
 LaTeX Warning: Marginpar on page 48 moved.
 
 
-Overfull \hbox (0.13095pt too wide) in paragraph at lines 142--143
+Overfull \hbox (0.13095pt too wide) in paragraph at lines 140--141
 \T1/pplj/m/n/10 (+6) Good research must begin with a good research question. Ye
 t coming 
  []
 
 
-Overfull \hbox (0.11122pt too wide) in paragraph at lines 142--143
+Overfull \hbox (0.11122pt too wide) in paragraph at lines 140--141
 \T1/pplj/m/n/10 (+7) up with good research questions is something that novice r
 esearchers 
  []
 
 [48] [49]
-Overfull \hbox (0.12912pt too wide) in paragraph at lines 164--165
+Overfull \hbox (0.12912pt too wide) in paragraph at lines 162--163
 \T1/pplj/m/n/10 (+16) between that behavior or characteristic and some other va
 riable. One 
  []
 
 
-Overfull \hbox (0.15616pt too wide) in paragraph at lines 176--177
+Overfull \hbox (0.15616pt too wide) in paragraph at lines 174--175
 \T1/pplj/m/n/10 (+12) scientifically? Although novice researchers often want to
  give up and 
  []
 
 [50]
-Overfull \hbox (0.11848pt too wide) in paragraph at lines 200--201
+Overfull \hbox (0.11848pt too wide) in paragraph at lines 198--199
 []\T1/pplj/m/n/10 (+9) First, a re-search ques-tion is in-ter-est-ing to the ex
 -tent that its an-swer 
  []
 
 
-Overfull \hbox (0.10666pt too wide) in paragraph at lines 200--201
+Overfull \hbox (0.10666pt too wide) in paragraph at lines 198--199
 \T1/pplj/m/n/10 (+10) tific re-search are no longer in-ter-est-ing as the sub-j
 ect of new em-pir-i-cal 
  []
 
 
-Overfull \hbox (0.13974pt too wide) in paragraph at lines 200--201
+Overfull \hbox (0.13974pt too wide) in paragraph at lines 198--199
 \T1/pplj/m/n/10 (+19) abil-i-ties are fairly sim-i-lar sug-gests the an-swer co
 uld be no. The ques- 
  []
 
 [51]
-Overfull \hbox (0.13667pt too wide) in paragraph at lines 207--208
+Overfull \hbox (0.13667pt too wide) in paragraph at lines 205--206
 \T1/pplj/m/n/10 (+18) they do not waste time and ef-fort pur-su-ing re-search t
 hat they can-not 
  []
 
 [52]
-Overfull \hbox (0.11517pt too wide) in paragraph at lines 216--217
+Overfull \hbox (0.11517pt too wide) in paragraph at lines 214--215
 []\T1/pplj/m/n/10 (+16) Research ideas can come from a variety of sources, incl
 uding informal observations, practical problems, 
  []
@@ -1354,7 +1394,7 @@ uding informal observations, practical problems,
 LaTeX Warning: Marginpar on page 55 moved.
 
 
-Overfull \hbox (0.10063pt too wide) in paragraph at lines 255--256
+Overfull \hbox (0.10063pt too wide) in paragraph at lines 253--254
 \T1/pplj/m/n/10 (+1) anony-mous and may not have any for-mal train-ing or ex-pe
 r-tise in that 
  []
@@ -1364,43 +1404,43 @@ r-tise in that
 LaTeX Warning: Marginpar on page 57 moved.
 
 
-Overfull \hbox (0.10301pt too wide) in paragraph at lines 273--274
+Overfull \hbox (0.10301pt too wide) in paragraph at lines 271--272
 \T1/pplj/m/n/10 (+13) search terms and re-turns any records that con-tain those
  search terms. 
  []
 
 
-Overfull \hbox (0.10022pt too wide) in paragraph at lines 273--274
+Overfull \hbox (0.10022pt too wide) in paragraph at lines 271--272
 \T1/pplj/m/n/10 (+19) pri-ate in-dex terms, PsycINFO in-cludes a the-saurus tha
 t can help you 
  []
 
 
-Overfull \hbox (0.1161pt too wide) in paragraph at lines 275--276
+Overfull \hbox (0.1161pt too wide) in paragraph at lines 273--274
 \T1/pplj/m/n/10 (+5) to recall experiences from when they were very young. If y
 ou were to 
  []
 
 
-Overfull \hbox (0.14297pt too wide) in paragraph at lines 275--276
+Overfull \hbox (0.14297pt too wide) in paragraph at lines 273--274
 \T1/pplj/m/n/10 (+18) enter "memory for early experiences" as your search term,
  PsycINFO 
  []
 
 [57]
-Overfull \hbox (0.13048pt too wide) in paragraph at lines 286--287
+Overfull \hbox (0.13048pt too wide) in paragraph at lines 284--285
 \T1/pplj/m/n/10 (+14) can be relevant to you. You can enter any search term in,
  and Google 
  []
 
-[58] <figures/CrumpPlosOne.png, id=2033, 851.18pt x 137.51375pt>
+[58] <figures/CrumpPlosOne.png, id=2140, 851.18pt x 137.51375pt>
 File: figures/CrumpPlosOne.png Graphic file (type png)
 
 <use figures/CrumpPlosOne.png>
-Package pdftex.def Info: figures/CrumpPlosOne.png used on input line 289.
+Package pdftex.def Info: figures/CrumpPlosOne.png used on input line 287.
 (pdftex.def)             Requested size: 480.0pt x 77.54852pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--292
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
 
  []
 
@@ -1408,25 +1448,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--292
 LaTeX Warning: Marginpar on page 59 moved.
 
 [59 <./figures/CrumpPlosOne.png>]
-Overfull \hbox (0.16107pt too wide) in paragraph at lines 309--310
+Overfull \hbox (0.16107pt too wide) in paragraph at lines 307--308
 \T1/pplj/m/n/10 (+10) successfully unless you have good reasons not to. Finally
 , you should 
  []
 
 
-Overfull \hbox (0.13805pt too wide) in paragraph at lines 311--312
+Overfull \hbox (0.13805pt too wide) in paragraph at lines 309--310
 \T1/pplj/m/n/10 (+12) a difficult question because it depends on how extensivel
 y your topic 
  []
 
 [60]
-Overfull \hbox (0.13103pt too wide) in paragraph at lines 317--318
+Overfull \hbox (0.13103pt too wide) in paragraph at lines 315--316
 \T1/pplj/m/n/10 (+19) problem. If you do not organize your literature review, t
 hen you will 
  []
 
 
-Overfull \hbox (0.13492pt too wide) in paragraph at lines 323--324
+Overfull \hbox (0.13492pt too wide) in paragraph at lines 321--322
 \T1/pplj/m/n/10 (+14) database. This makes it is easy to find all of our pa-per
 s, be-cause they 
  []
@@ -1438,89 +1478,95 @@ s, be-cause they
 LaTeX Warning: Marginpar on page 64 moved.
 
 
-Overfull \hbox (0.14014pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.14014pt too wide) in paragraph at lines 62--63
 \T1/pplj/m/n/10 (+12) stepping onto a bathroom scale, or checking the internal 
 temperature 
  []
 
 [64]
-Overfull \hbox (0.1418pt too wide) in paragraph at lines 64--65
+Overfull \hbox (0.1418pt too wide) in paragraph at lines 68--69
 \T1/pplj/m/n/10 (+13) systematic procedure for assigning scores to individuals 
 or objects so 
  []
 
-[65] <figures/C5bigfive.pdf, id=2083, 459.5233pt x 196.00208pt>
+[65] <figures/C5bigfive.pdf, id=2201, 459.5233pt x 196.00208pt>
 File: figures/C5bigfive.pdf Graphic file (type pdf)
 
 <use figures/C5bigfive.pdf>
-Package pdftex.def Info: figures/C5bigfive.pdf used on input line 78.
+Package pdftex.def Info: figures/C5bigfive.pdf used on input line 82.
 (pdftex.def)             Requested size: 312.0pt x 133.08224pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--82
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 
  []
 
 
-Overfull \hbox (0.1006pt too wide) in paragraph at lines 87--88
+Overfull \hbox (0.1006pt too wide) in paragraph at lines 91--92
 []\T1/pplj/m/n/10 (+7) Students some-times won-der why, when re-searchers want 
 to un-der- 
  []
 
 
-Overfull \hbox (0.13724pt too wide) in paragraph at lines 87--88
+Overfull \hbox (0.13724pt too wide) in paragraph at lines 91--92
 \T1/pplj/m/n/10 (+9) de-vel-op-ing def-i-ni-tions that are more de-tailed and p
 re-cise—and that 
  []
 
 
-Overfull \hbox (0.11063pt too wide) in paragraph at lines 87--88
+Overfull \hbox (0.11063pt too wide) in paragraph at lines 91--92
 \T1/pplj/m/n/10 (+2) def-i-ni-tion has been re-placed by a newer one that fits 
 and works bet-ter. 
  []
 
 [66 <./figures/C5bigfive.pdf>]
-Overfull \hbox (0.10587pt too wide) in paragraph at lines 91--92
+Overfull \hbox (0.10587pt too wide) in paragraph at lines 95--96
 \T1/pplj/m/n/10 (+13) cludes the ob-ser-va-tion of peo-ple's be-hav-ior both in
  highly struc-tured 
  []
 
 [67]
-Overfull \hbox (0.12973pt too wide) in paragraph at lines 99--100
+Overfull \hbox (0.15016pt too wide) in paragraph at lines 99--100
+\T1/pplj/m/n/10 (+20) and Miller[][], [][]2004[][]). This is what al-lows re-se
+archers even-tu-ally to draw 
+ []
+
+
+Overfull \hbox (0.12973pt too wide) in paragraph at lines 103--104
 \T1/pplj/m/n/10 (+6) second-place run-ner took longer to fin-ish than the first
 - place fin-isher, 
  []
 
 [68]
-Overfull \hbox (0.13658pt too wide) in paragraph at lines 103--104
+Overfull \hbox (0.13658pt too wide) in paragraph at lines 107--108
 \T1/pplj/m/n/10 (+7) crowave ovens might ask them to spec-ify their feel-ings a
 s ei-ther "very 
  []
 
 
-Overfull \hbox (0.1342pt too wide) in paragraph at lines 105--107
+Overfull \hbox (0.1342pt too wide) in paragraph at lines 109--111
 \T1/pplj/m/n/10 (+1) ex-am-ine. In par-tic-u-lar, the dif-fer-ence be-tween two
  lev-els of an or-di-nal 
  []
 
 [69]
-Overfull \hbox (0.11949pt too wide) in paragraph at lines 110--111
+Overfull \hbox (0.11949pt too wide) in paragraph at lines 114--115
 \T1/pplj/m/n/10 (+16) In psychology, the intelligence quotient (IQ) is often co
 nsidered to be 
  []
 
-[70] <figures/C5Mscales.pdf, id=2152, 352.32124pt x 101.70186pt>
+[70] <figures/C5Mscales.pdf, id=2283, 352.32124pt x 101.70186pt>
 File: figures/C5Mscales.pdf Graphic file (type pdf)
 
 <use figures/C5Mscales.pdf>
-Package pdftex.def Info: figures/C5Mscales.pdf used on input line 120.
+Package pdftex.def Info: figures/C5Mscales.pdf used on input line 124.
 (pdftex.def)             Requested size: 312.0pt x 90.06432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
  []
 
 [71 <./figures/C5Mscales.pdf>]
-Overfull \hbox (0.18616pt too wide) in paragraph at lines 148--149
+Overfull \hbox (0.18616pt too wide) in paragraph at lines 152--153
 []\T1/pplj/m/n/10 (+9) A researcher accesses her participants’ medical record
 s and counts the number of times they have 
  []
@@ -1530,60 +1576,60 @@ s and counts the number of times they have
 LaTeX Warning: Marginpar on page 73 moved.
 
 
-Overfull \hbox (0.11885pt too wide) in paragraph at lines 166--167
+Overfull \hbox (0.11885pt too wide) in paragraph at lines 170--171
 \T1/pplj/m/n/10 (+20) re-searchers know that the scores ac-tu-ally rep-re-sent 
 the char-ac-ter-is-tic, 
  []
 
 [73]
-Overfull \hbox (0.1402pt too wide) in paragraph at lines 179--180
+Overfull \hbox (0.1402pt too wide) in paragraph at lines 183--184
 \T1/pplj/m/n/10 (+7) between the two sets of scores. This is typically done by 
 graphing the 
  []
 
-<figures/C5testretest.pdf, id=2205, 491.95868pt x 245.52217pt>
+<figures/C5testretest.pdf, id=2337, 491.95868pt x 245.52217pt>
 File: figures/C5testretest.pdf Graphic file (type pdf)
 
 <use figures/C5testretest.pdf>
-Package pdftex.def Info: figures/C5testretest.pdf used on input line 182.
+Package pdftex.def Info: figures/C5testretest.pdf used on input line 186.
 (pdftex.def)             Requested size: 312.0pt x 155.71378pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--185
+Underfull \hbox (badness 10000) in paragraph at lines 186--189
 
  []
 
 [74 <./figures/C5testretest.pdf>]
-<figures/C5internal.pdf, id=2250, 483.38922pt x 242.29893pt>
+<figures/C5internal.pdf, id=2382, 483.38922pt x 242.29893pt>
 File: figures/C5internal.pdf Graphic file (type pdf)
 
 <use figures/C5internal.pdf>
-Package pdftex.def Info: figures/C5internal.pdf used on input line 197.
+Package pdftex.def Info: figures/C5internal.pdf used on input line 201.
 (pdftex.def)             Requested size: 312.0pt x 156.39067pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--200
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 
  []
 
 
-Overfull \hbox (0.1257pt too wide) in paragraph at lines 203--204
+Overfull \hbox (0.1257pt too wide) in paragraph at lines 207--208
 \T1/pplj/m/n/10 (+10) researchers in psychology is a statistic called Cronbach'
 s $\OML/zplm/m/it/10 $ \T1/pplj/m/n/10 (+10) (the Greek 
  []
 
 
-Overfull \hbox (0.11403pt too wide) in paragraph at lines 203--204
+Overfull \hbox (0.11403pt too wide) in paragraph at lines 207--208
 \T1/pplj/m/n/10 (+16) of this statistic. Again, a value of +.80 or greater is g
 enerally taken to 
  []
 
 [75 <./figures/C5internal.pdf>]
-Overfull \hbox (0.11151pt too wide) in paragraph at lines 211--212
+Overfull \hbox (0.11151pt too wide) in paragraph at lines 215--216
 \T1/pplj/m/n/10 (+17) judgment? We have already considered one factor that they
  take into 
  []
 
 [76] [77] [78]
-Overfull \hbox (0.12314pt too wide) in paragraph at lines 239--240
+Overfull \hbox (0.12314pt too wide) in paragraph at lines 243--244
 \T1/pplj/m/n/10 (+11) ways. All these low correlations provide evidence that th
 e measure is 
  []
@@ -1593,273 +1639,460 @@ e measure is
 LaTeX Warning: Marginpar on page 81 moved.
 
 
-Overfull \hbox (0.14482pt too wide) in paragraph at lines 278--279
+Overfull \hbox (0.14482pt too wide) in paragraph at lines 282--283
 \T1/pplj/m/n/10 (+2) defin-ing the con-struct, (c) im-ple-ment-ing the mea-sure
 , and (d) eval-u-at- 
  []
 
 
-Overfull \hbox (0.11827pt too wide) in paragraph at lines 282--283
+Overfull \hbox (0.11827pt too wide) in paragraph at lines 286--287
 \T1/pplj/m/n/10 (+7) memory (memory for facts), then having participants rememb
 er a list 
  []
 
 
-Overfull \hbox (0.1244pt too wide) in paragraph at lines 288--289
+Overfull \hbox (0.1244pt too wide) in paragraph at lines 292--293
 \T1/pplj/m/n/10 (+1) is already some evidence that the measure is valid (if it 
 has been used 
  []
 
 [81]
-Overfull \hbox (0.10623pt too wide) in paragraph at lines 292--293
+Overfull \hbox (0.10623pt too wide) in paragraph at lines 296--297
 \T1/pplj/m/n/10 (+14) and the Men-tal Mea-sure-ments Year-book. There is a good
  chance you 
  []
 
 [82]
-Overfull \hbox (0.1223pt too wide) in paragraph at lines 302--304
+Overfull \hbox (0.1223pt too wide) in paragraph at lines 306--307
 []\T1/pplj/m/n/10 (+2) The need for brevity, how-ever, needs to be weighed agai
 nst the fact 
  []
 
 [83]
-Overfull \hbox (0.15009pt too wide) in paragraph at lines 311--312
+Overfull \hbox (0.15009pt too wide) in paragraph at lines 314--315
 \T1/pplj/m/n/10 (+7) ways they be-lieve they are ex-pected to. They might en-ga
 ge in so-cially 
  []
 
 
-Overfull \hbox (0.14215pt too wide) in paragraph at lines 311--312
+Overfull \hbox (0.14215pt too wide) in paragraph at lines 314--315
 \T1/pplj/m/n/10 (+18) to be-have. For ex-am-ple, a par-tic-i-pant whose at-ti-t
 ude to-ward ex-er-cise 
  []
 
 [84]
-Overfull \hbox (0.14027pt too wide) in paragraph at lines 320--321
+Overfull \hbox (0.14027pt too wide) in paragraph at lines 323--324
 \T1/pplj/m/n/10 (+7) measure, you might design a study specifically to assess i
 ts test-retest 
  []
 
 
-Overfull \hbox (0.10483pt too wide) in paragraph at lines 320--321
+Overfull \hbox (0.10483pt too wide) in paragraph at lines 323--324
 \T1/pplj/m/n/10 (+11) times. In other cases, a study designed to answer a diffe
 rent question 
  []
 
 
-Overfull \hbox (0.10172pt too wide) in paragraph at lines 320--321
+Overfull \hbox (0.10172pt too wide) in paragraph at lines 323--324
 \T1/pplj/m/n/10 (+12) change, he could still look at the correlation between st
 udents' scores 
  []
 
 [85]) [86] (./Chapter4_SingleFactor.tex
-Overfull \hbox (0.1167pt too wide) in paragraph at lines 8--9
-\T1/pplj/m/n/10 (+7) she would be hav-ing a dis-cus-sion about uni-ver-sity lif
-e with other stu- 
+<figures/lightswitch.png, id=2494, 397.485pt x 399.4925pt>
+File: figures/lightswitch.png Graphic file (type png)
+
+<use figures/lightswitch.png>
+Package pdftex.def Info: figures/lightswitch.png used on input line 8.
+(pdftex.def)             Requested size: 144.0pt x 144.73155pt.
+
+Overfull \hbox (2.328pt too wide) in paragraph at lines 7--9
+ []  
  []
 
 [87
 
-] [88]
+ <./figures/lightswitch.png>]
+Overfull \hbox (0.13669pt too wide) in paragraph at lines 19--20
+\T1/pplj/m/n/10 (+4) observe whether a light is on off, or perhaps use a specia
+l photometer 
+ []
 
-LaTeX Warning: Marginpar on page 89 moved.
+<figures/Light2.pdf, id=2500, 191.02235pt x 270.63861pt>
+File: figures/Light2.pdf Graphic file (type pdf)
+
+<use figures/Light2.pdf>
+Package pdftex.def Info: figures/Light2.pdf used on input line 22.
+(pdftex.def)             Requested size: 144.0pt x 204.02324pt.
+
+Overfull \hbox (2.328pt too wide) in paragraph at lines 21--23
+ []  
+ []
 
 
-Overfull \hbox (0.12773pt too wide) in paragraph at lines 42--43
+LaTeX Warning: Marginpar on page 88 moved.
+
+[88 <./figures/Light2.pdf>] [89]
+Overfull \hbox (0.15613pt too wide) in paragraph at lines 61--63
+\T1/pplj/m/n/10 (+19) help. However, recent scholarship suggests that the stand
+ard story is 
+ []
+
+
+Overfull \hbox (0.12625pt too wide) in paragraph at lines 61--63
+\T1/pplj/m/n/10 (+1) from other equally interesting and important issues in the
+ psychology 
+ []
+
+[90]
+
+LaTeX Warning: Marginpar on page 91 moved.
+
+
+Overfull \hbox (0.12773pt too wide) in paragraph at lines 83--84
 \T1/pplj/m/n/10 (+4) signed specif-i-cally to an-swer the ques-tion of whether 
 there is a causal 
  []
 
-[89]
-Overfull \hbox (0.11919pt too wide) in paragraph at lines 53--54
-\T1/pplj/m/n/10 (+10) as-sump-tion : If the re-searcher cre-ates two or more hi
-ghly sim-i-lar con- 
+
+Overfull \hbox (0.12253pt too wide) in paragraph at lines 83--84
+\T1/pplj/m/n/10 (+16) tem-at-i-cally chang-ing its lev-els and con-trol other v
+ari-ables by hold-ing 
  []
 
-
-Overfull \hbox (0.10474pt too wide) in paragraph at lines 55--56
+[91]
+Overfull \hbox (0.10474pt too wide) in paragraph at lines 95--96
 \T1/pplj/m/n/10 (+19) and the control of extraneous variables---provides strong
  support for 
  []
 
-[90]
-Overfull \hbox (0.1443pt too wide) in paragraph at lines 63--65
+[92]
+Overfull \hbox (0.1443pt too wide) in paragraph at lines 101--102
 \T1/pplj/m/n/10 (+5) in-crease would be true for other shop-pers in other store
 s. Their study 
  []
 
 
-Overfull \hbox (0.11676pt too wide) in paragraph at lines 67--68
+Overfull \hbox (0.11676pt too wide) in paragraph at lines 103--104
 \T1/pplj/m/n/10 (+13) cause, and a third emphasized that most hotel guests choo
 se to reuse 
  []
 
-[91]
-Overfull \hbox (0.11464pt too wide) in paragraph at lines 70--71
+[93]
+Overfull \hbox (0.11464pt too wide) in paragraph at lines 105--106
 \T1/pplj/m/n/10 (+16) study, but not the men, per-formed worse on the math test
  when they 
  []
 
-[92]
-Overfull \hbox (0.10959pt too wide) in paragraph at lines 108--109
-\T1/pplj/m/n/10 (+17) stein, Cial-dini, & Griske-vi-cius, 2008)6. Mor-ling (201
-4) points out that 
+
+Overfull \hbox (0.11357pt too wide) in paragraph at lines 109--110
+\T1/pplj/m/n/10 (+20) sign, we would say that the con-struct va-lid-ity was ver
+y high be-cause 
  []
 
-[93]
-Overfull \hbox (0.11845pt too wide) in paragraph at lines 119--122
+[94] [95]
+Overfull \hbox (0.11845pt too wide) in paragraph at lines 125--126
 \T1/pplj/m/n/10 (+15) short de-scrip-tive names to make it easy to talk and wri
 te about them. 
  []
 
-[94] [95] <figures/C6noisydata.pdf, id=2389, 228.60957pt x 274.88828pt>
+[96] [97] <figures/C6noisydata.pdf, id=2599, 228.60957pt x 274.88828pt>
 File: figures/C6noisydata.pdf Graphic file (type pdf)
 
 <use figures/C6noisydata.pdf>
-Package pdftex.def Info: figures/C6noisydata.pdf used on input line 171.
+Package pdftex.def Info: figures/C6noisydata.pdf used on input line 142.
 (pdftex.def)             Requested size: 144.0pt x 173.15955pt.
 
-Overfull \hbox (2.328pt too wide) in paragraph at lines 170--172
+Overfull \hbox (2.328pt too wide) in paragraph at lines 141--143
  []  
  []
 
 
-Overfull \hbox (0.10168pt too wide) in paragraph at lines 181--182
+Overfull \hbox (0.10168pt too wide) in paragraph at lines 149--150
 \T1/pplj/m/n/10 (+12) am-ple, it might be un-clear whether re-sults ob-tained w
 ith a sam-ple of 
  []
 
-[96 <./figures/C6noisydata.pdf>]
-<figures/C6confound.pdf, id=2427, 489.25163pt x 246.51358pt>
+[98 <./figures/C6noisydata.pdf>]
+<figures/C6confound.pdf, id=2637, 489.25163pt x 246.51358pt>
 File: figures/C6confound.pdf Graphic file (type pdf)
 
 <use figures/C6confound.pdf>
-Package pdftex.def Info: figures/C6confound.pdf used on input line 189.
+Package pdftex.def Info: figures/C6confound.pdf used on input line 156.
 (pdftex.def)             Requested size: 144.0pt x 72.55536pt.
 
-Overfull \hbox (2.328pt too wide) in paragraph at lines 188--190
+Overfull \hbox (2.328pt too wide) in paragraph at lines 155--157
  []  
  []
 
-[97 <./figures/C6confound.pdf>] [98]
+[99 <./figures/C6confound.pdf>] [100]
 
-LaTeX Warning: Marginpar on page 99 moved.
+LaTeX Warning: Marginpar on page 101 moved.
 
 
-Overfull \hbox (0.13345pt too wide) in paragraph at lines 242--243
+Overfull \hbox (0.13345pt too wide) in paragraph at lines 209--210
 \T1/pplj/m/n/10 (+11) age lev-els of mo-ti-va-tion, sim-i-lar av-er-age num-ber
 s of health prob-lems, 
  []
 
 
-Overfull \hbox (0.15218pt too wide) in paragraph at lines 249--250
+Overfull \hbox (0.15218pt too wide) in paragraph at lines 216--217
 \T1/pplj/m/n/10 (+19) par-tic-i-pants to two con-di-tions would be to flip a co
 in for each one. If 
  []
 
-[99]
-Overfull \hbox (0.13708pt too wide) in paragraph at lines 251--252
+[101]
+Overfull \hbox (0.13708pt too wide) in paragraph at lines 218--219
 \T1/pplj/m/n/10 (+16) fixed number of participants, it is statistically most ef
 ficient to divide 
  []
 
-<figures/C6blockRandomization.pdf, id=2476, 117.52342pt x 194.53537pt>
+<figures/C6blockRandomization.pdf, id=2686, 117.52342pt x 194.53537pt>
 File: figures/C6blockRandomization.pdf Graphic file (type pdf)
 
 <use figures/C6blockRandomization.pdf>
-Package pdftex.def Info: figures/C6blockRandomization.pdf used on input line 25
-3.
+Package pdftex.def Info: figures/C6blockRandomization.pdf used on input line 22
+0.
 (pdftex.def)             Requested size: 144.0pt x 238.37468pt.
 
-Overfull \hbox (2.328pt too wide) in paragraph at lines 252--254
+Overfull \hbox (2.328pt too wide) in paragraph at lines 219--221
  []  
  []
 
-[100 <./figures/C6blockRandomization.pdf>]
-Overfull \hbox (0.11642pt too wide) in paragraph at lines 265--266
+[102 <./figures/C6blockRandomization.pdf>]
+Overfull \hbox (0.11642pt too wide) in paragraph at lines 230--231
 \T1/pplj/m/n/10 (+19) than participants in the control condition---for example,
  they are less 
  []
 
-[101]
-Overfull \hbox (0.13786pt too wide) in paragraph at lines 271--273
+[103]
+Overfull \hbox (0.13786pt too wide) in paragraph at lines 236--238
 \T1/pplj/m/n/10 (+16) treatment (a "sugar pill"). In research on psychotherapy 
 effectiveness, 
  []
 
-<figures/C6placebo.pdf, id=2519, 493.8872pt x 239.90428pt>
+<figures/C6placebo.pdf, id=2733, 493.8872pt x 239.90428pt>
 File: figures/C6placebo.pdf Graphic file (type pdf)
 
 <use figures/C6placebo.pdf>
-Package pdftex.def Info: figures/C6placebo.pdf used on input line 275.
+Package pdftex.def Info: figures/C6placebo.pdf used on input line 240.
 (pdftex.def)             Requested size: 312.0pt x 151.55414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--279
+Underfull \hbox (badness 10000) in paragraph at lines 240--244
 
  []
 
-[102 <./figures/C6placebo.pdf>] [103] [104]
-Overfull \hbox (0.12163pt too wide) in paragraph at lines 304--305
+[104 <./figures/C6placebo.pdf>]
+Overfull \hbox (0.11093pt too wide) in paragraph at lines 251--252
+\T1/pplj/m/n/10 (+1) fundamentally physiological. These include asthma, ulcers,
+ and warts 
+ []
+
+[105] [106]
+Overfull \hbox (0.12163pt too wide) in paragraph at lines 268--269
 \T1/pplj/m/n/10 (+4) Here, in-stead of ran-domly as-sign-ing to con-di-tions, t
 hey are ran-domly 
  []
 
-<figures/C6counterbalance.pdf, id=2579, 68.04869pt x 80.01334pt>
+<figures/C6counterbalance.pdf, id=2798, 68.04869pt x 80.01334pt>
 File: figures/C6counterbalance.pdf Graphic file (type pdf)
 
 <use figures/C6counterbalance.pdf>
-Package pdftex.def Info: figures/C6counterbalance.pdf used on input line 309.
+Package pdftex.def Info: figures/C6counterbalance.pdf used on input line 273.
 (pdftex.def)             Requested size: 144.0pt x 169.32219pt.
 
-Overfull \hbox (2.328pt too wide) in paragraph at lines 308--310
+Overfull \hbox (2.328pt too wide) in paragraph at lines 272--274
  []  
  []
 
 
-Overfull \hbox (0.1131pt too wide) in paragraph at lines 317--319
+Overfull \hbox (0.1131pt too wide) in paragraph at lines 281--283
 \T1/pplj/m/n/10 (+10) with other one-digit numbers (in which case it is relativ
 ely large) and 
  []
 
-[105 <./figures/C6counterbalance.pdf>]
-Overfull \hbox (0.14755pt too wide) in paragraph at lines 323--324
+[107 <./figures/C6counterbalance.pdf>]
+Overfull \hbox (0.14755pt too wide) in paragraph at lines 287--288
 \T1/pplj/m/n/10 (+12) quence that mixed the two types. The re-searcher could th
 en com-pute 
  []
 
-[106]
-Overfull \hbox (0.17967pt too wide) in paragraph at lines 340--341
+[108]
+Overfull \hbox (0.17967pt too wide) in paragraph at lines 304--305
 []\T1/pplj/m/n/10 (+17) Random assignment to conditions in between-subjects exp
 eriments or to orders of conditions in within- 
  []
 
-[107] [108]
+[109] [110]
 
-LaTeX Warning: Marginpar on page 109 moved.
+LaTeX Warning: Marginpar on page 111 moved.
 
-[109]
-Overfull \hbox (0.10898pt too wide) in paragraph at lines 402--404
+[111]
+Overfull \hbox (0.10898pt too wide) in paragraph at lines 366--367
 \T1/pplj/m/n/10 (+20) Marie-Agnès de Gail con-ducted a field ex-per-i-ment on
  the ef-fect of 
  []
 
 
-Overfull \hbox (0.10567pt too wide) in paragraph at lines 402--404
+Overfull \hbox (0.10567pt too wide) in paragraph at lines 366--367
 \T1/pplj/m/n/10 (+17) the con-fed-er-ate was free to choose which shop-pers he 
 would gaze at, 
  []
 
-[110] [111] [112] [113]) [114] (./Chapter5_Factorial.tex
+[112]
+Overfull \hbox (0.12666pt too wide) in paragraph at lines 376--377
+\T1/pplj/m/n/10 (+9) longer when the ex-per-i-menter was a woman, and fe-male p
+ar-tic-i-pants 
+ []
+
+[113] [114] [115] [116] [117] [118] (./ttest.tex
+<Ttest_files/figure-latex/unnamed-chunk-1-1.pdf, id=2919, 265.99374pt x 170.637
+5pt>
+File: Ttest_files/figure-latex/unnamed-chunk-1-1.pdf Graphic file (type pdf)
+ <use Ttest_files/figure-latex/unnamed-chunk-1-1.pdf>
+Package pdftex.def Info: Ttest_files/figure-latex/unnamed-chunk-1-1.pdf used on
+ input line 13.
+(pdftex.def)             Requested size: 265.99309pt x 170.63707pt.
+ [119 <./Ttest_files/figure-latex/unnamed-chunk-1-1.pdf>]
+<Ttest_files/figure-latex/unnamed-chunk-2-1.pdf, id=2931, 265.99374pt x 170.637
+5pt>
+File: Ttest_files/figure-latex/unnamed-chunk-2-1.pdf Graphic file (type pdf)
+ <use Ttest_files/figure-latex/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: Ttest_files/figure-latex/unnamed-chunk-2-1.pdf used on
+ input line 68.
+(pdftex.def)             Requested size: 265.99309pt x 170.63707pt.
+ [120]
+<Ttest_files/figure-latex/unnamed-chunk-3-1.pdf, id=2937, 265.99374pt x 170.637
+5pt>
+File: Ttest_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pdf)
+ <use Ttest_files/figure-latex/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: Ttest_files/figure-latex/unnamed-chunk-3-1.pdf used on
+ input line 87.
+(pdftex.def)             Requested size: 265.99309pt x 170.63707pt.
+ [121 <./Ttest_files/figure-latex/unnamed-chunk-2-1.pdf> <./Ttest_files/figure-
+latex/unnamed-chunk-3-1.pdf>]
+<Ttest_files/figure-latex/unnamed-chunk-4-1.pdf, id=2958, 279.0425pt x 172.645p
+t>
+File: Ttest_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type pdf)
+ <use Ttest_files/figure-latex/unnamed-chunk-4-1.pdf>
+Package pdftex.def Info: Ttest_files/figure-latex/unnamed-chunk-4-1.pdf used on
+ input line 101.
+(pdftex.def)             Requested size: 279.04181pt x 172.64456pt.
+ [122 <./Ttest_files/figure-latex/unnamed-chunk-4-1.pdf>]
+Overfull \hbox (0.10185pt too wide) in paragraph at lines 159--169
+\T1/pplj/m/n/10 (+19) for a dif-fer-ence in an ex-per-i-ment. By far the most c
+om-mon ap-proach 
+ []
+
+
+Overfull \hbox (0.14313pt too wide) in paragraph at lines 159--169
+\T1/pplj/m/n/10 (+20) about how they work. For now, we will briefly de-scribe t
+he three dif- 
+ []
+
+[123]
+Overfull \hbox (0.12556pt too wide) in paragraph at lines 180--190
+\T1/pplj/m/n/10 (+12) the p-value is very small (e.g., less than .05, or 5%), m
+any researchers 
+ []
+
+) (./OneWay.tex [124]
+<OneWay_files/figure-latex/unnamed-chunk-1-1.pdf, id=2979, 280.04625pt x 171.64
+125pt>
+File: OneWay_files/figure-latex/unnamed-chunk-1-1.pdf Graphic file (type pdf)
+ <use OneWay_files/figure-latex/unnamed-chunk-1-1.pdf>
+Package pdftex.def Info: OneWay_files/figure-latex/unnamed-chunk-1-1.pdf used o
+n input line 21.
+(pdftex.def)             Requested size: 187.2019pt x 114.74236pt.
+
+<OneWay_files/figure-latex/unnamed-chunk-2-1.pdf, id=2980, 280.04625pt x 171.64
+125pt>
+File: OneWay_files/figure-latex/unnamed-chunk-2-1.pdf Graphic file (type pdf)
+ <use OneWay_files/figure-latex/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: OneWay_files/figure-latex/unnamed-chunk-2-1.pdf used o
+n input line 33.
+(pdftex.def)             Requested size: 187.2019pt x 114.74236pt.
+ [125 <./OneWay_files/figure-latex/unnamed-chunk-1-1.pdf> <./OneWay_files/figur
+e-latex/unnamed-chunk-2-1.pdf>]
+
+LaTeX Warning: Marginpar on page 126 moved.
+
+
+Overfull \hbox (0.1379pt too wide) in paragraph at lines 86--96
+\T1/pplj/m/n/10 (+15) hood that the re-sults that they ob-served could have bee
+n ob-tained by 
+ []
+
+[126]
+LaTeX Font Info:    Font shape `T1/fvm/bx/n' in size <10> not available
+(Font)              Font shape `T1/fvm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
+(Font)              scaled to size 8.50006pt on input line 117.
+
+Overfull \hbox (0.13712pt too wide) in paragraph at lines 153--160
+\T1/pplj/m/n/10 (+4) condition. The numbers all represent the number of correct
+ly recalled 
+ []
+
+[127]
+Overfull \hbox (0.1239pt too wide) in paragraph at lines 244--246
+\T1/pplj/m/n/10 (+14) Now that the data is in long format we can easily make a 
+table of the 
+ []
+
+
+Overfull \hbox (0.11395pt too wide) in paragraph at lines 270--279
+[]\T1/pplj/m/n/10 (+10) We can now see the group means, but we can't see any me
+a-sure of 
+ []
+
+[128] [129]
+<OneWay_files/figure-latex/unnamed-chunk-8-1.pdf, id=3026, 280.04625pt x 167.62
+625pt>
+File: OneWay_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf)
+ <use OneWay_files/figure-latex/unnamed-chunk-8-1.pdf>
+Package pdftex.def Info: OneWay_files/figure-latex/unnamed-chunk-8-1.pdf used o
+n input line 341.
+(pdftex.def)             Requested size: 280.04555pt x 167.62582pt.
+
+Overfull \hbox (0.11824pt too wide) in paragraph at lines 343--346
+\T1/pplj/m/n/10 (+1) had hoped, Groups A and B appear to have recalled more wor
+ds than 
+ []
+
+
+Overfull \hbox (0.13739pt too wide) in paragraph at lines 349--354
+\T1/pplj/m/n/10 (+20) means, we still want to find out the prob-a-bil-ity that 
+this kind of find- 
+ []
+
+[130 <./OneWay_files/figure-latex/unnamed-chunk-8-1.pdf>]
+Overfull \hbox (0.13863pt too wide) in paragraph at lines 406--409
+[]\T1/pplj/m/n/10 (+3) So, we have to conduct additional tests between specific
+ conditions. 
+ []
+
+[131]
+LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10> not available
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 452.
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 8.50006pt on input line 452.
+
+Overfull \hbox (44.83997pt too wide) in paragraph at lines 466--479
+[][]  
+ []
+
+)) [132] (./Chapter5_Factorial.tex
 Overfull \hbox (0.17435pt too wide) in paragraph at lines 1--1
 \T1/phv/m/n/10.95/200ls (+13) THAT ITS EFFECTS ARE PARTICULARLY SIMPLY RELATED 
 TO VARIATIONS IN 
  []
 
-[115
+[133
 
 ]
 
-LaTeX Warning: Marginpar on page 116 moved.
+LaTeX Warning: Marginpar on page 134 moved.
 
 
 Overfull \hbox (0.1159pt too wide) in paragraph at lines 17--18
@@ -1868,181 +2101,359 @@ lud-ing mul-ti-ple
  []
 
 
-Overfull \hbox (0.10297pt too wide) in paragraph at lines 21--22
-\T1/pplj/m/n/10 (+2) Knasko was in-ter-ested in how dif-fer-ent odors af-fect p
-eo-ple's be-hav-ior 
+Overfull \hbox (0.14871pt too wide) in paragraph at lines 21--22
+\T1/pplj/m/n/10 (+8) in-de-pen-dent vari-able was whether par-tic-i-pants were 
+tested in a room 
  []
 
-[116] [117] [118] [119]
+[134] [135] [136] [137]
 
-LaTeX Warning: Marginpar on page 120 moved.
+LaTeX Warning: Marginpar on page 138 moved.
 
-[120] <figures/C8factorial.pdf, id=2701, 318.21545pt x 298.34683pt>
+[138] <figures/C8factorial.pdf, id=3089, 318.21545pt x 298.34683pt>
 File: figures/C8factorial.pdf Graphic file (type pdf)
 
 <use figures/C8factorial.pdf>
-Package pdftex.def Info: figures/C8factorial.pdf used on input line 96.
+Package pdftex.def Info: figures/C8factorial.pdf used on input line 90.
 (pdftex.def)             Requested size: 218.39905pt x 204.76695pt.
- [121 <./figures/C8factorial.pdf>]
-<figures/C83way.pdf, id=2741, 312.76057pt x 305.54912pt>
+ [139 <./figures/C8factorial.pdf>]
+<figures/C83way.pdf, id=3129, 312.76057pt x 305.54912pt>
 File: figures/C83way.pdf Graphic file (type pdf)
 
 <use figures/C83way.pdf>
-Package pdftex.def Info: figures/C83way.pdf used on input line 111.
+Package pdftex.def Info: figures/C83way.pdf used on input line 106.
 (pdftex.def)             Requested size: 218.39905pt x 213.3654pt.
- [122 <./figures/C83way.pdf>]
-Overfull \hbox (0.1391pt too wide) in paragraph at lines 126--127
+ [140 <./figures/C83way.pdf>]
+Overfull \hbox (0.1391pt too wide) in paragraph at lines 121--122
 \T1/pplj/m/n/10 (+4) subjects, or mixed, the actual assignment of participants 
 to conditions 
  []
 
-
-Overfull \hbox (0.12094pt too wide) in paragraph at lines 130--131
-\T1/pplj/m/n/10 (+20) ma-nip-u-lated in-de-pen-dent vari-able was the type of w
-ord. Some were 
- []
-
-[123]
-Overfull \hbox (0.102pt too wide) in paragraph at lines 132--133
+[141]
+Overfull \hbox (0.102pt too wide) in paragraph at lines 127--128
 \T1/pplj/m/n/10 (+7) hypochon-dri-a-sis, self-esteem, and so on), and as such t
 hey are by def- 
  []
 
 
-Overfull \hbox (0.13269pt too wide) in paragraph at lines 132--133
+Overfull \hbox (0.13269pt too wide) in paragraph at lines 127--128
 \T1/pplj/m/n/10 (+11) in hypochon-dri-a-sis or high in hypochon-dri-a-sis; they
  can-not be tested 
  []
 
 
-Overfull \hbox (0.13626pt too wide) in paragraph at lines 132--133
+Overfull \hbox (0.13626pt too wide) in paragraph at lines 127--128
 \T1/pplj/m/n/10 (+2) in both of these con-di-tions. Sec-ond, such stud-ies are 
 gen-er-ally con-sid- 
  []
 
 
-Overfull \hbox (0.13573pt too wide) in paragraph at lines 132--133
+Overfull \hbox (0.13573pt too wide) in paragraph at lines 127--128
 \T1/pplj/m/n/10 (+9) ered to be ex-per-i-ments as long as at least one in-de-pe
 n-dent vari-able is 
  []
 
-<figures/C8graphing.pdf, id=2797, 310.82755pt x 314.83394pt>
+<figures/C8graphing.pdf, id=3187, 310.82755pt x 314.83394pt>
 File: figures/C8graphing.pdf Graphic file (type pdf)
 
 <use figures/C8graphing.pdf>
-Package pdftex.def Info: figures/C8graphing.pdf used on input line 140.
+Package pdftex.def Info: figures/C8graphing.pdf used on input line 135.
 (pdftex.def)             Requested size: 218.39905pt x 221.22295pt.
 
-Overfull \hbox (0.1471pt too wide) in paragraph at lines 148--150
+Overfull \hbox (0.1471pt too wide) in paragraph at lines 143--144
 []\T1/pplj/m/n/10 (+8) Figure 8.3 shows re-sults for two hy-po-thet-i-cal fac-t
 o-rial ex-per-i-ments. 
  []
 
-[124] <figures/C8interactionbars.pdf, id=2802, 344.92876pt x 532.16235pt>
+[142] <figures/C8interactionbars.pdf, id=3193, 344.92876pt x 532.16235pt>
 File: figures/C8interactionbars.pdf Graphic file (type pdf)
 
 <use figures/C8interactionbars.pdf>
-Package pdftex.def Info: figures/C8interactionbars.pdf used on input line 156.
+Package pdftex.def Info: figures/C8interactionbars.pdf used on input line 150.
 (pdftex.def)             Requested size: 144.0pt x 222.16684pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 156--157
+Overfull \hbox (6.0pt too wide) in paragraph at lines 150--151
 [][]  
  []
 
 
-LaTeX Warning: Marginpar on page 125 moved.
+LaTeX Warning: Marginpar on page 143 moved.
 
 
-Overfull \hbox (0.10979pt too wide) in paragraph at lines 164--165
+Overfull \hbox (0.10979pt too wide) in paragraph at lines 158--159
 \T1/pplj/m/n/10 (+12) to con-sider for each in-de-pen-dent vari-able in the stu
 dy. The top panel 
  []
 
-[125 <./figures/C8graphing.pdf> <./figures/C8interactionbars.pdf>]
-<figures/C8interactionlines.pdf, id=2869, 360.51047pt x 700.02196pt>
+[143 <./figures/C8graphing.pdf> <./figures/C8interactionbars.pdf>]
+<figures/C8interactionlines.pdf, id=3260, 360.51047pt x 700.02196pt>
 File: figures/C8interactionlines.pdf Graphic file (type pdf)
 
 <use figures/C8interactionlines.pdf>
-Package pdftex.def Info: figures/C8interactionlines.pdf used on input line 174.
+Package pdftex.def Info: figures/C8interactionlines.pdf used on input line 167.
 
 (pdftex.def)             Requested size: 144.0pt x 279.6193pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 174--175
+Overfull \hbox (6.0pt too wide) in paragraph at lines 167--168
 [][]  
  []
 
 
-LaTeX Warning: Marginpar on page 126 moved.
+LaTeX Warning: Marginpar on page 144 moved.
 
-[126 <./figures/C8interactionlines.pdf>] [127]
+[144 <./figures/C8interactionlines.pdf>] [145] (./Factorial.tex [146]
+Overfull \hbox (0.14151pt too wide) in paragraph at lines 58--70
+[]\T1/pplj/m/n/10 (+12) More complicated factorial designs have more indepdent 
+variables 
+ []
 
-LaTeX Warning: Marginpar on page 128 moved.
+
+Overfull \hbox (0.11615pt too wide) in paragraph at lines 81--95
+[]\T1/pplj/m/n/10 (+5) More specif-i-cally, the anal-y-sis of fac-to-rial de-si
+gns are split into two 
+ []
+
+[147] [148]
+Underfull \vbox (badness 10000) detected at line 182
+ []
 
 
-Overfull \hbox (0.12035pt too wide) in paragraph at lines 235--236
+Underfull \vbox (badness 10000) detected at line 216
+ []
+
+
+Overfull \vbox (0.17633pt too high) has occurred while \output is active []
+
+
+[149]
+Underfull \vbox (badness 10000) detected at line 251
+ []
+
+
+<Factorial_files/figure-latex/unnamed-chunk-7-1.pdf, id=3315, 261.97874pt x 170
+.6375pt>
+File: Factorial_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type pdf
+)
+ <use Factorial_files/figure-latex/unnamed-chunk-7-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-7-1.pdf use
+d on input line 260.
+(pdftex.def)             Requested size: 261.9781pt x 170.63707pt.
+ [150 <./Factorial_files/figure-latex/unnamed-chunk-7-1.pdf>]
+Overfull \hbox (0.14642pt too wide) in paragraph at lines 268--274
+\T1/pplj/m/n/10 (+11) bars show the conditions where people wear hats, and the 
+green bars 
+ []
+
+
+<Factorial_files/figure-latex/unnamed-chunk-8-1.pdf, id=3330, 276.03125pt x 170
+.6375pt>
+File: Factorial_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf
+)
+ <use Factorial_files/figure-latex/unnamed-chunk-8-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-8-1.pdf use
+d on input line 283.
+(pdftex.def)             Requested size: 156.0pt x 96.439pt.
+
+<Factorial_files/figure-latex/unnamed-chunk-8-2.pdf, id=3331, 276.03125pt x 170
+.6375pt>
+File: Factorial_files/figure-latex/unnamed-chunk-8-2.pdf Graphic file (type pdf
+)
+ <use Factorial_files/figure-latex/unnamed-chunk-8-2.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-8-2.pdf use
+d on input line 286.
+(pdftex.def)             Requested size: 156.0pt x 96.439pt.
+ [151 <./Factorial_files/figure-latex/unnamed-chunk-8-1.pdf> <./Factorial_files
+/figure-latex/unnamed-chunk-8-2.pdf>]
+Overfull \hbox (0.11752pt too wide) in paragraph at lines 303--320
+\T1/pplj/m/n/10 (+14) that the shoe and hat in-de-pen-dent vari-ables do not in
+-ter-act. It would 
+ []
+
+
+Overfull \hbox (0.11917pt too wide) in paragraph at lines 303--320
+\T1/pplj/m/n/10 (+15) not hap-pen in our uni-verse. But in some other imag-i-na
+ry uni-verse, it 
+ []
+
+
+Overfull \hbox (0.14789pt too wide) in paragraph at lines 323--331
+\T1/pplj/m/n/10 (+13) tions of in-de-pen-dent vari-ables are not in-de-pen-dent
+ from one an-other 
+ []
+
+
+Overfull \vbox (0.63129pt too high) has occurred while \output is active []
+
+
+[152]
+Overfull \hbox (0.1524pt too wide) in paragraph at lines 370--381
+\T1/pplj/m/n/10 (+14) cause you are very hun-gry...hangry. I will pro-pose an e
+x-per-i-ment to 
+ []
+
+
+<Factorial_files/figure-latex/unnamed-chunk-10-1.pdf, id=3356, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-10-1.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-10-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-10-1.pdf us
+ed on input line 382.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+ [153 <./Factorial_files/figure-latex/unnamed-chunk-10-1.pdf>]
+<Factorial_files/figure-latex/unnamed-chunk-11-1.pdf, id=3368, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-11-1.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-11-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-11-1.pdf us
+ed on input line 437.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+
+Overfull \hbox (117.9781pt too wide) in paragraph at lines 437--437
+[]  
+ []
+
+
+<Factorial_files/figure-latex/unnamed-chunk-11-2.pdf, id=3369, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-11-2.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-11-2.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-11-2.pdf us
+ed on input line 439.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+
+Overfull \hbox (117.9781pt too wide) in paragraph at lines 439--439
+[]  
+ []
+
+
+LaTeX Warning: Marginpar on page 154 moved.
+
+[154 <./Factorial_files/figure-latex/unnamed-chunk-11-1.pdf> <./Factorial_files
+/figure-latex/unnamed-chunk-11-2.pdf>]
+Overfull \hbox (0.10172pt too wide) in paragraph at lines 484--498
+\T1/pplj/m/n/10 (+19) (4+5)/2 = 4.5. The mean for IV2 Level 2 is (3+8)/2 = 5.5.
+ So the main 
+ []
+
+
+Overfull \hbox (0.15503pt too wide) in paragraph at lines 501--515
+\T1/pplj/m/n/10 (+18) = 1. Next, look at the con-di-tion in the sec-ond row for
+ IV2 level 2. We 
+ []
+
+[155]
+<Factorial_files/figure-latex/unnamed-chunk-13-1.pdf, id=3394, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-13-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-13-1.pdf us
+ed on input line 518.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+ [156 <./Factorial_files/figure-latex/unnamed-chunk-13-1.pdf>]
+<Factorial_files/figure-latex/unnamed-chunk-14-1.pdf, id=3406, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-14-1.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-14-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-14-1.pdf us
+ed on input line 545.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+
+<Factorial_files/figure-latex/unnamed-chunk-15-1.pdf, id=3407, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-15-1.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-15-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-15-1.pdf us
+ed on input line 555.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+
+Overfull \hbox (0.1285pt too wide) in paragraph at lines 557--571
+\T1/pplj/m/n/10 (+3) again (2+9)/2 = 5.5. Again, there is a difference between 
+the means of 
+ []
+
+[157 <./Factorial_files/figure-latex/unnamed-chunk-14-1.pdf> <./Factorial_files
+/figure-latex/unnamed-chunk-15-1.pdf>]
+<Factorial_files/figure-latex/unnamed-chunk-16-1.pdf, id=3427, 261.97874pt x 16
+7.62625pt>
+File: Factorial_files/figure-latex/unnamed-chunk-16-1.pdf Graphic file (type pd
+f)
+ <use Factorial_files/figure-latex/unnamed-chunk-16-1.pdf>
+Package pdftex.def Info: Factorial_files/figure-latex/unnamed-chunk-16-1.pdf us
+ed on input line 583.
+(pdftex.def)             Requested size: 261.9781pt x 167.62582pt.
+)
+
+LaTeX Warning: Marginpar on page 158 moved.
+
+
+Overfull \hbox (0.12035pt too wide) in paragraph at lines 228--229
 \T1/pplj/m/n/10 (+11) (high vs. low) as between-subjects fac-tors. Will-ing-nes
 s to have un-pro- 
  []
 
-[128]
-Overfull \hbox (0.1209pt too wide) in paragraph at lines 244--245
+[158 <./Factorial_files/figure-latex/unnamed-chunk-16-1.pdf>]
+Overfull \hbox (0.1209pt too wide) in paragraph at lines 236--237
 \T1/pplj/m/n/10 (+9) mea-sure the need for cog-ni-tion for a large sam-ple of c
 ol-lege stu-dents, 
  []
 
-
-Overfull \hbox (0.12477pt too wide) in paragraph at lines 244--245
-\T1/pplj/m/n/10 (+18) re-sponse), and dog-ma-tism (Cac-cioppo & Petty, 1982)3. 
-The re-sults of 
- []
-
-<figures/C8need.pdf, id=2906, 368.80382pt x 104.72586pt>
+[159] <figures/C8need.pdf, id=3452, 368.80382pt x 104.72586pt>
 File: figures/C8need.pdf Graphic file (type pdf)
 
 <use figures/C8need.pdf>
-Package pdftex.def Info: figures/C8need.pdf used on input line 248.
+Package pdftex.def Info: figures/C8need.pdf used on input line 240.
 (pdftex.def)             Requested size: 218.39905pt x 62.01622pt.
 
-Overfull \hbox (0.11746pt too wide) in paragraph at lines 256--257
+Overfull \hbox (0.11746pt too wide) in paragraph at lines 248--249
 \T1/pplj/m/n/10 (+3) cially de-sir-able re-spond-ing was +.02, and so on. (Only
  half the ma-trix 
  []
 
-[129 <./figures/C8need.pdf>]
-Overfull \hbox (0.12831pt too wide) in paragraph at lines 267--268
+[160 <./figures/C8need.pdf>]
+Overfull \hbox (0.12831pt too wide) in paragraph at lines 258--259
 \T1/pplj/m/n/10 (+8) random assignment or by holding them constant as in an exp
 eriment, 
  []
 
-[130]
-Overfull \hbox (0.12004pt too wide) in paragraph at lines 269--270
+[161]
+Overfull \hbox (0.12004pt too wide) in paragraph at lines 260--261
 \T1/pplj/m/n/10 (+19) tended to give away more of their points than participant
 s who were 
  []
 
 
-Overfull \hbox (0.10672pt too wide) in paragraph at lines 271--272
+Overfull \hbox (0.10672pt too wide) in paragraph at lines 262--263
 \T1/pplj/m/n/10 (+12) na-tion of the in-de-pen-dent vari-ables. This re-gres-si
 on equa-tion has the 
  []
 
 
-Overfull \hbox (0.1256pt too wide) in paragraph at lines 278--279
+Overfull \hbox (0.1256pt too wide) in paragraph at lines 268--269
 \T1/pplj/m/n/10 (+6) to the de-pen-dent vari-able of hap-pi-ness. This is trick
 y be-cause in-come 
  []
 
 
-Overfull \hbox (0.1004pt too wide) in paragraph at lines 278--279
+Overfull \hbox (0.1004pt too wide) in paragraph at lines 268--269
 \T1/pplj/m/n/10 (+9) health make ex-tremely small con-tri-bu-tions to hap-pi-ne
 ss ex-cept in the 
  []
 
-[131]) [132] (./Chapter6_TheoryPhenomena.tex [133
+[162]
 
-]
+LaTeX Warning: Marginpar on page 163 moved.
 
-LaTeX Warning: Marginpar on page 134 moved.
+) [163] [164
+
+] (./Chapter6_TheoryPhenomena.tex [165]
+
+LaTeX Warning: Marginpar on page 166 moved.
 
 
 Overfull \hbox (0.1353pt too wide) in paragraph at lines 23--25
@@ -2056,803 +2467,782 @@ Overfull \hbox (0.10323pt too wide) in paragraph at lines 23--25
 oves health, 
  []
 
-[134]
+[166]
 Overfull \hbox (0.1322pt too wide) in paragraph at lines 37--38
 \T1/pplj/m/n/10 (+4) posed to a stim-u-lus, the more they like it---even when t
 he stim-u-lus 
  []
 
-[135]
-Overfull \hbox (0.10785pt too wide) in paragraph at lines 56--57
+[167]
+Overfull \hbox (0.10785pt too wide) in paragraph at lines 54--55
 \T1/pplj/m/n/10 (+10) a the-ory be-cause it is an ex-pla-na-tion of the di-ver-
 sity of life on earth--- 
  []
 
-[136]
-Overfull \hbox (0.1396pt too wide) in paragraph at lines 58--59
+[168]
+Overfull \hbox (0.1396pt too wide) in paragraph at lines 56--57
 []\T1/pplj/m/n/10 (+8) In ad-di-tion to the-ory, re-searchers in psy-chol-ogy u
 se sev-eral re-lated 
  []
 
 
-Overfull \hbox (0.12358pt too wide) in paragraph at lines 63--64
+Overfull \hbox (0.12358pt too wide) in paragraph at lines 61--62
 \T1/pplj/m/n/10 (+9) the clas-sic mul-ti-store model of hu-man mem-ory, which i
 s still cited by 
  []
 
-[137] <figures/C4Memory.pdf, id=2981, 490.74513pt x 154.91766pt>
+[169] <figures/C4Memory.pdf, id=3557, 490.74513pt x 154.91766pt>
 File: figures/C4Memory.pdf Graphic file (type pdf)
 
 <use figures/C4Memory.pdf>
-Package pdftex.def Info: figures/C4Memory.pdf used on input line 68.
+Package pdftex.def Info: figures/C4Memory.pdf used on input line 66.
 (pdftex.def)             Requested size: 312.0pt x 98.49454pt.
 
-Overfull \hbox (0.11108pt too wide) in paragraph at lines 81--82
+Overfull \hbox (0.11108pt too wide) in paragraph at lines 79--80
 \T1/pplj/m/n/10 (+4) ciently sum-ma-rizes many im-por-tant phe-nom-ena: the lim
 -ited ca-pac-ity 
  []
 
 
-Overfull \hbox (0.14386pt too wide) in paragraph at lines 81--82
+Overfull \hbox (0.14386pt too wide) in paragraph at lines 79--80
 \T1/pplj/m/n/10 (+5) the-ory, in-tel-li-gence con-sists of a gen-eral men-tal a
 bil-ity, g, plus a small 
  []
 
-[138 <./figures/C4Memory.pdf>]
-<figures/C4Intelligence.pdf, id=3020, 477.45686pt x 273.21182pt>
+[170 <./figures/C4Memory.pdf>]
+<figures/C4Intelligence.pdf, id=3602, 477.45686pt x 273.21182pt>
 File: figures/C4Intelligence.pdf Graphic file (type pdf)
 
 <use figures/C4Intelligence.pdf>
-Package pdftex.def Info: figures/C4Intelligence.pdf used on input line 86.
+Package pdftex.def Info: figures/C4Intelligence.pdf used on input line 84.
 (pdftex.def)             Requested size: 312.0pt x 178.54024pt.
 
-Overfull \hbox (0.13945pt too wide) in paragraph at lines 103--104
+Overfull \hbox (0.13945pt too wide) in paragraph at lines 101--102
 []\T1/pplj/m/n/10 (+12) In clin-i-cal psy-chol-ogy, treat-ment de-ci-sions are 
 of-ten guided by the- 
  []
 
-[139 <./figures/C4Intelligence.pdf>]
-Overfull \hbox (20.34724pt too wide) in paragraph at lines 121--122
+[171 <./figures/C4Intelligence.pdf>]
+Overfull \hbox (20.34724pt too wide) in paragraph at lines 114--115
 []\T1/pplj/m/n/10 (-20) Different the-o-ries of the same set of phe-nom-ena can
  be complementary--- 
  []
 
-[140]
+[172]
 
-LaTeX Warning: Marginpar on page 141 moved.
+LaTeX Warning: Marginpar on page 173 moved.
 
-[141] [142]
+[173] [174]
 
-LaTeX Warning: Marginpar on page 143 moved.
+LaTeX Warning: Marginpar on page 175 moved.
 
 
-Overfull \hbox (0.11967pt too wide) in paragraph at lines 221--222
+Overfull \hbox (0.11967pt too wide) in paragraph at lines 167--168
 \T1/pplj/m/n/10 (+18) important for them to see that some types of theories are
  well within 
  []
 
 
-Overfull \hbox (0.12213pt too wide) in paragraph at lines 229--230
+Overfull \hbox (0.12213pt too wide) in paragraph at lines 175--176
 \T1/pplj/m/n/10 (+8) People who are not familiar with scientific psychology are
  sometimes 
  []
 
-[143]
-Overfull \hbox (0.1088pt too wide) in paragraph at lines 240--241
+[175]
+Overfull \hbox (0.1088pt too wide) in paragraph at lines 186--187
 \T1/pplj/m/n/10 (+15) early stages of re-search when the phe-nom-ena of in-ter-
 est have not yet 
  []
 
 
-Overfull \hbox (0.10806pt too wide) in paragraph at lines 244--245
+Overfull \hbox (0.10806pt too wide) in paragraph at lines 190--191
 \T1/pplj/m/n/10 (+4) and di-ver-sity of the phe-nom-ena they ex-plain or in-ter
 -pret. Many early 
  []
 
-[144]
-Overfull \hbox (0.11732pt too wide) in paragraph at lines 254--255
+[176]
+Overfull \hbox (0.11732pt too wide) in paragraph at lines 200--201
 \T1/pplj/m/n/10 (+16) In addition to varying in formality and scope, theories i
 n psychology 
  []
 
-[145]
-Overfull \hbox (0.1272pt too wide) in paragraph at lines 264--266
+[177]
+Overfull \hbox (0.1272pt too wide) in paragraph at lines 210--211
 \T1/pplj/m/n/10 (+8) en-vi-ron-ment. Fa-mous stage the-o-ries in-clude Abra-ham
  Maslow's hi-er- 
  []
 
-[146] <figures/C4Hypo.pdf, id=3100, 484.91377pt x 182.5803pt>
+[178] <figures/C4Hypo.pdf, id=3700, 484.91377pt x 182.5803pt>
 File: figures/C4Hypo.pdf Graphic file (type pdf)
 
 <use figures/C4Hypo.pdf>
-Package pdftex.def Info: figures/C4Hypo.pdf used on input line 270.
+Package pdftex.def Info: figures/C4Hypo.pdf used on input line 214.
 (pdftex.def)             Requested size: 312.0pt x 117.47504pt.
- [147 <./figures/C4Hypo.pdf>]
 
-LaTeX Warning: Marginpar on page 148 moved.
+Underfull \hbox (badness 10000) in paragraph at lines 214--218
+
+ []
+
+[179 <./figures/C4Hypo.pdf>]
+
+LaTeX Warning: Marginpar on page 180 moved.
 
 
-Overfull \hbox (0.14993pt too wide) in paragraph at lines 326--327
+Overfull \hbox (0.14993pt too wide) in paragraph at lines 257--258
 \T1/pplj/m/n/10 (+20) the re-vised the-ory, con-duct a new em-pir-i-cal study t
 o test the hy-poth- 
  []
 
-
-Overfull \hbox (0.14297pt too wide) in paragraph at lines 328--330
-\T1/pplj/m/n/10 (+14) task for a cock-roach) to es-cape into a dark cham-ber wh
-en a light was 
- []
-
-[148] <figures/C4Theory.pdf, id=3149, 307.20781pt x 265.26021pt>
+[180] <figures/C4Theory.pdf, id=3752, 307.20781pt x 265.26021pt>
 File: figures/C4Theory.pdf Graphic file (type pdf)
 
 <use figures/C4Theory.pdf>
-Package pdftex.def Info: figures/C4Theory.pdf used on input line 334.
+Package pdftex.def Info: figures/C4Theory.pdf used on input line 263.
 (pdftex.def)             Requested size: 312.0pt x 269.41232pt.
- [149 <./figures/C4Theory.pdf>]
-Overfull \hbox (0.13606pt too wide) in paragraph at lines 359--360
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
+
+ []
+
+[181 <./figures/C4Theory.pdf>]
+Overfull \hbox (0.13606pt too wide) in paragraph at lines 283--284
 \T1/pplj/m/n/10 (+8) way is to generate a research question using the technique
 s discussed 
  []
 
-[150]
-Overfull \hbox (0.13568pt too wide) in paragraph at lines 370--371
+[182]
+Overfull \hbox (0.13568pt too wide) in paragraph at lines 292--293
 \T1/pplj/m/n/10 (+15) pli-ca-tions. First, con-firm-ing a hy-poth-e-sis can str
 engthen a the-ory but 
  []
 
 
-Overfull \hbox (0.15344pt too wide) in paragraph at lines 370--371
+Overfull \hbox (0.15344pt too wide) in paragraph at lines 292--293
 \T1/pplj/m/n/10 (+17) "prove" when talk-ing and writ-ing about the-o-ries. One 
 rea-son for this 
  []
 
 
-Overfull \hbox (0.13084pt too wide) in paragraph at lines 370--371
+Overfull \hbox (0.13084pt too wide) in paragraph at lines 292--293
 \T1/pplj/m/n/10 (+7) culty is a ver-sion of the fa-mous philo-soph-i-cal "prob-
 lem of in-duc-tion." 
  []
 
 
-Overfull \hbox (0.11841pt too wide) in paragraph at lines 370--371
+Overfull \hbox (0.11841pt too wide) in paragraph at lines 292--293
 \T1/pplj/m/n/10 (+8) One can-not defini-tively prove a gen-eral prin-ci-ple (e.
 g., "All swans are 
  []
 
-[151]
-Overfull \hbox (0.1328pt too wide) in paragraph at lines 373--374
+[183]
+Overfull \hbox (0.1328pt too wide) in paragraph at lines 294--295
 \T1/pplj/m/n/10 (+14) the theory and B is the hypothesis ("if A then B"), then 
 disconfirming 
  []
 
-[152]
-Overfull \hbox (0.12056pt too wide) in paragraph at lines 385--386
+[184]
+Overfull \hbox (0.12056pt too wide) in paragraph at lines 305--306
 \T1/pplj/m/n/10 (+2) people from driving." Or it might be tempting to describe 
 the positive 
  []
 
-[153]
-Overfull \hbox (0.10152pt too wide) in paragraph at lines 395--396
+
+Overfull \hbox (0.12169pt too wide) in paragraph at lines 308--309
+\T1/pplj/m/n/10 (+4) might be at a com-plete loss or say some-thing like, "Well
+, be-cause they 
+ []
+
+[185]
+Overfull \hbox (0.10152pt too wide) in paragraph at lines 314--315
 \T1/pplj/m/n/10 (+20) that existing theories need to be modified in some way. T
 hese would 
  []
 
 
-Overfull \hbox (0.14384pt too wide) in paragraph at lines 395--396
+Overfull \hbox (0.14384pt too wide) in paragraph at lines 314--315
 \T1/pplj/m/n/10 (+5) of an American Psychological Association (APA) style resea
 rch report 
  []
 
-[154]) [155] [156
+[186]) [187] [188
 
 ] (./Chapter7_Ethics.tex
-Overfull \hbox (0.14894pt too wide) in paragraph at lines 4--6
-\T1/pplj/m/n/10 (+15) risk for measles, mumps, and rubella. How-ever, follow-up
- stud-ies by 
+Overfull \hbox (0.10767pt too wide) in paragraph at lines 4--5
+\T1/pplj/m/n/10 (+20) se-ri-ous prob-lems with the orig-i-nal re-search were un
+-cov-ered. Among 
+ []
+
+[189]
+
+LaTeX Warning: Marginpar on page 190 moved.
+
+
+Overfull \hbox (0.11792pt too wide) in paragraph at lines 23--24
+\T1/pplj/m/n/10 (+15) people's rights and dignity. (These principles are adapte
+d from those 
  []
 
 
-Overfull \hbox (0.1421pt too wide) in paragraph at lines 4--6
-\T1/pplj/m/n/10 (+13) re-searcher's right to prac-tice medicine was re-voked (B
-urns, 2010). [1] 
+Overfull \hbox (0.12625pt too wide) in paragraph at lines 23--24
+\T1/pplj/m/n/10 (+18) into account how each of the four moral principles applie
+s to each of 
  []
 
-
-Overfull \hbox (0.13333pt too wide) in paragraph at lines 4--6
-\T1/pplj/m/n/10 (+4) ogy. We be-gin with a gen-eral frame-work for think-ing ab
-out the ethics 
- []
-
-
-Overfull \hbox (0.10518pt too wide) in paragraph at lines 4--6
-\T1/pplj/m/n/10 (+12) eth-i-cal codes for biomed-i-cal and be-hav-ioral researc
-hers---focusing on 
- []
-
-[157]
-
-LaTeX Warning: Marginpar on page 158 moved.
-
-
-Overfull \hbox (0.11188pt too wide) in paragraph at lines 16--19
-\T1/pplj/m/n/10 (+17) of the ethics of any research project must take into acco
-unt how each 
- []
-
-<figures/C3ethicsTable.pdf, id=3217, 391.84886pt x 122.47246pt>
+<figures/C3ethicsTable.pdf, id=3834, 391.84886pt x 122.47246pt>
 File: figures/C3ethicsTable.pdf Graphic file (type pdf)
 
 <use figures/C3ethicsTable.pdf>
-Package pdftex.def Info: figures/C3ethicsTable.pdf used on input line 21.
+Package pdftex.def Info: figures/C3ethicsTable.pdf used on input line 26.
 (pdftex.def)             Requested size: 312.0pt x 97.5165pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
 
  []
 
-[158 <./figures/C3ethicsTable.pdf>]
-Overfull \hbox (0.11914pt too wide) in paragraph at lines 30--32
+[190 <./figures/C3ethicsTable.pdf>]
+Overfull \hbox (0.11914pt too wide) in paragraph at lines 35--36
 \T1/pplj/m/n/10 (+9) misapplied with harmful consequences. The research that mi
 stakenly 
  []
 
 
-Overfull \hbox (0.12717pt too wide) in paragraph at lines 30--32
+Overfull \hbox (0.12717pt too wide) in paragraph at lines 35--36
 \T1/pplj/m/n/10 (+10) scientific research to science and society are that it ad
 vances scientific 
  []
 
 
-Overfull \hbox (0.12978pt too wide) in paragraph at lines 34--35
+Overfull \hbox (0.12978pt too wide) in paragraph at lines 38--39
 \T1/pplj/m/n/10 (+9) re-searcher said that he must con-tinue. In re-al-ity, the
  other par-tic-i-pant 
  []
 
-[159] [160] [161] [162]
-Overfull \hbox (0.17386pt too wide) in paragraph at lines 87--88
+[191] [192] [193] [194]
+Overfull \hbox (0.17386pt too wide) in paragraph at lines 88--89
 []\T1/pplj/m/n/10 (+15) A wide va-ri-ety of eth-i-cal is-sues arise in psy-cho-
 log-i-cal re-search. Think-ing them through re-quires con-sid- 
  []
 
 
-Overfull \hbox (0.14713pt too wide) in paragraph at lines 90--91
+Overfull \hbox (0.14713pt too wide) in paragraph at lines 89--90
 \T1/pplj/m/n/10 (+2) is-sues raised by their re-search, min-i-mize the risks, w
 eigh the risks against the ben-e-fits, be able to ex-plain 
  []
 
-[163]
+[195]
 
-LaTeX Warning: Marginpar on page 164 moved.
+LaTeX Warning: Marginpar on page 196 moved.
 
-[164]
+[196]
 
-LaTeX Warning: Marginpar on page 165 moved.
+LaTeX Warning: Marginpar on page 197 moved.
 
-[165]
-Overfull \hbox (0.1777pt too wide) in paragraph at lines 173--174
+[197]
+Overfull \hbox (0.1777pt too wide) in paragraph at lines 170--171
 \T1/pplj/m/n/10 (+19) ment to treat-ment and con-trol groups will be made; (4) 
 avail-able treat-ment al-ter-na-tives if an in-di-vid-ual 
  []
 
-[166]
-Overfull \hbox (0.13182pt too wide) in paragraph at lines 253--255
+[198]
+Overfull \hbox (0.13182pt too wide) in paragraph at lines 250--252
 \T1/pplj/m/n/10 (+18) deceptive techniques is justified by the study's signific
 ant prospective scientific, educational, or applied 
  []
 
 
-Overfull \hbox (0.15842pt too wide) in paragraph at lines 260--261
+Overfull \hbox (0.15842pt too wide) in paragraph at lines 257--258
 \T1/pplj/m/n/10 (+1) ment to par-tic-i-pants as early as is fea-si-ble, prefer-
 ably at the con-clu-sion of their par-tic-i-pa-tion, but no later 
  []
 
 
-Overfull \hbox (0.21307pt too wide) in paragraph at lines 269--270
+Overfull \hbox (0.21307pt too wide) in paragraph at lines 266--267
 \T1/pplj/m/n/10 (+1) the na-ture, re-sults, and con-clu-sions of the re-search,
  and they take rea-son-able steps to cor-rect any mis-con- 
  []
 
-[167]
-Overfull \hbox (0.16595pt too wide) in paragraph at lines 334--335
+[199]
+Overfull \hbox (0.16595pt too wide) in paragraph at lines 331--332
 []\T1/pplj/m/n/10 (+7) Principal authorship and other publication credits accur
 ately reflect the relative scientific or professional 
  []
 
 
-Overfull \hbox (0.12003pt too wide) in paragraph at lines 337--338
+Overfull \hbox (0.12003pt too wide) in paragraph at lines 334--335
 \T1/pplj/m/n/10 (+3) pub-li-ca-tion credit with stu-dents as early as fea-si-bl
 e and through-out the re-search and pub-li-ca-tion pro-cess 
  []
 
 
-Overfull \hbox (0.17102pt too wide) in paragraph at lines 359--360
+Overfull \hbox (0.17102pt too wide) in paragraph at lines 356--357
 \T1/pplj/m/n/10 (+19) par-tic-i-pants can be pro-tected and un-less le-gal righ
 ts con-cern-ing pro-pri-etary data pre-clude their re-lease. 
  []
 
-[168] [169]
-Overfull \hbox (0.1486pt too wide) in paragraph at lines 399--400
-\T1/pplj/m/n/10 (+6) generator, and presenting participants with false feedback
- about their 
+[200] [201]
+Overfull \hbox (0.1486pt too wide) in paragraph at lines 395--396
+\T1/pplj/m/n/10 (+6) gen-er-a-tor, and pre-sent-ing par-tic-i-pants with false 
+feed-back about their 
  []
 
-[170] [171]
-Overfull \hbox (0.13953pt too wide) in paragraph at lines 433--434
+[202]
+Overfull \hbox (0.11702pt too wide) in paragraph at lines 416--417
+[][]\T1/pplj/m/n/10 (+5) 1985[][]). It has also resulted in benefits to nonhuma
+n animals, including 
+ []
+
+[203]
+Overfull \hbox (0.13953pt too wide) in paragraph at lines 428--429
 \T1/pplj/m/n/10 (+14) research (e.g., analyzing some of the data) or for a facu
 lty member to 
  []
 
-[172] [173]
+[204]
+Overfull \hbox (0.11174pt too wide) in paragraph at lines 465--466
+[]\T1/pplj/m/n/10 (+9) Discussion: In a study on the effects of disgust on mora
+l judgment, participants were asked to judge the 
+ []
 
-LaTeX Warning: Marginpar on page 174 moved.
+[205]
+
+LaTeX Warning: Marginpar on page 206 moved.
 
 
-Overfull \hbox (0.14021pt too wide) in paragraph at lines 491--492
+Overfull \hbox (0.14021pt too wide) in paragraph at lines 486--487
 \T1/pplj/m/n/10 (+9) re-searcher is know and ac-cept your eth-i-cal re-spon-si-
 bil-i-ties. At a min-i- 
  []
 
 
-Overfull \hbox (0.17078pt too wide) in paragraph at lines 491--492
+Overfull \hbox (0.17078pt too wide) in paragraph at lines 486--487
 \T1/pplj/m/n/10 (+17) arises---you must seek clar-i-fi-ca-tion. You can do this
  by re-view-ing the 
  []
 
 
-Overfull \hbox (0.1103pt too wide) in paragraph at lines 497--498
+Overfull \hbox (0.1103pt too wide) in paragraph at lines 492--493
 \T1/pplj/m/n/10 (+1) were to most peo-ple. Re-mem-ber too that some risks might
  ap-ply only 
  []
 
-[174] [175] [176]
-Overfull \hbox (0.12292pt too wide) in paragraph at lines 520--521
+[206] [207] [208]
+Overfull \hbox (0.12292pt too wide) in paragraph at lines 512--513
 \T1/pplj/m/n/10 (+18) there should be more ben-e-fits. If the re-search has the
  po-ten-tial to up- 
  []
 
 
-Overfull \hbox (0.12277pt too wide) in paragraph at lines 523--524
+Overfull \hbox (0.12277pt too wide) in paragraph at lines 515--516
 \T1/pplj/m/n/10 (+15) study to them. Your uni-ver-sity, de-part-ment, or course
  in-struc-tor may 
  []
 
-[177]
-Overfull \hbox (0.14252pt too wide) in paragraph at lines 525--526
+[209]
+Overfull \hbox (0.14252pt too wide) in paragraph at lines 517--518
 \T1/pplj/m/n/10 (+18) pened in the other con-di-tions. If you de-ceived your pa
 r-tic-i-pants, you 
  []
 
 
-Overfull \hbox (0.12679pt too wide) in paragraph at lines 531--532
+Overfull \hbox (0.12679pt too wide) in paragraph at lines 523--524
 \T1/pplj/m/n/10 (+16) on the spe-cific poli-cies and pro-ce-dures at your in-st
 i-tu-tion or for your 
  []
 
-
-Overfull \hbox (0.14691pt too wide) in paragraph at lines 535--536
-\T1/pplj/m/n/10 (+19) other than a minor change. During the research, you shoul
-d monitor 
- []
-
-[178]
-Overfull \hbox (0.11482pt too wide) in paragraph at lines 537--538
+[210]
+Overfull \hbox (0.11482pt too wide) in paragraph at lines 529--530
 \T1/pplj/m/n/10 (+3) your sci-en-tific goal is to learn about the way the world
  ac-tu-ally is and 
  []
 
 
-Overfull \hbox (0.16505pt too wide) in paragraph at lines 548--550
+Overfull \hbox (0.16505pt too wide) in paragraph at lines 540--542
 \T1/pplj/m/n/10 (+19) and pro-vid-ing par-tic-i-pants with as much in-for-ma-ti
 on as pos-si-ble dur-ing in-formed con-sent and de-brief- 
  []
 
 
-Overfull \hbox (0.18532pt too wide) in paragraph at lines 565--566
+Overfull \hbox (0.18532pt too wide) in paragraph at lines 557--558
 []\T1/pplj/m/n/10 (+13) Discussion: How could you conduct a study on the extent
  to which people obey authority in a way that 
  []
 
-) [179] [180
+) [211] [212
 
 ] (./Chapter8_Control.tex
-Overfull \hbox (0.1167pt too wide) in paragraph at lines 8--9
-\T1/pplj/m/n/10 (+7) she would be hav-ing a dis-cus-sion about uni-ver-sity lif
-e with other stu- 
+Overfull \hbox (0.1218pt too wide) in paragraph at lines 9--10
+\T1/pplj/m/n/10 (+2) is al-most never guar-an-teed, and there are many pos-si-b
+le con-found-ing 
  []
 
-[181] [182]
-
-LaTeX Warning: Marginpar on page 183 moved.
-
-
-Overfull \hbox (0.12773pt too wide) in paragraph at lines 42--43
-\T1/pplj/m/n/10 (+4) signed specif-i-cally to an-swer the ques-tion of whether 
-there is a causal 
- []
-
-[183]
-Overfull \hbox (0.11919pt too wide) in paragraph at lines 53--54
-\T1/pplj/m/n/10 (+10) as-sump-tion : If the re-searcher cre-ates two or more hi
-ghly sim-i-lar con- 
+[213]
+Overfull \hbox (0.13791pt too wide) in paragraph at lines 13--14
+\T1/pplj/m/it/10 (+1) chance \T1/pplj/m/n/10 (+1) and mea-sure-ment vari-abil-i
+ty (or er-ror) can pro-duce the ap-pear- 
  []
 
 
-Overfull \hbox (0.10474pt too wide) in paragraph at lines 55--56
-\T1/pplj/m/n/10 (+19) and the control of extraneous variables---provides strong
- support for 
+Overfull \hbox (0.14702pt too wide) in paragraph at lines 23--24
+\T1/pplj/m/n/10 (+15) ther, 1) re-ceive the full lig-a-tion surgery, or 2) fol-
+low all of the surgery 
  []
 
-[184]
-Overfull \hbox (0.1443pt too wide) in paragraph at lines 63--65
-\T1/pplj/m/n/10 (+5) in-crease would be true for other shop-pers in other store
-s. Their study 
+[214]
+Overfull \hbox (0.12093pt too wide) in paragraph at lines 29--30
+\T1/pplj/m/n/10 (+3) time how long each person took to walk from the door to th
+e elevator. 
  []
 
-
-Overfull \hbox (0.11676pt too wide) in paragraph at lines 67--68
-\T1/pplj/m/n/10 (+13) cause, and a third emphasized that most hotel guests choo
-se to reuse 
- []
-
-[185]
-Overfull \hbox (0.11464pt too wide) in paragraph at lines 70--71
-\T1/pplj/m/n/10 (+16) study, but not the men, per-formed worse on the math test
- when they 
- []
-
-[186]
-Overfull \hbox (0.10959pt too wide) in paragraph at lines 108--109
-\T1/pplj/m/n/10 (+17) stein, Cial-dini, & Griske-vi-cius, 2008)6. Mor-ling (201
-4) points out that 
- []
-
-[187]
-Overfull \hbox (0.11845pt too wide) in paragraph at lines 119--122
-\T1/pplj/m/n/10 (+15) short de-scrip-tive names to make it easy to talk and wri
-te about them. 
- []
-
-[188] [189]
-File: figures/C6noisydata.pdf Graphic file (type pdf)
- <use figures/C6noisydata.pdf>
-Package pdftex.def Info: figures/C6noisydata.pdf used on input line 171.
-(pdftex.def)             Requested size: 144.0pt x 173.15955pt.
-
-Overfull \hbox (2.328pt too wide) in paragraph at lines 170--172
- []  
+[215]
+Overfull \hbox (0.12564pt too wide) in paragraph at lines 31--32
+\T1/pplj/m/n/10 (+19) used the stopwatch. For example, the confederate might ac
+cidentally 
  []
 
 
-Overfull \hbox (0.10168pt too wide) in paragraph at lines 181--182
-\T1/pplj/m/n/10 (+12) am-ple, it might be un-clear whether re-sults ob-tained w
-ith a sam-ple of 
- []
-
-[190]
-File: figures/C6confound.pdf Graphic file (type pdf)
- <use figures/C6confound.pdf>
-Package pdftex.def Info: figures/C6confound.pdf used on input line 189.
-(pdftex.def)             Requested size: 144.0pt x 72.55536pt.
-
-Overfull \hbox (2.328pt too wide) in paragraph at lines 188--190
- []  
- []
-
-[191] [192]
-
-LaTeX Warning: Marginpar on page 193 moved.
-
-
-Overfull \hbox (0.13345pt too wide) in paragraph at lines 242--243
-\T1/pplj/m/n/10 (+11) age lev-els of mo-ti-va-tion, sim-i-lar av-er-age num-ber
-s of health prob-lems, 
+Overfull \hbox (0.13068pt too wide) in paragraph at lines 37--38
+\T1/pplj/m/n/10 (+4) dis-cussed some of these strate-gies, in-clud-ing ran-dom 
+as-sign-ment and 
  []
 
 
-Overfull \hbox (0.15218pt too wide) in paragraph at lines 249--250
-\T1/pplj/m/n/10 (+19) par-tic-i-pants to two con-di-tions would be to flip a co
-in for each one. If 
+Overfull \hbox (0.1147pt too wide) in paragraph at lines 39--40
+\T1/pplj/m/n/10 (+3) dent vari-able (s) of in-ter-est, and holds all other pos-
+si-ble vari-ables con- 
  []
 
-[193]
-Overfull \hbox (0.13708pt too wide) in paragraph at lines 251--252
-\T1/pplj/m/n/10 (+16) fixed number of participants, it is statistically most ef
-ficient to divide 
- []
-
-File: figures/C6blockRandomization.pdf Graphic file (type pdf)
-<use figures/C6blockRandomization.pdf>
-Package pdftex.def Info: figures/C6blockRandomization.pdf used on input line 25
-3.
-(pdftex.def)             Requested size: 144.0pt x 238.37468pt.
-
-Overfull \hbox (2.328pt too wide) in paragraph at lines 252--254
- []  
- []
-
-[194]
-Overfull \hbox (0.11642pt too wide) in paragraph at lines 265--266
-\T1/pplj/m/n/10 (+19) than participants in the control condition---for example,
- they are less 
- []
-
-[195]
-Overfull \hbox (0.13786pt too wide) in paragraph at lines 271--273
-\T1/pplj/m/n/10 (+16) treatment (a "sugar pill"). In research on psychotherapy 
-effectiveness, 
- []
-
-File: figures/C6placebo.pdf Graphic file (type pdf)
-<use figures/C6placebo.pdf>
-Package pdftex.def Info: figures/C6placebo.pdf used on input line 275.
-(pdftex.def)             Requested size: 312.0pt x 151.55414pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--279
-
- []
-
-[196] [197] [198]
-Overfull \hbox (0.12163pt too wide) in paragraph at lines 304--305
-\T1/pplj/m/n/10 (+4) Here, in-stead of ran-domly as-sign-ing to con-di-tions, t
-hey are ran-domly 
- []
-
-File: figures/C6counterbalance.pdf Graphic file (type pdf)
-<use figures/C6counterbalance.pdf>
-Package pdftex.def Info: figures/C6counterbalance.pdf used on input line 309.
-(pdftex.def)             Requested size: 144.0pt x 169.32219pt.
-
-Overfull \hbox (2.328pt too wide) in paragraph at lines 308--310
- []  
+[216] [217]
+Overfull \hbox (0.12625pt too wide) in paragraph at lines 57--58
+[]\T1/pplj/m/n/10 (+6) The potential confounding effect of sun quality is just 
+one example 
  []
 
 
-Overfull \hbox (0.1131pt too wide) in paragraph at lines 317--319
-\T1/pplj/m/n/10 (+10) with other one-digit numbers (in which case it is relativ
-ely large) and 
+Overfull \hbox (0.14783pt too wide) in paragraph at lines 57--58
+\T1/pplj/m/n/10 (+16) variables, so they wash out in the average. The idea is t
+hat, the white 
  []
 
-[199]
-Overfull \hbox (0.14755pt too wide) in paragraph at lines 323--324
-\T1/pplj/m/n/10 (+12) quence that mixed the two types. The re-searcher could th
-en com-pute 
- []
-
-[200]
-Overfull \hbox (0.17967pt too wide) in paragraph at lines 340--341
-[]\T1/pplj/m/n/10 (+17) Random assignment to conditions in between-subjects exp
-eriments or to orders of conditions in within- 
- []
-
-[201] [202]
-
-LaTeX Warning: Marginpar on page 203 moved.
-
-[203]
-Overfull \hbox (0.10898pt too wide) in paragraph at lines 402--404
-\T1/pplj/m/n/10 (+20) Marie-Agnès de Gail con-ducted a field ex-per-i-ment on
- the ef-fect of 
+[218]
+Overfull \hbox (0.13756pt too wide) in paragraph at lines 61--62
+\T1/pplj/m/n/10 (+14) confounding variables across the field is an unknown, but
+ there is no 
  []
 
 
-Overfull \hbox (0.10567pt too wide) in paragraph at lines 402--404
-\T1/pplj/m/n/10 (+17) the con-fed-er-ate was free to choose which shop-pers he 
-would gaze at, 
+Overfull \hbox (0.13855pt too wide) in paragraph at lines 67--68
+\T1/pplj/m/n/10 (+19) fer-ent! The ran-dom as-sign-ment pro-cess is used to cre
+-ate in-crease the 
  []
 
-[204] [205] [206] [207]) [208] (./Chapter9_NonExperimental.tex
-Overfull \hbox (0.14915pt too wide) in paragraph at lines 9--10
+[219]
+Overfull \hbox (0.13808pt too wide) in paragraph at lines 69--70
+\T1/pplj/m/n/10 (+19) trust the re-sult be-cause it is pos-si-ble that the re-s
+earchers ac-ci-den-tally 
+ []
+
+
+Overfull \hbox (0.16296pt too wide) in paragraph at lines 69--70
+\T1/pplj/m/n/10 (+20) sample-size is larger, and good ran-dom as-sign-ment pro-
+ce-dures were 
+ []
+
+
+Overfull \hbox (0.14105pt too wide) in paragraph at lines 69--70
+\T1/pplj/m/n/10 (+2) would show in-creas-ingly lower like-li-hoods of that un-e
+ven as-sign-ment 
+ []
+
+
+Overfull \hbox (0.12671pt too wide) in paragraph at lines 73--74
+\T1/pplj/m/n/10 (+5) gender, having the same socio-economic-status, having the 
+same level 
+ []
+
+[220]
+Overfull \hbox (0.12868pt too wide) in paragraph at lines 87--88
+\T1/pplj/m/n/10 (+7) Counterbalancing can be-come com-pli-cated, es-pe-cially w
+hen there are 
+ []
+
+
+Overfull \hbox (0.10602pt too wide) in paragraph at lines 87--88
+\T1/pplj/m/n/10 (+4) can be use for vari-ables other than or-der. For ex-am-ple
+, coun-ter-bal-anc- 
+ []
+
+[221]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 91.
+
+) [222] (./Chapter9_NonExperimental.tex
+Overfull \hbox (0.14915pt too wide) in paragraph at lines 8--9
 \T1/pplj/m/n/10 (+19) and "thud" were labeled as schizophrenic by the hospital 
 staff and 
  []
 
-[209
+[223
 
 ]
 
-LaTeX Warning: Marginpar on page 210 moved.
+LaTeX Warning: Marginpar on page 224 moved.
 
 
-Overfull \hbox (0.14035pt too wide) in paragraph at lines 27--28
+Overfull \hbox (0.14035pt too wide) in paragraph at lines 26--27
 \T1/pplj/m/n/10 (+10) non-experimental re-search gen-er-ally can-not. As we wil
 l see, how-ever, 
  []
 
-[210]
-Overfull \hbox (0.10796pt too wide) in paragraph at lines 46--47
+[224]
+Overfull \hbox (0.10796pt too wide) in paragraph at lines 45--46
 []\T1/pplj/m/n/10 (+14) Again, the choice be-tween the ex-per-i-men-tal and non
 -experimental 
  []
 
 
-Overfull \hbox (0.1305pt too wide) in paragraph at lines 46--47
+Overfull \hbox (0.1305pt too wide) in paragraph at lines 45--46
 \T1/pplj/m/n/10 (+17) that af-fect obe-di-ence. He ma-nip-u-lated sev-eral in-d
 e-pen-dent vari-ables, 
  []
 
 
-Overfull \hbox (0.115pt too wide) in paragraph at lines 50--51
+LaTeX Warning: Marginpar on page 225 moved.
+
+
+Overfull \hbox (0.115pt too wide) in paragraph at lines 49--50
 \T1/pplj/m/n/10 (+7) "re-mem-bered" hav-ing ex-pe-ri-enced mildly trau-matic ch
 ild-hood events 
  []
 
-[211]
-Overfull \hbox (0.1482pt too wide) in paragraph at lines 57--58
+[225]
+Overfull \hbox (0.1482pt too wide) in paragraph at lines 56--57
 \T1/pplj/m/n/10 (+7) staff members went about their own business as if we were 
 not there" 
  []
 
-[212]
-Overfull \hbox (0.10115pt too wide) in paragraph at lines 61--62
+
+Overfull \hbox (0.11232pt too wide) in paragraph at lines 56--57
+\T1/pplj/m/n/10 (+13) ([][]Rosenhan[][], [][]1973[][]). Qualitative data has a 
+separate set of analysis tools 
+ []
+
+[226]
+Overfull \hbox (0.10115pt too wide) in paragraph at lines 60--61
 \T1/pplj/m/n/10 (+15) in-ci-dents did not de-ter-mine which school got the pro-
 gram. How-ever, 
  []
 
-<figures/C7internal.pdf, id=3548, 496.86139pt x 100.31207pt>
+<figures/C7internal.pdf, id=4127, 496.86139pt x 100.31207pt>
 File: figures/C7internal.pdf Graphic file (type pdf)
 
 <use figures/C7internal.pdf>
-Package pdftex.def Info: figures/C7internal.pdf used on input line 64.
+Package pdftex.def Info: figures/C7internal.pdf used on input line 63.
 (pdftex.def)             Requested size: 312.0pt x 62.99182pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--68
+Underfull \hbox (badness 10000) in paragraph at lines 63--67
 
  []
 
-[213]
-Overfull \hbox (0.20892pt too wide) in paragraph at lines 76--77
+[227]
+Overfull \hbox (0.20892pt too wide) in paragraph at lines 75--76
 []\T1/pplj/m/n/10 (+3) Non-experimental research is research that lacks the man
 ipulation of an independent variable, control of 
  []
 
-[214 <./figures/C7internal.pdf>]
+[228 <./figures/C7internal.pdf>]
 
-LaTeX Warning: Marginpar on page 215 moved.
+LaTeX Warning: Marginpar on page 229 moved.
 
-[215] <figures/C7daily.pdf, id=3593, 486.33176pt x 233.49864pt>
+
+Overfull \hbox (0.10704pt too wide) in paragraph at lines 119--120
+\T1/pplj/m/n/10 (+1) symp-toms cause has-sles or that some third vari-able (e.g
+., neu-roti-cism) 
+ []
+
+[229] <figures/C7daily.pdf, id=4176, 486.33176pt x 233.49864pt>
 File: figures/C7daily.pdf Graphic file (type pdf)
 
 <use figures/C7daily.pdf>
-Package pdftex.def Info: figures/C7daily.pdf used on input line 126.
+Package pdftex.def Info: figures/C7daily.pdf used on input line 124.
 (pdftex.def)             Requested size: 312.0pt x 149.80203pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--130
+Underfull \hbox (badness 10000) in paragraph at lines 124--128
 
  []
 
-[216 <./figures/C7daily.pdf>] [217]
-Overfull \hbox (0.12369pt too wide) in paragraph at lines 158--160
+[230 <./figures/C7daily.pdf>] [231]
+Overfull \hbox (0.12369pt too wide) in paragraph at lines 156--157
 \T1/pplj/m/n/10 (+15) (covering one's face with one's hands). The observers com
 mitted this 
  []
 
 
-Overfull \hbox (0.10634pt too wide) in paragraph at lines 158--160
+Overfull \hbox (0.10634pt too wide) in paragraph at lines 156--157
 \T1/pplj/m/n/10 (+9) likely to smile after they turned toward their companions,
  suggesting 
  []
 
-[218]
-Overfull \hbox (0.12238pt too wide) in paragraph at lines 171--172
-\T1/pplj/m/n/10 (+16) researchers used a procedure in which all negative events
- mentioned 
+[232]
+Overfull \hbox (0.1379pt too wide) in paragraph at lines 168--169
+\T1/pplj/m/n/10 (+17) searchers then as-sessed the sta-tis-ti-cal re-la-tion-sh
+ip be-tween the men's 
  []
 
-[219] [220]
-Overfull \hbox (0.15686pt too wide) in paragraph at lines 229--230
+[233] [234]
+Overfull \hbox (0.15686pt too wide) in paragraph at lines 226--227
 \T1/pplj/m/n/10 (+2) ing to com-plete a study. She tells oth-ers that they can 
 take their time. Then she ob-serves whether they 
  []
 
-[221]
+[235]
 
-LaTeX Warning: Marginpar on page 222 moved.
+LaTeX Warning: Marginpar on page 236 moved.
 
 
-Overfull \hbox (0.11513pt too wide) in paragraph at lines 251--252
+Overfull \hbox (0.11513pt too wide) in paragraph at lines 248--249
 \T1/pplj/m/n/10 (+7) often conducted to evaluate the effectiveness of a treatme
 nt---perhaps 
  []
 
 
-Overfull \hbox (0.10397pt too wide) in paragraph at lines 251--252
+Overfull \hbox (0.10397pt too wide) in paragraph at lines 248--249
 \T1/pplj/m/n/10 (+16) many different kinds of quasi-experiments, but we will di
 scuss just a 
  []
 
 
-Overfull \hbox (0.13875pt too wide) in paragraph at lines 257--258
+Overfull \hbox (0.13875pt too wide) in paragraph at lines 254--255
 \T1/pplj/m/n/10 (+17) fer-ences be-tween them. For ex-am-ple, the par-ents of h
 igher achiev-ing 
  []
 
-[222]
-Overfull \hbox (0.13693pt too wide) in paragraph at lines 263--264
+[236]
+Overfull \hbox (0.13693pt too wide) in paragraph at lines 260--261
 \T1/pplj/m/n/10 (+7) anced be-cause it typ-i-cally is not pos-si-ble for a par-
 tic-i-pant to be tested 
  []
 
-[223]
-Overfull \hbox (0.13858pt too wide) in paragraph at lines 267--269
-\T1/pplj/m/n/10 (+10) participants might become less impulsive or better reason
-ers and this 
+[237]
+Overfull \hbox (0.12416pt too wide) in paragraph at lines 264--265
+\T1/pplj/m/n/10 (+11) are growing and learning. If it were a yearlong program, 
+participants 
  []
 
-[224] <figures/C7timeseries.pdf, id=3664, 495.35387pt x 513.07677pt>
+
+Overfull \hbox (0.1377pt too wide) in paragraph at lines 266--267
+\T1/pplj/m/n/10 (+13) improved. This does not mean that the chicken soup was re
+sponsible 
+ []
+
+
+Overfull \hbox (0.1256pt too wide) in paragraph at lines 266--267
+\T1/pplj/m/n/10 (+8) the results of several studies of treatments for depressio
+n, researchers 
+ []
+
+
+Overfull \hbox (0.11725pt too wide) in paragraph at lines 266--267
+\T1/pplj/m/n/10 (+17) Michael Posternak and Ivan Miller found that participants
+ in waitlist 
+ []
+
+[238] <figures/C7timeseries.pdf, id=4269, 495.35387pt x 513.07677pt>
 File: figures/C7timeseries.pdf Graphic file (type pdf)
 
 <use figures/C7timeseries.pdf>
-Package pdftex.def Info: figures/C7timeseries.pdf used on input line 291.
+Package pdftex.def Info: figures/C7timeseries.pdf used on input line 289.
 (pdftex.def)             Requested size: 312.0pt x 323.16179pt.
- [225] [226 <./figures/C7timeseries.pdf>]
-Overfull \hbox (0.10202pt too wide) in paragraph at lines 311--313
+ [239] [240 <./figures/C7timeseries.pdf>]
+Overfull \hbox (0.10202pt too wide) in paragraph at lines 308--310
 \T1/pplj/m/n/10 (+17) of his-tory or mat-u-ra-tion. If it re-ally is an ef-fect
  of the treat-ment, then 
  []
 
-[227] [228]
+[241] [242]
 
-LaTeX Warning: Marginpar on page 229 moved.
+LaTeX Warning: Marginpar on page 243 moved.
 
 
-Overfull \hbox (0.11385pt too wide) in paragraph at lines 370--371
+Overfull \hbox (0.11385pt too wide) in paragraph at lines 367--368
 \T1/pplj/m/n/10 (+17) chol-ogy. The strength of quan-ti-ta-tive re-search is it
 s abil-ity to pro-vide 
  []
 
 
-Overfull \hbox (0.10892pt too wide) in paragraph at lines 370--371
+Overfull \hbox (0.10892pt too wide) in paragraph at lines 367--368
 \T1/pplj/m/n/10 (+20) quan-ti-ta-tive re-search is good at pro-vid-ing pre-cise
  an-swers to spe-cific 
  []
 
-[229]
-Overfull \hbox (0.11458pt too wide) in paragraph at lines 372--373
-\T1/pplj/m/n/10 (+4) them-selves wanted to say about their ex-pe-ri-ence. Qual-
-i-ta-tive re-search 
+[243]
+Overfull \hbox (0.13007pt too wide) in paragraph at lines 369--370
+\T1/pplj/m/n/10 (+19) sug-gests that there may be a gen-eral re-la-tion-ship be
+-tween how un-ex- 
  []
 
 
-Overfull \hbox (0.10547pt too wide) in paragraph at lines 372--373
-\T1/pplj/m/n/10 (+14) 1973)2. Sim-i-larly, qual-i-ta-tive re-search can con-vey
- a sense of what it is 
+Overfull \hbox (0.11595pt too wide) in paragraph at lines 369--370
+\T1/pplj/m/n/10 (+1) pected a sui-cide is and how con-sumed the fam-ily is with
+ try-ing to un- 
  []
 
-[230]
-Overfull \hbox (0.11096pt too wide) in paragraph at lines 380--381
+
+LaTeX Warning: Marginpar on page 244 moved.
+
+[244]
+Overfull \hbox (0.11096pt too wide) in paragraph at lines 377--378
 \T1/pplj/m/n/10 (+12) or-ga-ni-za-tion that em-pha-sized how happy its mem-bers
- were (Wilkins, 
+ were ([][]Wilkins[][], 
  []
 
-[231] <figures/C7qualtable.pdf, id=3722, 393.68372pt x 121.4664pt>
+[245]
+Overfull \hbox (0.12955pt too wide) in paragraph at lines 383--384
+\T1/pplj/m/n/10 (+10) is typical for the researcher to start with a theory, der
+ive a hypothesis 
+ []
+
+
+Overfull \hbox (0.1144pt too wide) in paragraph at lines 383--384
+\T1/pplj/m/n/10 (+12) from that theory, and then collect data to test that spec
+ific hypothesis. 
+ []
+
+<figures/C7qualtable.pdf, id=4339, 393.68372pt x 121.4664pt>
 File: figures/C7qualtable.pdf Graphic file (type pdf)
 
 <use figures/C7qualtable.pdf>
-Package pdftex.def Info: figures/C7qualtable.pdf used on input line 392.
+Package pdftex.def Info: figures/C7qualtable.pdf used on input line 389.
 (pdftex.def)             Requested size: 312.0pt x 96.26875pt.
- [232]
-Overfull \hbox (0.14026pt too wide) in paragraph at lines 412--413
+ [246]
+Overfull \hbox (0.14026pt too wide) in paragraph at lines 409--410
 \T1/pplj/m/n/10 (+6) they use simplification as a strategy for uncovering gener
 al principles 
  []
 
 
-Overfull \hbox (0.1002pt too wide) in paragraph at lines 414--415
-\T1/pplj/m/n/10 (+18) while a qual-i-ta-tive study might sug-gest that fam-i-li
-es who ex-pe-ri-ence 
+Overfull \hbox (0.14926pt too wide) in paragraph at lines 411--412
+\T1/pplj/m/n/10 (+10) is to use both quan-ti-ta-tive and qual-i-ta-tive meth-od
+s si-mul-ta-ne-ously to 
  []
 
-[233 <./figures/C7qualtable.pdf>] [234]
-Overfull \hbox (0.22662pt too wide) in paragraph at lines 431--432
+[247 <./figures/C7qualtable.pdf>]
+Overfull \hbox (0.13773pt too wide) in paragraph at lines 413--414
+\T1/pplj/m/n/10 (+18) their sense of be-long-ing. Their re-sults were com-pared
+ by the stu-dent 
+ []
+
+
+Overfull \hbox (0.22662pt too wide) in paragraph at lines 427--428
 \T1/pplj/m/n/10 (+12) combining them. For example, qualitative research can be 
 used to generate hypotheses and quantitative 
  []
 
-) [235] [236
+[248]) [249] [250
 
-] (./Chapter10_Survey.tex [237]
+] (./Chapter10_Survey.tex [251]
 
-LaTeX Warning: Marginpar on page 238 moved.
+LaTeX Warning: Marginpar on page 252 moved.
 
 
 Overfull \hbox (0.14227pt too wide) in paragraph at lines 19--20
@@ -2866,235 +3256,245 @@ Overfull \hbox (0.12964pt too wide) in paragraph at lines 21--22
 nts) also iden-ti-fies 
  []
 
-[238] [239] <figures/C9survey.pdf, id=3793, 494.3851pt x 193.83829pt>
+[252] [253] <figures/C9survey.pdf, id=4427, 494.3851pt x 193.83829pt>
 File: figures/C9survey.pdf Graphic file (type pdf)
 
 <use figures/C9survey.pdf>
-Package pdftex.def Info: figures/C9survey.pdf used on input line 34.
+Package pdftex.def Info: figures/C9survey.pdf used on input line 33.
 (pdftex.def)             Requested size: 312.0pt x 122.32875pt.
- [240 <./figures/C9survey.pdf>]
+ [254 <./figures/C9survey.pdf>]
 
-LaTeX Warning: Marginpar on page 241 moved.
+LaTeX Warning: Marginpar on page 255 moved.
 
-<figures/C9cognitivemodel.pdf, id=3839, 483.71515pt x 65.42763pt>
+<figures/C9cognitivemodel.pdf, id=4474, 483.71515pt x 65.42763pt>
 File: figures/C9cognitivemodel.pdf Graphic file (type pdf)
 
 <use figures/C9cognitivemodel.pdf>
-Package pdftex.def Info: figures/C9cognitivemodel.pdf used on input line 109.
+Package pdftex.def Info: figures/C9cognitivemodel.pdf used on input line 108.
 (pdftex.def)             Requested size: 480.0pt x 64.92828pt.
 
-Overfull \hbox (0.14308pt too wide) in paragraph at lines 117--118
+Overfull \hbox (0.14308pt too wide) in paragraph at lines 116--117
 []\T1/pplj/m/n/10 (+2) Respondents must in-ter-pret the ques-tion, re-trieve re
 l-e-vant in-for-ma- 
  []
 
-[241 <./figures/C9cognitivemodel.pdf>]
-Overfull \hbox (0.11061pt too wide) in paragraph at lines 132--133
-\T1/pplj/m/n/10 (+2) though Chang and Kros-nick (2003)2 found that ask-ing abou
-t "typ-i-cal" 
+[255 <./figures/C9cognitivemodel.pdf>]
+Overfull \hbox (0.12042pt too wide) in paragraph at lines 138--139
+\T1/pplj/m/n/10 (+4) was only −.12, sug-gest-ing that the two vari-ables are 
+only weakly re- 
  []
 
-
-Overfull \hbox (0.13902pt too wide) in paragraph at lines 139--140
-\T1/pplj/m/n/10 (+6) that those who date more have a strong ten-dency to be mor
-e sat-is-fied 
- []
-
-[242] [243]
-Overfull \hbox (0.11287pt too wide) in paragraph at lines 159--160
+[256] [257]
+Overfull \hbox (0.11287pt too wide) in paragraph at lines 158--159
 \T1/pplj/m/n/10 (+12) items are also more valid and more re-li-able. The dis-ad
 -van-tage is that 
  []
 
-[244] <figures/C9scales.pdf, id=3897, 507.01974pt x 264.96982pt>
+[258] <figures/C9scales.pdf, id=4544, 507.01974pt x 264.96982pt>
 File: figures/C9scales.pdf Graphic file (type pdf)
 
 <use figures/C9scales.pdf>
-Package pdftex.def Info: figures/C9scales.pdf used on input line 201.
+Package pdftex.def Info: figures/C9scales.pdf used on input line 199.
 (pdftex.def)             Requested size: 218.39905pt x 114.1329pt.
- [245 <./figures/C9scales.pdf>]
-Overfull \hbox (0.12328pt too wide) in paragraph at lines 227--228
+
+Overfull \hbox (0.12328pt too wide) in paragraph at lines 225--226
 []\T1/pplj/m/n/10 (+16) Thus un-less you are mea-sur-ing peo-ple’s at-ti-tude
  to-ward some- 
  []
 
-
-Overfull \hbox (0.13916pt too wide) in paragraph at lines 236--237
+[259 <./figures/C9scales.pdf>]
+Overfull \hbox (0.13916pt too wide) in paragraph at lines 234--235
 \T1/pplj/m/n/10 (+5) that min-i-mize un-in-tended con-text ef-fects and max-i-m
 ize the re-li-a-bil-ity 
  []
 
 
-Overfull \hbox (0.1465pt too wide) in paragraph at lines 236--237
+Overfull \hbox (0.1465pt too wide) in paragraph at lines 234--235
 \T1/pplj/m/n/10 (+4) "nosy" ques-tions. Ef-fec-tive ques-tion-naire items are a
 lso un-am-bigu-ous; 
  []
 
-[246] <figures/C9bruso.pdf, id=3940, 497.01079pt x 164.91121pt>
+[260] <figures/C9bruso.pdf, id=4598, 497.01079pt x 164.91121pt>
 File: figures/C9bruso.pdf Graphic file (type pdf)
 
 <use figures/C9bruso.pdf>
-Package pdftex.def Info: figures/C9bruso.pdf used on input line 244.
+Package pdftex.def Info: figures/C9bruso.pdf used on input line 242.
 (pdftex.def)             Requested size: 312.0pt x 103.5247pt.
- [247 <./figures/C9bruso.pdf>]
-Overfull \hbox (0.13536pt too wide) in paragraph at lines 283--284
+ [261 <./figures/C9bruso.pdf>]
+Overfull \hbox (0.13536pt too wide) in paragraph at lines 281--282
 \T1/pplj/m/n/10 (+16) fa-tigued, so it is good prac-tice to start with the most
  im-por-tant items 
  []
 
-[248] [249]
+[262] [263]
 
-LaTeX Warning: Marginpar on page 250 moved.
+LaTeX Warning: Marginpar on page 264 moved.
 
-[250]
-Overfull \hbox (0.13763pt too wide) in paragraph at lines 360--361
+
+Overfull \hbox (0.1373pt too wide) in paragraph at lines 353--354
+\T1/pplj/m/n/10 (+6) con-sumers who have pur-chased a car in the past year, wom
+en in Cal-i- 
+ []
+
+
+Overfull \hbox (0.12895pt too wide) in paragraph at lines 353--354
+\T1/pplj/m/n/10 (+1) for-nia over 40 years old who have re-ceived a mam-mo-gram
+ in the past 
+ []
+
+[264]
+Overfull \hbox (0.13763pt too wide) in paragraph at lines 357--358
 \T1/pplj/m/n/10 (+3) ran-dom sam-ple of 1,000 Cana-dian adults might in-clude t
 oo few Black 
  []
 
 
-Overfull \hbox (0.12828pt too wide) in paragraph at lines 360--361
+Overfull \hbox (0.12828pt too wide) in paragraph at lines 357--358
 \T1/pplj/m/n/10 (+4) other sub-group. If this is im-por-tant to the re-search q
 ues-tion, how-ever, 
  []
 
 
-Overfull \hbox (0.10518pt too wide) in paragraph at lines 362--363
+Overfull \hbox (0.10518pt too wide) in paragraph at lines 359--360
 \T1/pplj/m/n/10 (+20) domly se-lect sev-eral in-di-vid-u-als within each town. 
 Clus-ter sam-pling 
  []
 
-[251] [252]
-Overfull \hbox (0.1224pt too wide) in paragraph at lines 379--380
-\T1/pplj/m/n/10 (+13) colleagues found that only about half the sample responde
-d after the 
- []
-
-
-Overfull \hbox (10.3782pt too wide) in paragraph at lines 381--382
+[265] [266]
+Overfull \hbox (10.3782pt too wide) in paragraph at lines 378--379
 \T1/pplj/m/n/10 (-20) response bias, they are based on as-sump-tions about the 
 non-responders--- 
  []
 
 
-Overfull \hbox (0.14589pt too wide) in paragraph at lines 381--382
+Overfull \hbox (0.14589pt too wide) in paragraph at lines 378--379
 \T1/pplj/m/n/10 (+1) ap-proach to min-i-miz-ing non-response bias is to min-i-m
 ize the num-ber 
  []
 
-[253] [254] <figures/C9online.pdf, id=4021, 492.99089pt x 114.06485pt>
+[267] [268] <figures/C9online.pdf, id=4687, 492.99089pt x 114.06485pt>
 File: figures/C9online.pdf Graphic file (type pdf)
 
 <use figures/C9online.pdf>
-Package pdftex.def Info: figures/C9online.pdf used on input line 406.
+Package pdftex.def Info: figures/C9online.pdf used on input line 405.
 (pdftex.def)             Requested size: 312.0pt x 72.19017pt.
- [255 <./figures/C9online.pdf>]
-Overfull \hbox (0.15556pt too wide) in paragraph at lines 468--469
+ [269 <./figures/C9online.pdf>]
+Overfull \hbox (0.15556pt too wide) in paragraph at lines 467--468
 []\T1/pplj/m/n/10 (+12) Discussion: If possible, identify an appropriate sampli
 ng frame for each of the following populations. If 
  []
 
-) [256] (./Chapter11_Single.tex [257
+) [270] (./Chapter11_Single.tex [271
 
 ]
 
-LaTeX Warning: Marginpar on page 258 moved.
+LaTeX Warning: Marginpar on page 272 moved.
 
-[258] [259]
-Overfull \hbox (0.11966pt too wide) in paragraph at lines 50--52
+[272] [273]
+Overfull \hbox (0.11966pt too wide) in paragraph at lines 49--50
 \T1/pplj/m/n/10 (+7) when the treat-ment was in-tro-duced, a de-crease when it 
 was re-moved, 
  []
 
-[260] [261]
-Overfull \hbox (0.2158pt too wide) in paragraph at lines 73--74
+[274] [275]
+Overfull \hbox (0.2158pt too wide) in paragraph at lines 71--72
 []\T1/pplj/m/n/10 (+13) Single-subject stud-ies must be dis-tin-guished from ca
 se stud-ies, in which an in-di-vid-ual case is de-scribed 
  []
 
 
-Overfull \hbox (0.2202pt too wide) in paragraph at lines 75--76
+Overfull \hbox (0.2202pt too wide) in paragraph at lines 73--74
 []\T1/pplj/m/n/10 (+20) Single-subject research has been around since the begin
 ning of the field of psychology. Today it is most 
  []
 
-[262]
+[276]
 
-LaTeX Warning: Marginpar on page 263 moved.
+LaTeX Warning: Marginpar on page 277 moved.
 
 
-Overfull \hbox (0.13635pt too wide) in paragraph at lines 122--123
+Overfull \hbox (0.13635pt too wide) in paragraph at lines 120--121
 \T1/pplj/m/n/10 (+14) retested in the orig-i-nal con-di-tion (A). (This is call
 ed a re-ver-sal de-sign 
  []
 
-<figures/C10reverse.pdf, id=4106, 491.80931pt x 233.2995pt>
+<figures/C10reverse.pdf, id=4799, 491.80931pt x 233.2995pt>
 File: figures/C10reverse.pdf Graphic file (type pdf)
 
 <use figures/C10reverse.pdf>
-Package pdftex.def Info: figures/C10reverse.pdf used on input line 137.
+Package pdftex.def Info: figures/C10reverse.pdf used on input line 132.
 (pdftex.def)             Requested size: 312.0pt x 148.00826pt.
- [263] [264 <./figures/C10reverse.pdf>]
-<figures/C10alternating.pdf, id=4153, 489.13843pt x 260.34775pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
+
+ []
+
+[277] [278 <./figures/C10reverse.pdf>]
+<figures/C10alternating.pdf, id=4849, 489.13843pt x 260.34775pt>
 File: figures/C10alternating.pdf Graphic file (type pdf)
 
 <use figures/C10alternating.pdf>
-Package pdftex.def Info: figures/C10alternating.pdf used on input line 174.
+Package pdftex.def Info: figures/C10alternating.pdf used on input line 152.
 (pdftex.def)             Requested size: 312.0pt x 166.06581pt.
- [265 <./figures/C10alternating.pdf>]
-Overfull \hbox (0.16623pt too wide) in paragraph at lines 200--202
-\T1/pplj/m/n/10 (+17) hap-pened at about the same time it was in-tro-duced (e.g
-., a hol-i-day, a 
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
+
+ []
+
+[279 <./figures/C10alternating.pdf>]
+Overfull \hbox (0.10805pt too wide) in paragraph at lines 166--167
+\T1/pplj/m/n/10 (+19) the base-line phase, they ob-served the stu-dents for 10-
+minute pe-ri-ods 
  []
 
 
-Overfull \hbox (0.14445pt too wide) in paragraph at lines 203--204
+Overfull \hbox (0.14445pt too wide) in paragraph at lines 168--169
 \T1/pplj/m/n/10 (+17) dent vari-ables, and the treat-ment is in-tro-duced at a 
 dif-fer-ent time for 
  []
 
-[266] [267] <figures/C10multiple.pdf, id=4207, 489.91252pt x 617.33186pt>
+[280] [281] <figures/C10multiple.pdf, id=4905, 489.91252pt x 617.33186pt>
 File: figures/C10multiple.pdf Graphic file (type pdf)
 
 <use figures/C10multiple.pdf>
-Package pdftex.def Info: figures/C10multiple.pdf used on input line 220.
+Package pdftex.def Info: figures/C10multiple.pdf used on input line 182.
 (pdftex.def)             Requested size: 218.39905pt x 275.19693pt.
 
-<figures/C10multiple2.pdf, id=4208, 490.51006pt x 535.1546pt>
+<figures/C10multiple2.pdf, id=4906, 490.51006pt x 535.1546pt>
 File: figures/C10multiple2.pdf Graphic file (type pdf)
 
 <use figures/C10multiple2.pdf>
-Package pdftex.def Info: figures/C10multiple2.pdf used on input line 250.
+Package pdftex.def Info: figures/C10multiple2.pdf used on input line 196.
 (pdftex.def)             Requested size: 218.39905pt x 238.27777pt.
- [268 <./figures/C10multiple.pdf>]
-Overfull \hbox (0.1667pt too wide) in paragraph at lines 280--281
+ [282 <./figures/C10multiple.pdf>]
+Overfull \hbox (0.1667pt too wide) in paragraph at lines 214--215
 []\T1/pplj/m/n/10 (+8) Single-subject research designs typically involve measur
 ing the dependent variable repeatedly over time 
  []
 
-[269 <./figures/C10multiple2.pdf>]
-Overfull \hbox (0.1116pt too wide) in paragraph at lines 317--318
+[283 <./figures/C10multiple2.pdf>]
+Overfull \hbox (0.1116pt too wide) in paragraph at lines 251--252
 \T1/pplj/m/n/10 (+5) Write a paragraph in which you describe what the results s
 how. Be sure to comment on level, trend, and 
  []
 
-[270]
+[284]
 
-LaTeX Warning: Marginpar on page 271 moved.
+LaTeX Warning: Marginpar on page 285 moved.
 
-[271] [272] [273]
-Overfull \hbox (0.13928pt too wide) in paragraph at lines 363--364
+[285] [286] [287]
+Overfull \hbox (0.13928pt too wide) in paragraph at lines 297--298
 \T1/pplj/m/n/10 (+8) which research from the two traditions have informed each 
 other and 
  []
 
 
-Overfull \hbox (0.1177pt too wide) in paragraph at lines 378--379
+Overfull \hbox (0.1177pt too wide) in paragraph at lines 307--308
 \T1/pplj/m/n/10 (+9) between single-subject and group researchers. These disagr
 eements center on the issues of data analysis 
  []
 
-[274]) [275] [276
+[288]) [289] [290
 
 ] (./Chapter12_Presenting.tex
 Overfull \hbox (0.14154pt too wide) in paragraph at lines 6--7
@@ -3103,245 +3503,260 @@ Overfull \hbox (0.14154pt too wide) in paragraph at lines 6--7
  []
 
 
-LaTeX Warning: Marginpar on page 277 moved.
+LaTeX Warning: Marginpar on page 291 moved.
 
-
-Overfull \hbox (0.11874pt too wide) in paragraph at lines 33--34
-\T1/pplj/m/n/10 (+17) pub-lished as a book by the as-so-ci-a-tion and is now in
- its sixth edi-tion. 
- []
-
-[277]
-Overfull \hbox (6.95523pt too wide) in paragraph at lines 46--47
+[291]
+Overfull \hbox (6.95523pt too wide) in paragraph at lines 30--31
 \T1/pplj/m/n/10 (-20) Because APA style con-sists of a large num-ber and va-ri-
 ety of guidelines--- 
  []
 
 
-Overfull \hbox (0.10585pt too wide) in paragraph at lines 46--47
+Overfull \hbox (0.10585pt too wide) in paragraph at lines 30--31
 \T1/pplj/m/n/10 (+12) or-ga-ni-za-tion of an ar-ti-cle (which is cov-ered in Ch
 ap-ter 2 "Manuscript 
  []
 
-[278]
-Overfull \hbox (0.10924pt too wide) in paragraph at lines 69--70
+[292]
+Overfull \hbox (0.10924pt too wide) in paragraph at lines 53--54
 \T1/pplj/m/n/10 (+2) ward. This means that it com-mu-ni-cates ideas as sim-ply 
 and clearly as 
  []
 
 
-Overfull \hbox (0.10216pt too wide) in paragraph at lines 74--75
-\T1/pplj/m/n/10 (+14) Robert Madigan and his colleagues have argued that APA st
-yle has a 
+Overfull \hbox (0.10216pt too wide) in paragraph at lines 58--59
+\T1/pplj/m/n/10 (+14) Robert Madi-gan and his col-leagues have ar-gued that APA
+ style has a 
  []
 
-[279]
-Overfull \hbox (0.10588pt too wide) in paragraph at lines 84--85
+[293]
+Overfull \hbox (0.10588pt too wide) in paragraph at lines 63--64
 \T1/pplj/m/n/10 (+1) group is, in fact, Chi-nese Cana-dian. Third, avoid ob-jec
 -ti-fy-ing re-search 
  []
 
-<figures/C11biased.pdf, id=4309, 327.32356pt x 140.58353pt>
+<figures/C11biased.pdf, id=5034, 327.32356pt x 140.58353pt>
 File: figures/C11biased.pdf Graphic file (type pdf)
 
 <use figures/C11biased.pdf>
-Package pdftex.def Info: figures/C11biased.pdf used on input line 93.
+Package pdftex.def Info: figures/C11biased.pdf used on input line 69.
 (pdftex.def)             Requested size: 312.0pt x 134.0062pt.
- [280 <./figures/C11biased.pdf>]
-Overfull \hbox (3.01761pt too wide) in paragraph at lines 114--115
-\T1/pplj/m/n/10 (-20) (which is cov-ered in Chap-ter 4 "The Me-chan-ics of Styl
-e"throughChapter 
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
  []
 
-<figures/C11mistakes.pdf, id=4348, 492.08994pt x 242.91914pt>
+[294 <./figures/C11biased.pdf>]
+<figures/C11mistakes.pdf, id=5075, 492.08994pt x 242.91914pt>
 File: figures/C11mistakes.pdf Graphic file (type pdf)
 
 <use figures/C11mistakes.pdf>
-Package pdftex.def Info: figures/C11mistakes.pdf used on input line 123.
+Package pdftex.def Info: figures/C11mistakes.pdf used on input line 82.
 (pdftex.def)             Requested size: 312.0pt x 154.02582pt.
- [281 <./figures/C11mistakes.pdf>] [282]
-Overfull \hbox (0.11954pt too wide) in paragraph at lines 208--210
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+
+ []
+
+[295 <./figures/C11mistakes.pdf>] [296]
+Overfull \hbox (0.11954pt too wide) in paragraph at lines 150--152
 []\T1/pplj/m/n/10 (+15) Book Chapters For a chapter in an edited book, the gene
 ric format 
  []
 
-[283]
-Overfull \hbox (0.10934pt too wide) in paragraph at lines 227--228
+[297]
+Overfull \hbox (0.10934pt too wide) in paragraph at lines 169--170
 \T1/pplj/m/n/10 (+15) hu-man be-hav-ior is of-ten in-cor-rect. There-fore, when
  in doubt, find an 
  []
 
 
-Overfull \hbox (0.1216pt too wide) in paragraph at lines 234--235
+Overfull \hbox (0.1216pt too wide) in paragraph at lines 175--176
 []\T1/pplj/m/n/10 (+20) Burger (2008) conducted a replication of Milgram's (196
 3) original 
  []
 
-[284]
-Overfull \hbox (8.49046pt too wide) in paragraph at lines 246--247
+[298]
+Overfull \hbox (8.49046pt too wide) in paragraph at lines 185--186
 []\T1/pplj/m/n/10 (-20) The sec-ond way to cite an ar-ti-cle or a book chap-ter
  is parenthetically--- 
  []
 
-[285]
-Overfull \hbox (10.64392pt too wide) in paragraph at lines 320--320
+[299]
+Overfull \hbox (10.64392pt too wide) in paragraph at lines 254--254
 |\T1/pplj/m/it/12 Writing a Re-search Re-port in Amer-i-can Psy-cho-log-i-cal A
 s-so-ci-a-tion
  []
 
 
-LaTeX Warning: Marginpar on page 286 moved.
+LaTeX Warning: Marginpar on page 300 moved.
 
-[286]
-Overfull \hbox (0.1116pt too wide) in paragraph at lines 338--339
+[300]
+Overfull \hbox (0.1116pt too wide) in paragraph at lines 272--273
 \T1/pplj/m/n/10 (+17) or fewer) communicate the primary variables and research 
 questions. 
  []
 
-[287]
-Overfull \hbox (0.1302pt too wide) in paragraph at lines 386--387
+[301]
+Overfull \hbox (0.1302pt too wide) in paragraph at lines 320--321
 \T1/pplj/m/n/10 (+11) Because the abstract is usually limited to about 200 word
 s, it can be a 
  []
 
-[288]
-Overfull \hbox (0.11461pt too wide) in paragraph at lines 396--398
-\T1/pplj/m/n/10 (+1) here. Ac-cord-ing to Bem, this would be a poor way to be-g
-in a re-search 
- []
 
-[289]
-Overfull \hbox (0.11163pt too wide) in paragraph at lines 448--450
+Package natbib Warning: Citation `bem_writing_????' on page 302 undefined on in
+put line 330.
+
+[302] [303]
+Overfull \hbox (0.11163pt too wide) in paragraph at lines 361--362
 \T1/pplj/m/n/10 (+10) to do this is to be-gin the lit-er-a-ture re-view by sum-
 ma-riz-ing your ar-gu- 
  []
 
-[290]
-Overfull \hbox (0.11815pt too wide) in paragraph at lines 466--467
+[304]
+Overfull \hbox (0.11815pt too wide) in paragraph at lines 377--378
 \T1/pplj/m/n/10 (+13) chol-ogy can hope for), but it is not ac-cept-able to ig-
 nore con-tra-dic-tory 
  []
 
-[291] <figures/C11methods.pdf, id=4452, 485.4173pt x 345.93832pt>
+[305] <figures/C11methods.pdf, id=5181, 485.4173pt x 345.93832pt>
 File: figures/C11methods.pdf Graphic file (type pdf)
 
 <use figures/C11methods.pdf>
-Package pdftex.def Info: figures/C11methods.pdf used on input line 511.
+Package pdftex.def Info: figures/C11methods.pdf used on input line 394.
 (pdftex.def)             Requested size: 312.0pt x 222.34991pt.
- [292]
-Overfull \hbox (0.12201pt too wide) in paragraph at lines 536--537
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--397
+
+ []
+
+
+Overfull \hbox (0.12201pt too wide) in paragraph at lines 402--403
 []\T1/pplj/m/n/10 (+18) What is the difference between design and procedure? Th
 e design 
  []
 
-[293 <./figures/C11methods.pdf>] [294]
-Overfull \hbox (0.12213pt too wide) in paragraph at lines 612--613
+[306] [307 <./figures/C11methods.pdf>] [308]
+Overfull \hbox (0.12213pt too wide) in paragraph at lines 442--443
 \T1/pplj/m/n/10 (+15) study raised? This part of the dis-cus-sion, how-ever, is
  not just a list of 
  []
 
-[295]
-Overfull \hbox (0.10094pt too wide) in paragraph at lines 627--628
+[309]
+Overfull \hbox (0.10094pt too wide) in paragraph at lines 453--454
 \T1/pplj/m/n/10 (+11) pendix is ap-pro-pri-ate for sup-ple-men-tal ma-te-rial t
 hat would in-ter-rupt 
  []
 
 
-Overfull \hbox (0.1459pt too wide) in paragraph at lines 630--631
+Overfull \hbox (0.1459pt too wide) in paragraph at lines 455--456
 \T1/pplj/m/n/10 (+15) in the order that they are first mentioned in the text ("
 Table 1," "Table 
  []
 
-[296]
-Overfull \hbox (0.12389pt too wide) in paragraph at lines 636--637
+[310]
+Overfull \hbox (0.12389pt too wide) in paragraph at lines 459--460
 \T1/pplj/m/n/10 (+8) ate stu-dent To-moe Suyama at Cal-i-for-nia State Uni-ver-
 sity, Fresno. The 
  []
 
-<figures/112.png, id=4508, 414.348pt x 557.9244pt>
+<figures/112.png, id=5237, 414.348pt x 557.9244pt>
 File: figures/112.png Graphic file (type png)
  <use figures/112.png>
-Package pdftex.def Info: figures/112.png used on input line 640.
+Package pdftex.def Info: figures/112.png used on input line 462.
 (pdftex.def)             Requested size: 312.0pt x 420.11086pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--643
+Underfull \hbox (badness 10000) in paragraph at lines 462--465
 
  []
 
-<figures/113.png, id=4509, 397.485pt x 555.9972pt>
+<figures/113.png, id=5238, 397.485pt x 555.9972pt>
 File: figures/113.png Graphic file (type png)
  <use figures/113.png>
-Package pdftex.def Info: figures/113.png used on input line 646.
+Package pdftex.def Info: figures/113.png used on input line 468.
 (pdftex.def)             Requested size: 312.0pt x 436.4333pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--649
+Underfull \hbox (badness 10000) in paragraph at lines 468--471
 
  []
 
-<figures/114.png, id=4510, 411.939pt x 588.7596pt>
+<figures/114.png, id=5239, 411.939pt x 588.7596pt>
 File: figures/114.png Graphic file (type png)
  <use figures/114.png>
-Package pdftex.def Info: figures/114.png used on input line 654.
+Package pdftex.def Info: figures/114.png used on input line 474.
 (pdftex.def)             Requested size: 312.0pt x 445.91673pt.
 
-<figures/115.png, id=4511, 371.9496pt x 546.3612pt>
+Underfull \hbox (badness 10000) in paragraph at lines 474--477
+
+ []
+
+<figures/115.png, id=5240, 371.9496pt x 546.3612pt>
 File: figures/115.png Graphic file (type png)
  <use figures/115.png>
-Package pdftex.def Info: figures/115.png used on input line 668.
+Package pdftex.def Info: figures/115.png used on input line 480.
 (pdftex.def)             Requested size: 312.0pt x 458.30669pt.
 
-Overfull \hbox (0.11443pt too wide) in paragraph at lines 686--687
+Underfull \hbox (badness 10000) in paragraph at lines 480--483
+
+ []
+
+
+Overfull \hbox (0.11443pt too wide) in paragraph at lines 490--491
 \T1/pplj/m/n/10 (+6) describes previous research on the topic, and a closing th
 at restates the research question and comments 
  []
 
-[297] [298 <./figures/112.png>] [299 <./figures/113.png>] [300 <./figures/114.p
-ng>] [301 <./figures/115.png>]
 
-LaTeX Warning: Marginpar on page 302 moved.
+LaTeX Warning: Marginpar on page 311 moved.
 
-
-Overfull \hbox (0.11835pt too wide) in paragraph at lines 737--739
+[311] [312 <./figures/112.png>] [313 <./figures/113.png>] [314 <./figures/114.p
+ng>] [315 <./figures/115.png>]
+Overfull \hbox (0.11835pt too wide) in paragraph at lines 539--540
 \T1/pplj/m/n/10 (+1) with-out pre-sent-ing new em-pir-i-cal re-sults. When thes
 e ar-ti-cles present 
  []
 
 
-Overfull \hbox (0.13104pt too wide) in paragraph at lines 737--739
+Overfull \hbox (0.13104pt too wide) in paragraph at lines 539--540
 \T1/pplj/m/n/10 (+20) search, how-ever, there is no method or re-sults sec-tion
 . Of course, the 
  []
 
 
-Overfull \hbox (0.14241pt too wide) in paragraph at lines 737--739
+Overfull \hbox (0.14241pt too wide) in paragraph at lines 539--540
 \T1/pplj/m/n/10 (+9) ing im-por-tant re-la-tion-ships among con-cepts or gaps i
 n the lit-er-a-ture), 
  []
 
-[302]
-Overfull \hbox (0.12486pt too wide) in paragraph at lines 751--752
+[316]
+Overfull \hbox (0.12486pt too wide) in paragraph at lines 549--550
 \T1/pplj/m/n/10 (+16) an af-ter-noon to large-scale events in-volv-ing thou-san
 ds of re-searchers 
  []
 
-[303]
-Overfull \hbox (0.11981pt too wide) in paragraph at lines 778--779
+[317]
+Overfull \hbox (0.11981pt too wide) in paragraph at lines 572--573
 \T1/pplj/m/n/10 (+13) the pre-sen-ta-tion; they should act as vi-sual aids. As 
 such, they should 
  []
 
-[304] <figures/C11posters.png, id=4572, 361.35pt x 507.8172pt>
+[318] <figures/C11posters.png, id=5300, 361.35pt x 507.8172pt>
 File: figures/C11posters.png Graphic file (type png)
 
 <use figures/C11posters.png>
-Package pdftex.def Info: figures/C11posters.png used on input line 797.
+Package pdftex.def Info: figures/C11posters.png used on input line 583.
 (pdftex.def)             Requested size: 312.0pt x 438.46547pt.
- [305] [306 <./figures/C11posters.png>]) [307]
-[308
 
-] (./Chapter13_DescriptiveStats.tex
+Underfull \hbox (badness 10000) in paragraph at lines 583--586
 
-LaTeX Warning: Marginpar on page 309 moved.
+ []
+
+[319] [320 <./figures/C11posters.png>]) [321] [322
+
+]
+(./Chapter13_DescriptiveStats.tex
+
+LaTeX Warning: Marginpar on page 323 moved.
 
 
 Overfull \hbox (0.12575pt too wide) in paragraph at lines 40--41
@@ -3355,265 +3770,297 @@ Overfull \hbox (0.12953pt too wide) in paragraph at lines 40--41
 44 have a score of 
  []
 
-[309]
-Overfull \hbox (0.12059pt too wide) in paragraph at lines 58--59
+[323]
+Overfull \hbox (0.12059pt too wide) in paragraph at lines 51--52
 \T1/pplj/m/n/10 (+12) range in-cludes all the scores in this par-tic-u-lar data
  set. Sec-ond, when 
  []
 
 
-Overfull \hbox (0.14177pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.14177pt too wide) in paragraph at lines 51--52
 \T1/pplj/m/n/10 (+4) of-ten bet-ter to cre-ate a grouped fre-quency ta-ble, in 
 which the first col- 
  []
 
 
-Overfull \hbox (0.11613pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.11613pt too wide) in paragraph at lines 51--52
 \T1/pplj/m/n/10 (+18) umn lists ranges of val-ues and the sec-ond col-umn lists
  the fre-quency 
  []
 
 
-Overfull \hbox (0.11252pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.11252pt too wide) in paragraph at lines 51--52
 \T1/pplj/m/n/10 (+10) cat-e-gor-i-cal vari-ables, in which case the lev-els are
  cat-e-gory la-bels. The 
  []
 
-[310] <figures/Fig121.png, id=4608, 433.1382pt x 256.7994pt>
+[324] <figures/Fig121.png, id=5337, 433.1382pt x 256.7994pt>
 File: figures/Fig121.png Graphic file (type png)
 
 <use figures/Fig121.png>
-Package pdftex.def Info: figures/Fig121.png used on input line 77.
+Package pdftex.def Info: figures/Fig121.png used on input line 66.
 (pdftex.def)             Requested size: 312.0pt x 184.98163pt.
- <figures/Fig122.png, id=4609, 397.485pt x 228.855pt>
+ <figures/Fig122.png, id=5338, 397.485pt x 228.855pt>
 File: figures/Fig122.png Graphic file (type png)
 
 <use figures/Fig122.png>
-Package pdftex.def Info: figures/Fig122.png used on input line 110.
+Package pdftex.def Info: figures/Fig122.png used on input line 80.
 (pdftex.def)             Requested size: 312.0pt x 179.64108pt.
- [311 <./figures/Fig121.png>]
-<figures/Fig123.png, id=4615, 433.62pt x 45.2892pt>
+ [325 <./figures/Fig121.png>]
+<figures/Fig123.png, id=5345, 433.62pt x 45.2892pt>
 File: figures/Fig123.png Graphic file (type png)
  <use figures/Fig123.png>
-Package pdftex.def Info: figures/Fig123.png used on input line 142.
+Package pdftex.def Info: figures/Fig123.png used on input line 93.
 (pdftex.def)             Requested size: 312.0pt x 32.58815pt.
 
-Overfull \hbox (0.12935pt too wide) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+
+ []
+
+
+Overfull \hbox (0.12935pt too wide) in paragraph at lines 98--99
 \T1/pplj/m/n/10 (+2) Beck De-pres-sion In-ven-tory, a sin-gle clin-i-cally de-p
 ressed per-son might 
  []
 
-
-Overfull \hbox (0.11922pt too wide) in paragraph at lines 179--180
+[326 <./figures/Fig122.png> <./figures/Fig123.png>]
+Overfull \hbox (0.11922pt too wide) in paragraph at lines 113--114
 []\T1/pplj/m/n/10 (+2) The mean of a distribution (symbolized M) is the sum of 
 the scores 
  []
 
-[312 <./figures/Fig122.png> <./figures/Fig123.png>]
 Missing character: There is no � in font pplr9t!
 Missing character: There is no � in font pplr9t!
 
-Overfull \hbox (0.13423pt too wide) in paragraph at lines 186--188
+Overfull \hbox (0.13423pt too wide) in paragraph at lines 120--122
 \T1/pplj/m/n/10 (+18) of a dis-tri-bu-tion, and it is eas-ily un-der-stood by m
 ost peo-ple. In ad-di- 
  []
 
-[313]
-Overfull \hbox (0.1446pt too wide) in paragraph at lines 222--224
+[327]
+Overfull \hbox (0.1446pt too wide) in paragraph at lines 156--157
 \T1/pplj/m/n/10 (+17) The variability of a distribution is the extent to which 
 the scores vary 
  []
 
-<figures/Fig124.png, id=4629, 361.35pt x 380.622pt>
+<figures/Fig124.png, id=5358, 361.35pt x 380.622pt>
 File: figures/Fig124.png Graphic file (type png)
  <use figures/Fig124.png>
-Package pdftex.def Info: figures/Fig124.png used on input line 232.
+Package pdftex.def Info: figures/Fig124.png used on input line 161.
 (pdftex.def)             Requested size: 218.39905pt x 230.04759pt.
 
-Overfull \hbox (0.11392pt too wide) in paragraph at lines 258--259
+Overfull \hbox (0.11392pt too wide) in paragraph at lines 171--172
 \T1/pplj/m/n/10 (+2) scores in the top dis-tri-bu-tion dif-fer from the mean by
  about 1.69 units 
  []
 
-[314] [315 <./figures/Fig124.png>] [316] [317]
+[328] [329 <./figures/Fig124.png>] [330] [331]
 
-LaTeX Warning: Marginpar on page 318 moved.
+LaTeX Warning: Marginpar on page 332 moved.
 
-[318] <figures/Fig12-5.png, id=4665, 433.62pt x 207.174pt>
+[332] <figures/Fig12-5.png, id=5398, 433.62pt x 207.174pt>
 File: figures/Fig12-5.png Graphic file (type png)
 
 <use figures/Fig12-5.png>
-Package pdftex.def Info: figures/Fig12-5.png used on input line 382.
+Package pdftex.def Info: figures/Fig12-5.png used on input line 274.
 (pdftex.def)             Requested size: 218.39905pt x 104.34543pt.
- [319 <./figures/Fig12-5.png>]
-Overfull \hbox (0.14957pt too wide) in paragraph at lines 422--423
+ [333 <./figures/Fig12-5.png>]
+Overfull \hbox (0.14957pt too wide) in paragraph at lines 297--298
 \T1/pplj/m/n/10 (+19) considered medium, and values near 0.80 are considered la
 rge. Thus 
  []
 
 
-Overfull \hbox (0.11241pt too wide) in paragraph at lines 431--432
+Overfull \hbox (0.11241pt too wide) in paragraph at lines 305--306
 \T1/pplj/m/n/10 (+2) to medium-sized increase in happiness. If the study was co
 rrelational, 
  []
 
-[320]
-Overfull \hbox (0.13344pt too wide) in paragraph at lines 437--438
+[334]
+Overfull \hbox (0.13344pt too wide) in paragraph at lines 310--311
 \T1/pplj/m/n/10 (+17) Researcher Janet Shibley Hyde has looked at the results o
 f numerous 
  []
 
-<figures/Fig12-6.png, id=4677, 433.62pt x 224.037pt>
+<figures/Fig12-6.png, id=5413, 433.62pt x 224.037pt>
 File: figures/Fig12-6.png Graphic file (type png)
  <use figures/Fig12-6.png>
-Package pdftex.def Info: figures/Fig12-6.png used on input line 458.
+Package pdftex.def Info: figures/Fig12-6.png used on input line 323.
 (pdftex.def)             Requested size: 218.39905pt x 112.83865pt.
 
-Overfull \hbox (0.13235pt too wide) in paragraph at lines 481--483
+Overfull \hbox (0.13235pt too wide) in paragraph at lines 328--329
 \T1/pplj/m/n/10 (+15) shows the re-la-tion-ship be-tween 25 re-search meth-ods 
 stu-dents' scores 
  []
 
 
-Overfull \hbox (0.13179pt too wide) in paragraph at lines 481--483
+Overfull \hbox (0.13179pt too wide) in paragraph at lines 328--329
 \T1/pplj/m/n/10 (+1) dis-tri-bu-tion. Scat-ter-plots are used when the vari-abl
 e on the x-axis has 
  []
 
-[321 <./figures/Fig12-6.png>]
-<figures/Fig12-7.png, id=4683, 434.5836pt x 216.3282pt>
+[335 <./figures/Fig12-6.png>]
+<figures/Fig12-7.png, id=5422, 434.5836pt x 216.3282pt>
 File: figures/Fig12-7.png Graphic file (type png)
 
 <use figures/Fig12-7.png>
-Package pdftex.def Info: figures/Fig12-7.png used on input line 491.
+Package pdftex.def Info: figures/Fig12-7.png used on input line 332.
 (pdftex.def)             Requested size: 218.39905pt x 108.71507pt.
 
-Overfull \hbox (0.10947pt too wide) in paragraph at lines 514--515
+Overfull \hbox (0.10947pt too wide) in paragraph at lines 341--342
 \T1/pplj/m/n/10 (+7) tion-ship, in which higher scores on one vari-able tend to
  be as-so-ci-ated 
  []
 
-[322 <./figures/Fig12-7.png>]
-<figures/Fig12-8.png, id=4690, 433.62pt x 211.0284pt>
+[336 <./figures/Fig12-7.png>]
+<figures/Fig12-8.png, id=5428, 433.62pt x 211.0284pt>
 File: figures/Fig12-8.png Graphic file (type png)
 
 <use figures/Fig12-8.png>
-Package pdftex.def Info: figures/Fig12-8.png used on input line 528.
+Package pdftex.def Info: figures/Fig12-8.png used on input line 348.
 (pdftex.def)             Requested size: 218.39905pt x 106.28674pt.
- <figures/Fig12-9.png, id=4691, 433.62pt x 144.54pt>
+ <figures/Fig12-9.png, id=5429, 433.62pt x 144.54pt>
 File: figures/Fig12-9.png Graphic file (type png)
 
 <use figures/Fig12-9.png>
-Package pdftex.def Info: figures/Fig12-9.png used on input line 556.
+Package pdftex.def Info: figures/Fig12-9.png used on input line 354.
 (pdftex.def)             Requested size: 312.0pt x 104.00475pt.
 
-Overfull \hbox (0.10461pt too wide) in paragraph at lines 579--580
+Underfull \hbox (badness 10000) in paragraph at lines 354--357
+
+ []
+
+
+Overfull \hbox (0.10461pt too wide) in paragraph at lines 360--361
 \T1/pplj/m/n/10 (+12) from each score and divide each difference by the standar
 d deviation 
  []
 
-[323 <./figures/Fig12-8.png> <./figures/Fig12-9.png>]
-<figures/Fig12-10.png, id=4698, 434.5836pt x 216.3282pt>
+[337 <./figures/Fig12-8.png> <./figures/Fig12-9.png>]
+<figures/Fig12-10.png, id=5437, 434.5836pt x 216.3282pt>
 File: figures/Fig12-10.png Graphic file (type png)
 
 <use figures/Fig12-10.png>
-Package pdftex.def Info: figures/Fig12-10.png used on input line 600.
+Package pdftex.def Info: figures/Fig12-10.png used on input line 373.
 (pdftex.def)             Requested size: 312.0pt x 155.31386pt.
- [324] [325 <./figures/Fig12-10.png>]
 
-LaTeX Warning: Marginpar on page 326 moved.
+Underfull \hbox (badness 10000) in paragraph at lines 373--376
 
-[326]
-Overfull \hbox (0.12756pt too wide) in paragraph at lines 768--769
+ []
+
+[338] [339 <./figures/Fig12-10.png>]
+
+LaTeX Warning: Marginpar on page 340 moved.
+
+[340]
+Overfull \hbox (0.12756pt too wide) in paragraph at lines 513--514
 \T1/pplj/m/n/10 (+16) simple as possible. For example, the Publication Manual d
 iscourages 
  []
 
-[327] <figures/Fig12-11.png, id=4723, 433.62pt x 265.9536pt>
+[341] <figures/Fig12-11.png, id=5464, 433.62pt x 265.9536pt>
 File: figures/Fig12-11.png Graphic file (type png)
 
 <use figures/Fig12-11.png>
-Package pdftex.def Info: figures/Fig12-11.png used on input line 805.
+Package pdftex.def Info: figures/Fig12-11.png used on input line 542.
 (pdftex.def)             Requested size: 312.0pt x 191.36874pt.
 
-<figures/Fig12-12.png, id=4724, 433.62pt x 261.6174pt>
+Underfull \hbox (badness 10000) in paragraph at lines 542--545
+
+ []
+
+<figures/Fig12-12.png, id=5465, 433.62pt x 261.6174pt>
 File: figures/Fig12-12.png Graphic file (type png)
 
 <use figures/Fig12-12.png>
-Package pdftex.def Info: figures/Fig12-12.png used on input line 840.
+Package pdftex.def Info: figures/Fig12-12.png used on input line 553.
 (pdftex.def)             Requested size: 312.0pt x 188.2486pt.
 
-Overfull \hbox (0.11888pt too wide) in paragraph at lines 862--864
+Underfull \hbox (badness 10000) in paragraph at lines 553--556
+
+ []
+
+
+Overfull \hbox (0.11888pt too wide) in paragraph at lines 558--559
 \T1/pplj/m/n/10 (+17) use a bar graph when the vari-able plot-ted on the x-axis
  is cat-e-gor-i-cal 
  []
 
-[328 <./figures/Fig12-11.png>] [329 <./figures/Fig12-12.png>]
-<figures/Fig12-13.png, id=4735, 361.35pt x 377.2494pt>
+[342 <./figures/Fig12-11.png>] [343 <./figures/Fig12-12.png>]
+<figures/Fig12-13.png, id=5477, 361.35pt x 377.2494pt>
 File: figures/Fig12-13.png Graphic file (type png)
 
 <use figures/Fig12-13.png>
-Package pdftex.def Info: figures/Fig12-13.png used on input line 882.
+Package pdftex.def Info: figures/Fig12-13.png used on input line 569.
 (pdftex.def)             Requested size: 218.39905pt x 228.00922pt.
-
-<figures/Fig12-14.png, id=4736, 433.62pt x 224.5188pt>
+ [344 <./figures/Fig12-13.png>]
+<figures/Fig12-14.png, id=5484, 433.62pt x 224.5188pt>
 File: figures/Fig12-14.png Graphic file (type png)
 
 <use figures/Fig12-14.png>
-Package pdftex.def Info: figures/Fig12-14.png used on input line 916.
+Package pdftex.def Info: figures/Fig12-14.png used on input line 581.
 (pdftex.def)             Requested size: 312.0pt x 161.55405pt.
- [330 <./figures/Fig12-13.png>]
-<figures/Fig12-15.png, id=4742, 433.62pt x 168.63pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--584
+
+ []
+
+<figures/Fig12-15.png, id=5487, 433.62pt x 168.63pt>
 File: figures/Fig12-15.png Graphic file (type png)
 
 <use figures/Fig12-15.png>
-Package pdftex.def Info: figures/Fig12-15.png used on input line 947.
+Package pdftex.def Info: figures/Fig12-15.png used on input line 590.
 (pdftex.def)             Requested size: 312.0pt x 121.33887pt.
 
-Overfull \hbox (0.10521pt too wide) in paragraph at lines 969--970
+Underfull \hbox (badness 10000) in paragraph at lines 590--593
+
+ []
+
+
+Overfull \hbox (0.10521pt too wide) in paragraph at lines 595--596
 \T1/pplj/m/n/10 (+5) the Pear-son's r value in the up-per right cor-ner (work-i
 ng mem-ory and 
  []
 
-[331 <./figures/Fig12-14.png> <./figures/Fig12-15.png>]
+[345 <./figures/Fig12-14.png> <./figures/Fig12-15.png>]
 
-LaTeX Warning: Marginpar on page 332 moved.
+LaTeX Warning: Marginpar on page 346 moved.
 
 
-Overfull \hbox (0.1309pt too wide) in paragraph at lines 1012--1013
+Overfull \hbox (0.1309pt too wide) in paragraph at lines 633--634
 \T1/pplj/m/n/10 (+2) par-tic-i-pants, there are data for sev-eral dif-fer-ent v
 ari-ables: de-mo-graph- 
  []
 
 
-Overfull \hbox (0.14085pt too wide) in paragraph at lines 1012--1013
+Overfull \hbox (0.14085pt too wide) in paragraph at lines 633--634
 \T1/pplj/m/n/10 (+8) dealt with. In this sec-tion, we con-sider some prac-ti-ca
 l ad-vice to make 
  []
 
-[332] [333] [334]
-Overfull \hbox (0.11086pt too wide) in paragraph at lines 1046--1048
+[346] [347] [348]
+Overfull \hbox (0.11086pt too wide) in paragraph at lines 656--657
 \T1/pplj/m/n/10 (+10) other would be to an-a-lyze the data both in-clud-ing and
  ex-clud-ing any 
  []
 
-
-Overfull \hbox (0.10014pt too wide) in paragraph at lines 1059--1060
-[]\T1/pplj/m/n/10 (+16) examine your data from ev-ery an-gle. An-a-lyze the sex
-es sep-a-rately. 
- []
-
-[335]
-Overfull \hbox (0.14224pt too wide) in paragraph at lines 1079--1080
+[349]
+Overfull \hbox (0.14224pt too wide) in paragraph at lines 676--677
 \T1/pplj/m/n/10 (+2) from the analyses. The criteria for excluded responses or 
 participants should be applied in the same way 
  []
 
-[336]) [337] [338
+[350]) [351] [352
 
-] (./Chapter14_InferentialStats.tex [339]
+] (./Chapter14_InferentialStats.tex
+Overfull \hbox (0.10574pt too wide) in paragraph at lines 5--6
+\T1/pplj/m/n/10 (+18) population. This assertion raises the question of how res
+earchers can 
+ []
 
-LaTeX Warning: Marginpar on page 340 moved.
+[353]
+
+LaTeX Warning: Marginpar on page 354 moved.
 
 
 Overfull \hbox (0.12663pt too wide) in paragraph at lines 27--28
@@ -3621,7 +4068,7 @@ Overfull \hbox (0.12663pt too wide) in paragraph at lines 27--28
 re-searcher's goal is 
  []
 
-[340] [341] [342]
+[354] [355] [356]
 Overfull \hbox (0.11192pt too wide) in paragraph at lines 82--83
 \T1/pplj/m/n/10 (+2) false. Instead, it is the probability of obtaining the sam
 ple result if the 
@@ -3645,41 +4092,47 @@ Overfull \hbox (0.1154pt too wide) in paragraph at lines 97--98
 Sec-tion 13.2 "Some 
  []
 
-[343] [344]
+[357]
+Overfull \hbox (0.20021pt too wide) in paragraph at lines 112--113
+\T1/pplj/m/n/10 (+15) they take or even who they vote for. As we have seen, how
+-ever, these 
+ []
+
+[358]
 Overfull \hbox (0.10532pt too wide) in paragraph at lines 127--128
 \T1/pplj/m/n/10 (+19) can be statistically significant if the sample size is la
 rge enough. It is important to consider relationship 
  []
 
-[345]
+[359]
 
-LaTeX Warning: Marginpar on page 346 moved.
+LaTeX Warning: Marginpar on page 360 moved.
 
-[346]
-Overfull \hbox (0.11992pt too wide) in paragraph at lines 208--210
+[360]
+Overfull \hbox (0.11992pt too wide) in paragraph at lines 208--209
 \T1/pplj/m/n/10 (+8) two-tailed crit-i-cal val-ues in the last col-umn of the t
 a-ble. Each of these 
  []
 
-[347] [348]
-Overfull \hbox (0.1409pt too wide) in paragraph at lines 237--238
+[361] [362]
+Overfull \hbox (0.1409pt too wide) in paragraph at lines 236--237
 \T1/pplj/m/n/10 (+9) than .05, the health psychologist would reject the null hy
 pothesis and 
  []
 
-[349]
+[363]
 Overfull \hbox (0.13214pt too wide) in paragraph at lines 286--287
 \T1/pplj/m/n/10 (+20) is greater than .05, he would retain the null hypothesis 
 and conclude 
  []
 
-[350] [351]
+[364] [365]
 Overfull \hbox (0.10388pt too wide) in paragraph at lines 331--332
 \T1/pplj/m/n/10 (+1) of the ANOVA that are used for within-subjects and factori
 al research 
  []
 
-[352] [353]
+[366] [367]
 Overfull \hbox (0.13504pt too wide) in paragraph at lines 392--393
 \T1/pplj/m/n/10 (+19) ap-proach. In gen-eral, if we con-duct a t test when the 
 null hy-poth-e-sis 
@@ -3691,128 +4144,169 @@ Overfull \hbox (0.11122pt too wide) in paragraph at lines 392--393
 s are be-yond the 
  []
 
-[354] [355]
-Overfull \hbox (0.15pt too wide) in paragraph at lines 408--410
+[368] [369]
+Overfull \hbox (0.15pt too wide) in paragraph at lines 408--409
 \T1/pplj/m/n/10 (+12) For relationships between quantitative variables, where P
 earson's r is 
  []
 
-[356]
-Overfull \hbox (0.1087pt too wide) in paragraph at lines 423--424
+[370]
+Overfull \hbox (0.1087pt too wide) in paragraph at lines 422--423
 \T1/pplj/m/n/10 (+8) samples t test is used to compare two means in a within-su
 bjects design, and the independent-samples t 
  []
 
 
-Overfull \hbox (0.21286pt too wide) in paragraph at lines 425--426
+Overfull \hbox (0.21286pt too wide) in paragraph at lines 424--425
 \T1/pplj/m/n/10 (+4) the repeated-measures ANOVA is used for within-subjects de
 signs, and the factorial ANOVA is used for 
  []
 
 
-Overfull \hbox (0.10417pt too wide) in paragraph at lines 427--428
+Overfull \hbox (0.10417pt too wide) in paragraph at lines 426--427
 []\T1/pplj/m/n/10 (+18) A null hy-poth-e-sis test of Pear-son's r is used to co
 m-pare a sam-ple value of Pear-son's r with a hy-po-thet-i- 
  []
 
-[357]
+[371]
 
-LaTeX Warning: Marginpar on page 358 moved.
+LaTeX Warning: Marginpar on page 372 moved.
 
 
-Overfull \hbox (0.10976pt too wide) in paragraph at lines 475--476
+Overfull \hbox (0.10976pt too wide) in paragraph at lines 474--475
 \T1/pplj/m/n/10 (+18) to detect the relationship (e.g., the sample is too small
 ). We will have 
  []
 
 
-Overfull \hbox (0.11838pt too wide) in paragraph at lines 478--480
+Overfull \hbox (0.11838pt too wide) in paragraph at lines 477--478
 \T1/pplj/m/n/10 (+11) ven-tion is to set $\OML/zplm/m/it/10 $ \T1/pplj/m/n/10 
 (+11) to .05. There is some agree-ment among re-searchers 
  []
 
-[358] [359]
-Overfull \hbox (0.17223pt too wide) in paragraph at lines 503--504
+[372] [373]
+Overfull \hbox (0.17223pt too wide) in paragraph at lines 501--502
 \T1/pplj/m/n/10 (+17) their re-search de-signs if they want to avoid mak-ing Ty
 pe II er-rors. In 
  []
 
-[360] [361] [362] [363]
-Overfull \hbox (0.1101pt too wide) in paragraph at lines 562--563
+[374] [375]
+Overfull \hbox (0.14209pt too wide) in paragraph at lines 529--530
+\T1/pplj/m/n/10 (+16) en-tial statis-tics in psy-chol-ogy. It is not with-out i
+ts crit-ics, how-ever. In 
+ []
+
+
+Overfull \hbox (0.15398pt too wide) in paragraph at lines 529--530
+\T1/pplj/m/n/10 (+17) fact, in re-cent years the crit-i-cisms have be-come so p
+romi-nent that the 
+ []
+
+[376] [377]
+Overfull \hbox (0.1101pt too wide) in paragraph at lines 559--560
 \T1/pplj/m/n/10 (+18) students lies between 160 and 240. Advocates of confidenc
 e intervals 
  []
 
 
-Overfull \hbox (0.14487pt too wide) in paragraph at lines 574--575
+Overfull \hbox (0.14487pt too wide) in paragraph at lines 571--572
 \T1/pplj/m/n/10 (+12) log-i-cal, and that it is un-in-for-ma-tive. Oth-ers ar-g
 ue that it serves an im-por-tant purpose---especially when 
  []
 
-[364]
-Overfull \hbox (0.20316pt too wide) in paragraph at lines 588--589
+[378]
+Overfull \hbox (0.20316pt too wide) in paragraph at lines 585--586
 []\T1/pplj/m/n/10 (+12) Discussion: Imagine that you conduct a t test and the p
  value is .02. How could you explain what this p 
  []
 
 
-LaTeX Warning: Marginpar on page 365 moved.
+LaTeX Warning: Marginpar on page 379 moved.
 
 
-Overfull \hbox (0.13147pt too wide) in paragraph at lines 615--616
+Overfull \hbox (0.13147pt too wide) in paragraph at lines 612--613
 \T1/pplj/m/n/10 (+19) with conventional scholarship in psychology, including a 
 publication 
  []
 
-[365]
-Overfull \hbox (0.11179pt too wide) in paragraph at lines 634--635
+[379]
+Overfull \hbox (0.11179pt too wide) in paragraph at lines 631--632
 \T1/pplj/m/n/10 (+11) un-der-stand the dam-age they wreak to the in-tegrity and
  rep-u-ta-tion of 
  []
 
-[366] [367]) (./Methods_Crump.bbl [368]) (./Methods_Crump.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
- [369
+[380]
+Overfull \hbox (0.14052pt too wide) in paragraph at lines 648--649
+\T1/pplj/m/n/10 (+11) Open-ness Pro-mo-tion guide-lines" (see Ta-ble 13.7) that
+ have since been 
+ []
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
+) (./Methods_Crump.bbl [381] [382
 
-(./Methods_Crump.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
+] [383] [384]pdfTeX warning (ext4): destination with the same identifier (name{
+cite.diener_subjective_2000}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 ...tem[Diener, 2000]{diener_subjective_2000}
+                                                   [385]pdfTeX warning (ext4): 
+destination with the same identifier (name{cite.geertz_interpretation_1973}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.231 ...Geertz, 1973]{geertz_interpretation_1973}
+                                                   [386] [387] [388]pdfTeX warn
+ing (ext4): destination with the same identifier (name{cite.milgram_obedience_1
+974}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.491 ...em[Milgram, 1974]{milgram_obedience_1974}
+                                                   [389] [390] [391] [392]
+[393])
+No file Methods_Crump.ind.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
+[394]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
+ (./Methods_Crump.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
 Package rerunfilecheck Info: File `Methods_Crump.out' has not changed.
-(rerunfilecheck)             Checksum: 6424258A935E7A81D1958920029C1B9D;12919.
+(rerunfilecheck)             Checksum: 25FC661239F5661C4B7E51DFEA7CD4E6;14240.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
  ) 
 Here is how much of TeX's memory you used:
- 18330 strings out of 492995
- 265416 string characters out of 6132704
- 433361 words of memory out of 5000000
- 19890 multiletter control sequences out of 15000+600000
- 118245 words of font info for 439 fonts, out of 8000000 for 9000
+ 19610 strings out of 492995
+ 295041 string characters out of 6132704
+ 465324 words of memory out of 5000000
+ 20788 multiletter control sequences out of 15000+600000
+ 135376 words of font info for 572 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,72p,2249b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,12n,72p,2295b,737s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2017/t
-exmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2017/texmf-dis
-t/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2017/texmf-dist/fonts
-/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/u
-rw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/pala
-tino/uplb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/up
-lr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.p
-fb>
-Output written on Methods_Crump.pdf (369 pages, 10910852 bytes).
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2017/texmf-dist
+/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
+type1/public/bera/fvmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/bera/fvmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ber
+a/fvmro8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvr
+8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Methods_Crump.pdf (394 pages, 11271748 bytes).
 PDF statistics:
- 5235 PDF objects out of 6186 (max. 8388607)
- 3851 compressed objects within 39 object streams
- 1093 named destinations out of 1200 (max. 500000)
- 90412 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 6114 PDF objects out of 6186 (max. 8388607)
+ 4620 compressed objects within 47 object streams
+ 1282 named destinations out of 1440 (max. 500000)
+ 93619 words of extra memory for PDF output out of 106986 (max. 10000000)
 
