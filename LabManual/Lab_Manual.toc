@@ -1,0 +1,153 @@
+\contentsline {chapter}{1 Overview}{9}{chapter*.2}
+\contentsline {section}{General Overview}{9}{section*.3}
+\contentsline {subsection}{Lab structure: Major and mini projects, and presentations}{9}{subsection*.4}
+\contentsline {subsection}{Major projects}{9}{subsection*.5}
+\contentsline {subsection}{Mini projects}{10}{subsection*.6}
+\contentsline {subsection}{Presentations}{10}{subsection*.7}
+\contentsline {subsection}{Grading}{10}{subsection*.8}
+\contentsline {section}{Lab Resources}{10}{section*.9}
+\contentsline {subsection}{Website}{11}{subsection*.10}
+\contentsline {subsection}{Lab rooms}{11}{subsection*.11}
+\contentsline {subsection}{Lab manual}{11}{subsection*.12}
+\contentsline {section}{Lab Schedule}{11}{section*.13}
+\contentsline {subsection}{Lab 1: Overview}{11}{subsection*.14}
+\contentsline {subsection}{Lab 2: Paper project 1}{11}{subsection*.15}
+\contentsline {subsection}{Lab 3: Paper project 1 continued}{12}{subsection*.16}
+\contentsline {subsection}{Lab 4: MiniProject 1 Nairne, Pandeirada, \& Thompson (2008)}{12}{subsection*.17}
+\contentsline {subsection}{Lab 5: Mini Project 2 Stoet et al. (2013)}{13}{subsection*.18}
+\contentsline {subsection}{Lab 6: Mini Project 4 Raz et al. (2006)}{13}{subsection*.19}
+\contentsline {subsection}{Lab 7 : Paper Project 2 Yin (1969)}{13}{subsection*.20}
+\contentsline {subsection}{Lab 8: Paper project 2 continued}{14}{subsection*.21}
+\contentsline {subsection}{Lab 9: Brainstorming for Final project}{14}{subsection*.22}
+\contentsline {subsection}{Lab 10: Individual Presentations}{14}{subsection*.23}
+\contentsline {subsection}{Lab 11-13: Group work on Final Project}{14}{subsection*.24}
+\contentsline {subsection}{Lab 14: Final group presentations}{14}{subsection*.25}
+\contentsline {chapter}{2 The QALMRI Method}{15}{chapter*.26}
+\contentsline {section}{The QALMRI Method}{16}{section*.27}
+\contentsline {subsection}{Q stands for Question}{16}{subsection*.28}
+\contentsline {subsection}{A stands for Alternatives}{17}{subsection*.29}
+\contentsline {subsection}{L stands for Logic}{17}{subsection*.30}
+\contentsline {subsection}{M stands for Method}{18}{subsection*.31}
+\contentsline {subsection}{R stands for Results}{18}{subsection*.32}
+\contentsline {subsection}{I stands for Inferences}{18}{subsection*.33}
+\contentsline {section}{Writing a QALMRI}{19}{section*.34}
+\contentsline {section}{Example QALMRI}{19}{section*.35}
+\contentsline {subsection}{What was the broad and specific question?}{20}{subsection*.36}
+\contentsline {subsection}{What are the alternatives?}{20}{subsection*.37}
+\contentsline {subsection}{What is the logic?}{20}{subsection*.38}
+\contentsline {subsection}{What is the Method?}{20}{subsection*.39}
+\contentsline {subsection}{Results}{20}{subsection*.40}
+\contentsline {subsection}{Inference}{21}{subsection*.41}
+\contentsline {section}{Finding the QALMRI sections in a journal article}{21}{section*.42}
+\contentsline {subsection}{Finding the Big Question}{22}{subsection*.43}
+\contentsline {subsection}{Finding the Specific question}{22}{subsection*.44}
+\contentsline {subsection}{Alternatives}{22}{subsection*.45}
+\contentsline {subsection}{Logic}{23}{subsection*.46}
+\contentsline {subsection}{Methods}{23}{subsection*.47}
+\contentsline {subsection}{Results}{23}{subsection*.48}
+\contentsline {subsection}{Inference}{23}{subsection*.49}
+\contentsline {subsection}{Reading between the lines}{23}{subsection*.50}
+\contentsline {section}{The Hardest Section of the QALRMI: Alternatives}{24}{section*.51}
+\contentsline {subsection}{Empirical vs. Theoretical Hypotheses}{25}{subsection*.52}
+\contentsline {chapter}{Labs 2 and 3: Paper Project 1}{29}{chapter*.53}
+\contentsline {section}{Overview}{29}{section*.54}
+\contentsline {subsection}{Things you will learn:}{29}{subsection*.55}
+\contentsline {subsection}{Background readings:}{29}{subsection*.56}
+\contentsline {subsection}{Grade}{29}{subsection*.57}
+\contentsline {section}{Writing the paper}{30}{section*.58}
+\contentsline {subsection}{APA formatting, Title and Abstract}{30}{subsection*.59}
+\contentsline {subsection}{Introduction (around 2 double-spaced pages)}{30}{subsection*.60}
+\contentsline {subsection}{Methods (about 1 page)}{31}{subsection*.61}
+\contentsline {subsection}{Results}{31}{subsection*.62}
+\contentsline {subsection}{Discussion}{32}{subsection*.63}
+\contentsline {subsection}{References and Figures or Tables}{32}{subsection*.64}
+\contentsline {section}{Data-analysis tips}{32}{section*.65}
+\contentsline {section}{The t-test}{33}{section*.66}
+\contentsline {section}{One more time}{34}{section*.67}
+\contentsline {section}{Writing up the results of a t-test}{35}{section*.68}
+\contentsline {chapter}{Lab 4: Memory Mini Project}{37}{chapter*.69}
+\contentsline {section}{Lab 4: MiniProject 1 Nairne, Pandeirada, \& Thompson, (2008)}{37}{section*.70}
+\contentsline {subsection}{What's in store}{37}{subsection*.71}
+\contentsline {section}{Data-analysis tips}{38}{section*.72}
+\contentsline {subsection}{Simulating the data}{39}{subsection*.73}
+\contentsline {subsection}{Looking at the means}{41}{subsection*.74}
+\contentsline {subsection}{Plotting the data}{41}{subsection*.75}
+\contentsline {subsection}{Conducting the ANOVA}{42}{subsection*.76}
+\contentsline {subsection}{Comparisons between conditions}{43}{subsection*.77}
+\contentsline {subsection}{Writing it all up}{44}{subsection*.78}
+\contentsline {chapter}{Lab 5: Task-Switching Mini Project}{47}{chapter*.79}
+\contentsline {section}{What's in store}{47}{section*.80}
+\contentsline {section}{Critical Concepts}{48}{section*.81}
+\contentsline {subsection}{Multiple Dependent and Independent Variables}{48}{subsection*.82}
+\contentsline {subsection}{Main effects and interactions}{48}{subsection*.83}
+\contentsline {subsection}{Manipulating an Effect}{48}{subsection*.84}
+\contentsline {subsection}{Reducing a two-factor design to a single-factor design using difference scores}{49}{subsection*.85}
+\contentsline {section}{Data-analysis tips}{50}{section*.86}
+\contentsline {subsection}{Simulating the data}{50}{subsection*.87}
+\contentsline {subsection}{plotting the data}{52}{subsection*.88}
+\contentsline {subsection}{Running the ANOVA}{53}{subsection*.89}
+\contentsline {subsection}{Writing up the results}{55}{subsection*.90}
+\contentsline {chapter}{Lab 6: Stroop Mini Project}{57}{chapter*.91}
+\contentsline {section}{What's in store}{57}{section*.92}
+\contentsline {section}{Some background on the Stroop effect}{57}{section*.93}
+\contentsline {subsection}{Stroop and Selective Attention}{59}{subsection*.94}
+\contentsline {chapter}{Labs 7 and 8: Paper Project 2 }{61}{chapter*.95}
+\contentsline {section}{Overview}{61}{section*.96}
+\contentsline {subsection}{Things you will learn:}{61}{subsection*.97}
+\contentsline {subsection}{Background readings:}{61}{subsection*.98}
+\contentsline {subsection}{Grade}{61}{subsection*.99}
+\contentsline {section}{Writing the paper}{62}{section*.100}
+\contentsline {subsection}{APA formatting, Title and Abstract}{62}{subsection*.101}
+\contentsline {subsection}{Introduction (around 2 double-spaced pages)}{62}{subsection*.102}
+\contentsline {subsection}{Methods (about 1 page)}{63}{subsection*.103}
+\contentsline {subsection}{Results}{63}{subsection*.104}
+\contentsline {subsection}{Discussion}{64}{subsection*.105}
+\contentsline {subsection}{References and Figures or Tables}{64}{subsection*.106}
+\contentsline {chapter}{Labs 9 - 14: The Final Project}{65}{chapter*.107}
+\contentsline {section}{Overview}{65}{section*.108}
+\contentsline {subsection}{2-3 minute individual presentation (5\% of total grade)}{65}{subsection*.109}
+\contentsline {subsection}{APA style research report (15\% of total grade)}{66}{subsection*.110}
+\contentsline {subsection}{10 minute group presentation (5\% of total grade)}{66}{subsection*.111}
+\contentsline {chapter}{Statistical Analysis And Reporting}{67}{chapter*.112}
+\contentsline {section}{Excel Tips}{67}{section*.113}
+\contentsline {subsection}{What is Excel?}{67}{subsection*.114}
+\contentsline {subsection}{What is Excel used for in this course?}{67}{subsection*.115}
+\contentsline {section}{Using Excel}{68}{section*.116}
+\contentsline {subsection}{The excel window}{68}{subsection*.117}
+\contentsline {subsection}{Inputting data}{68}{subsection*.118}
+\contentsline {subsection}{Addressing cells}{68}{subsection*.119}
+\contentsline {subsection}{Setting one cell to equal another}{69}{subsection*.120}
+\contentsline {subsection}{Adding cells together, and copying commands across other cells}{69}{subsection*.121}
+\contentsline {subsection}{Using a formula to add two numbers together}{70}{subsection*.122}
+\contentsline {subsection}{Getting an average}{70}{subsection*.123}
+\contentsline {subsection}{Other formulas}{71}{subsection*.124}
+\contentsline {subsection}{Selecting a range of cells}{71}{subsection*.125}
+\contentsline {subsection}{Copying a formula to another cell: relative coordinates}{71}{subsection*.126}
+\contentsline {subsection}{Absolute coordinates}{72}{subsection*.127}
+\contentsline {subsection}{Sorting data}{72}{subsection*.128}
+\contentsline {subsection}{Making a histogram}{73}{subsection*.129}
+\contentsline {subsection}{Making a table}{74}{subsection*.130}
+\contentsline {subsection}{Paired Samples T-test}{74}{subsection*.131}
+\contentsline {section}{SPSS}{76}{section*.132}
+\contentsline {subsection}{Paired Samples T-test in SPSS}{76}{subsection*.133}
+\contentsline {subsection}{2 x 2 Repeated Measures ANOVA}{77}{subsection*.134}
+\contentsline {subsection}{From Data to Analysis}{77}{subsection*.135}
+\contentsline {subsection}{2x2 Repeated measures ANOVA in SPSS}{79}{subsection*.136}
+\contentsline {subsection}{Finding numbers in the SPSS analysis output}{81}{subsection*.137}
+\contentsline {subsection}{The ANOVA table}{82}{subsection*.138}
+\contentsline {subsection}{Main effect for IV 1}{82}{subsection*.139}
+\contentsline {subsection}{Main effect for IV 2}{83}{subsection*.140}
+\contentsline {subsection}{The interaction effect}{83}{subsection*.141}
+\contentsline {subsection}{Post Hoc Tests to interpret the interaction}{83}{subsection*.142}
+\contentsline {chapter}{Writing An APA Style Paper}{85}{chapter*.143}
+\contentsline {section}{How to write a research report}{85}{section*.144}
+\contentsline {subsection}{Introduction}{85}{subsection*.145}
+\contentsline {subsection}{Methods}{85}{subsection*.146}
+\contentsline {subsection}{Results}{86}{subsection*.147}
+\contentsline {subsection}{Discussion of results}{86}{subsection*.148}
+\contentsline {subsection}{Conclusions and recommendations}{86}{subsection*.149}
+\contentsline {section}{APA style}{87}{section*.150}
+\contentsline {subsection}{APA style formatting}{87}{subsection*.151}
+\contentsline {subsection}{Sample APA report}{94}{subsection*.152}
+\contentsline {chapter}{Bibliography}{103}{chapter*.153}
+\contentsfinish 

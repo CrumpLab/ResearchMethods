@@ -1,0 +1,115 @@
+---
+title: "Lab 5"
+output:
+  tufte::tufte_handout:
+    keep_tex: true
+---
+
+
+```{r setup, include=FALSE}
+library(tufte)
+library(xtable)
+library(knitr)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+# Lab 5 Data-analysis tips
+
+To give you an idea about the analyses you will be performing, we will again create simulated data to mimic aspects of the experiment, and then go through the steps of performing the analysis. 
+
+We will simulate data for the switching cost. Specifically, we will imagine that women have a smaller switching cost than men. The code below generates sample data for 10 women and 10 men, who each have mean reactions in the repeat and switch conditions. For women, the mean reaction times were 580 ms for repeat and 600 ms for switch sequences, for a total expected switch cost of 20 ms. For men, the mean reaction times were 580 ms for repeat and 650 ms for switch sequences, for a total expected switch cost of 70 ms. 
+
+## Simulating the data
+
+```{r}
+women_switch <-round(rnorm(10,600,20))
+women_repeat <-round(rnorm(10,580,20))
+men_switch <-round(rnorm(10,650,20))
+men_repeat <-round(rnorm(10,580,20))
+all_data<-data.frame(Subject=c(rep(seq(1,10,1),2),
+                               rep(seq(11,20,1),2)),
+                     Gender=rep(c("Female","Male"),each=20),
+                     Sequence=rep(rep(c("switch","repeat"),each=10),2),
+                     RT=c(women_switch,women_repeat,
+                          men_switch,men_repeat))
+
+kable(all_data,format="latex")
+```
+
+## plotting the data
+
+We can plot the data at least two ways. See the bar and line graphs below. Note that the x-axis changes between graphs.
+
+```{r}
+library(ggplot2)
+library(plyr)
+sde<-function(x){sd(x)/length(x)}
+plot_means<-ddply(all_data,.(Gender,Sequence),summarise,
+                       MeanRT=mean(RT),
+                       SE=sde(RT))
+
+limits <- aes(ymax = MeanRT + SE, ymin = MeanRT - SE)
+
+ggplot(plot_means,aes(x=Gender, y=MeanRT, group=Sequence,fill=Sequence))+
+  geom_bar(position="dodge",stat="identity")+
+  geom_errorbar(limits, width=.3,position=position_dodge(.9))+
+  theme_classic(base_size=12)+
+  ylab("Mean RT")+
+  xlab("Trial sequence")
+
+```
+
+
+```{r}
+ggplot(plot_means,aes(x=Sequence, y=MeanRT, group=Gender,shape=Gender))+
+  geom_line()+
+  geom_point()+
+  geom_errorbar(limits, width=.3)+
+  theme_classic(base_size=12)+
+  ylab("Mean RT")+
+  xlab("Trial sequence")
+```
+
+The graphs show that the switch costs (difference between repeat and switch trials) is smaller for women and men. Which is good, because we are simulating the data with this outcome in mind.
+
+## Running the ANOVA
+
+The next step is to conduct an ANOVA. This design has two factors or independent variables, gender and trial sequence. The gender variable is between-subjects, and the trial sequence variable is within subjects. So, we will run a 2 (Gender: Female vs. Male) x 2 (trial sequence: Repeat vs. Switch) mixed design ANOVA with Gender as the betwen-subjects factor, and trial sequence as the within-subjects factor.
+
+
+```{r}
+library(broom)
+all_data$Subject<-as.factor(all_data$Subject)
+aov.out<-aov(RT~Gender*Sequence+Error(Subject/Sequence),all_data)
+aov_summary<-summary(aov.out)
+kable(xtable(aov_summary),format="latex")
+mt<-model.tables(aov.out,"means")
+mt
+```
+
+The above shows the ANOVA table and the means for the main effects and interaction. We also conduct t.test comparisons to look at the switch costs separately for men and women.
+
+```{r}
+FemaleT<-t.test(RT~Sequence,all_data[all_data$Gender=="Female",],paired=TRUE,var.equal=TRUE)
+MaleT<-t.test(RT~Sequence,all_data[all_data$Gender=="Male",],paired=TRUE,var.equal=TRUE)
+FemaleT
+MaleT
+```
+
+
+## Writing up the results
+
+ The next step is to interpret the results and write them up. Here is an example write-up.
+
+
+The mean reaction times for each subject in trial sequence condition were submitted to a 2 (Gender: Female vs. Male) x 2 (trial sequence: Repeat vs. Switch) mixed design ANOVA with Gender as the betwen-subjects factor, and trial sequence as the within-subjects factor. Mean reaction times in each condition collapsed across subjects are displayed in Figure 1.
+
+The main effect of gender was significant, F(`r aov_summary[[1]][[1]]$Df[1]`, `r aov_summary[[1]][[1]]$Df[2]`) = `r round(aov_summary[[1]][[1]]$F[1],digits=2)`, MSE = `r round(aov_summary[[1]][[1]]$"Mean Sq"[2],digits=2)`, p < `r round(aov_summary[[1]][[1]][[5]][1],digits=3)`. Women (`r round(mt$tables$Gender[1])` ms) had faster mean reaction times than men (`r round(mt$tables$Gender[2])` ms). 
+
+The main effect of trials sequence was significant, F(`r aov_summary[[2]][[1]]$Df[1]`, `r aov_summary[[2]][[1]]$Df[3]`) = `r round(aov_summary[[2]][[1]]$F[1],digits=2)`, MSE = `r round(aov_summary[[2]][[1]]$"Mean Sq"[3],digits=2)`, p < `r round(aov_summary[[2]][[1]][[5]][1],digits=3)`. Repeat trials (`r round(mt$tables$Sequence[1])`) had faster mean reaction times than switch trials (`r round(mt$tables$Sequence[2])`).
+
+Most important was the significant two-way interaction between gender and trial sequence, F(`r aov_summary[[2]][[1]]$Df[2]`, `r aov_summary[[2]][[1]]$Df[3]`) = `r round(aov_summary[[2]][[1]]$F[2],digits=2)`, MSE = `r round(aov_summary[[2]][[1]]$"Mean Sq"[3],digits=2)`, p < `r round(aov_summary[[2]][[1]][[5]][2],digits=3)`. We interpreted the interaction further by conducting the following comparisons. Women showed a significant switch cost, t(9) = `r round(FemaleT$statistic,digits=2)`, p = `r round(FemaleT$p.value,digits=3)`, with faster mean reaction times for repeat (`r round(mt$tables$"Gender:Sequence"[1,1])`) than switch (`r round(mt$tables$"Gender:Sequence"[1,2])`) trials. Men also showed a significant switch cost, t(9) = `r round(MaleT$statistic,digits=2)`, p = `r round(MaleT$p.value,digits=3)`, with faster mean reaction times for repeat (`r round(mt$tables$"Gender:Sequence"[2,1])`) than switch trials (`r round(mt$tables$"Gender:Sequence"[2,2])`). The presence of an interaction indicates that the size of the switch cost for women was significantly smaller than the size of the switch cost for men.
+
+
