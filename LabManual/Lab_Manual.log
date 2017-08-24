@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 AUG 2017 09:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  24 AUG 2017 07:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1365,95 +1365,101 @@ rld? Are
 
 ) [64] (./Paper3.tex [65
 
-]) [66] (./stats.tex [67
-
 ]
-<LabmanualFigures/Excel1.pdf, id=1008, 342.47697pt x 199.97188pt>
+Overfull \hbox (0.11462pt too wide) in paragraph at lines 30--32
+[]\T1/pplj/m/n/10 (+7) Each individual presentation at a minimum should accompl
+ish the 
+ []
+
+[66]) [67] [68
+
+] (./stats.tex [69]
+<LabmanualFigures/Excel1.pdf, id=1024, 342.47697pt x 199.97188pt>
 File: LabmanualFigures/Excel1.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel1.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel1.pdf used on input line 36.
 (pdftex.def)             Requested size: 218.39905pt x 127.52385pt.
 
-<LabmanualFigures/Excel2.pdf, id=1009, 188.82079pt x 196.19186pt>
+<LabmanualFigures/Excel2.pdf, id=1025, 188.82079pt x 196.19186pt>
 File: LabmanualFigures/Excel2.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel2.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel2.pdf used on input line 46.
 (pdftex.def)             Requested size: 156.0pt x 162.09377pt.
 
-<LabmanualFigures/Excel3.pdf, id=1010, 193.42354pt x 155.3015pt>
+<LabmanualFigures/Excel3.pdf, id=1026, 193.42354pt x 155.3015pt>
 File: LabmanualFigures/Excel3.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel3.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel3.pdf used on input line 59.
 (pdftex.def)             Requested size: 156.0pt x 125.25322pt.
- [68 <./LabmanualFigures/Excel1.pdf> <./LabmanualFigures/Excel2.pdf>]
-<LabmanualFigures/Excel4.pdf, id=1081, 274.92023pt x 153.42181pt>
+ [70 <./LabmanualFigures/Excel1.pdf> <./LabmanualFigures/Excel2.pdf>]
+<LabmanualFigures/Excel4.pdf, id=1098, 274.92023pt x 153.42181pt>
 File: LabmanualFigures/Excel4.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel4.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel4.pdf used on input line 71.
 (pdftex.def)             Requested size: 156.0pt x 87.06038pt.
 
-<LabmanualFigures/Excel5.pdf, id=1082, 270.65892pt x 229.20099pt>
+<LabmanualFigures/Excel5.pdf, id=1099, 270.65892pt x 229.20099pt>
 File: LabmanualFigures/Excel5.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel5.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel5.pdf used on input line 82.
 (pdftex.def)             Requested size: 156.0pt x 132.1043pt.
- [69 <./LabmanualFigures/Excel3.pdf> <./LabmanualFigures/Excel4.pdf>]
-<LabmanualFigures/Excel6.pdf, id=1167, 361.09784pt x 74.52463pt>
+ [71 <./LabmanualFigures/Excel3.pdf> <./LabmanualFigures/Excel4.pdf>]
+<LabmanualFigures/Excel6.pdf, id=1184, 361.09784pt x 74.52463pt>
 File: LabmanualFigures/Excel6.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel6.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel6.pdf used on input line 97.
 (pdftex.def)             Requested size: 156.0pt x 32.19505pt.
 
-<LabmanualFigures/Excel7.pdf, id=1168, 294.03473pt x 141.98686pt>
+<LabmanualFigures/Excel7.pdf, id=1185, 294.03473pt x 141.98686pt>
 File: LabmanualFigures/Excel7.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel7.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel7.pdf used on input line 107.
 (pdftex.def)             Requested size: 156.0pt x 75.33066pt.
 
-<LabmanualFigures/Excel8.pdf, id=1169, 219.11523pt x 175.12357pt>
+<LabmanualFigures/Excel8.pdf, id=1186, 219.11523pt x 175.12357pt>
 File: LabmanualFigures/Excel8.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel8.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel8.pdf used on input line 117.
 (pdftex.def)             Requested size: 156.0pt x 124.68062pt.
- [70 <./LabmanualFigures/Excel5.pdf> <./LabmanualFigures/Excel6.pdf> <./Labmanu
+ [72 <./LabmanualFigures/Excel5.pdf> <./LabmanualFigures/Excel6.pdf> <./Labmanu
 alFigures/Excel7.pdf>]
-<LabmanualFigures/Excel9.pdf, id=1310, 274.55003pt x 210.59657pt>
+<LabmanualFigures/Excel9.pdf, id=1327, 274.55003pt x 210.59657pt>
 File: LabmanualFigures/Excel9.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel9.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel9.pdf used on input line 139.
 (pdftex.def)             Requested size: 156.0pt x 119.6621pt.
 
-<LabmanualFigures/Excel10.pdf, id=1311, 348.53586pt x 211.58789pt>
+<LabmanualFigures/Excel10.pdf, id=1328, 348.53586pt x 211.58789pt>
 File: LabmanualFigures/Excel10.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel10.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel10.pdf used on input line 150.
 (pdftex.def)             Requested size: 156.0pt x 94.70354pt.
- [71 <./LabmanualFigures/Excel8.pdf> <./LabmanualFigures/Excel9.pdf>]
-<LabmanualFigures/Excel11.pdf, id=1377, 123.03278pt x 161.59903pt>
+ [73 <./LabmanualFigures/Excel8.pdf> <./LabmanualFigures/Excel9.pdf>]
+<LabmanualFigures/Excel11.pdf, id=1395, 123.03278pt x 161.59903pt>
 File: LabmanualFigures/Excel11.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel11.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel11.pdf used on input line 170.
 (pdftex.def)             Requested size: 156.0pt x 204.90053pt.
 
-<LabmanualFigures/Excel12.pdf, id=1378, 288.87256pt x 378.32027pt>
+<LabmanualFigures/Excel12.pdf, id=1396, 288.87256pt x 378.32027pt>
 File: LabmanualFigures/Excel12.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel12.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel12.pdf used on input line 179.
 (pdftex.def)             Requested size: 156.0pt x 204.31299pt.
- [72 <./LabmanualFigures/Excel10.pdf> <./LabmanualFigures/Excel11.pdf>]
-<LabmanualFigures/Excel13.pdf, id=1438, 413.55063pt x 427.09572pt>
+ [74 <./LabmanualFigures/Excel10.pdf> <./LabmanualFigures/Excel11.pdf>]
+<LabmanualFigures/Excel13.pdf, id=1456, 413.55063pt x 427.09572pt>
 File: LabmanualFigures/Excel13.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel13.pdf>
@@ -1465,50 +1471,50 @@ Overfull \hbox (0.13625pt too wide) in paragraph at lines 200--202
 rticular 
  []
 
-[73 <./LabmanualFigures/Excel12.pdf> <./LabmanualFigures/Excel13.pdf>]
-<LabmanualFigures/Excel14.pdf, id=1500, 177.77243pt x 142.20477pt>
+[75 <./LabmanualFigures/Excel12.pdf> <./LabmanualFigures/Excel13.pdf>]
+<LabmanualFigures/Excel14.pdf, id=1517, 177.77243pt x 142.20477pt>
 File: LabmanualFigures/Excel14.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel14.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel14.pdf used on input line 210.
 (pdftex.def)             Requested size: 218.39905pt x 174.70901pt.
 
-<LabmanualFigures/Excel15.pdf, id=1501, 368.71982pt x 223.10512pt>
+<LabmanualFigures/Excel15.pdf, id=1518, 368.71982pt x 223.10512pt>
 File: LabmanualFigures/Excel15.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel15.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel15.pdf used on input line 221.
 (pdftex.def)             Requested size: 218.39905pt x 132.14833pt.
- [74 <./LabmanualFigures/Excel14.pdf>]
-<LabmanualFigures/Excel16.pdf, id=1589, 318.45947pt x 297.07857pt>
+ [76 <./LabmanualFigures/Excel14.pdf>]
+<LabmanualFigures/Excel16.pdf, id=1607, 318.45947pt x 297.07857pt>
 File: LabmanualFigures/Excel16.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/Excel16.pdf>
 Package pdftex.def Info: LabmanualFigures/Excel16.pdf used on input line 235.
 (pdftex.def)             Requested size: 218.39905pt x 203.73784pt.
- [75 <./LabmanualFigures/Excel15.pdf> <./LabmanualFigures/Excel16.pdf>]
-<LabmanualFigures/SPSS1.pdf, id=1709, 150.64944pt x 265.18825pt>
+ [77 <./LabmanualFigures/Excel15.pdf> <./LabmanualFigures/Excel16.pdf>]
+<LabmanualFigures/SPSS1.pdf, id=1727, 150.64944pt x 265.18825pt>
 File: LabmanualFigures/SPSS1.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS1.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS1.pdf used on input line 249.
 (pdftex.def)             Requested size: 156.0pt x 274.61984pt.
 
-<LabmanualFigures/SPSS2.pdf, id=1710, 377.83076pt x 135.46721pt>
+<LabmanualFigures/SPSS2.pdf, id=1728, 377.83076pt x 135.46721pt>
 File: LabmanualFigures/SPSS2.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS2.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS2.pdf used on input line 258.
 (pdftex.def)             Requested size: 156.0pt x 55.93051pt.
 
-<LabmanualFigures/SPSS3.pdf, id=1711, 328.60698pt x 134.24976pt>
+<LabmanualFigures/SPSS3.pdf, id=1729, 328.60698pt x 134.24976pt>
 File: LabmanualFigures/SPSS3.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS3.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS3.pdf used on input line 270.
 (pdftex.def)             Requested size: 156.0pt x 63.73445pt.
 
-<LabmanualFigures/SPSS4.pdf, id=1712, 367.45291pt x 188.05568pt>
+<LabmanualFigures/SPSS4.pdf, id=1730, 367.45291pt x 188.05568pt>
 File: LabmanualFigures/SPSS4.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS4.pdf>
@@ -1519,16 +1525,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 282--285
 
  []
 
-[76 <./LabmanualFigures/SPSS1.pdf> <./LabmanualFigures/SPSS2.pdf>]
-<LabmanualFigures/SPSS5.pdf, id=1816, 313.68811pt x 502.6487pt>
+[78 <./LabmanualFigures/SPSS1.pdf> <./LabmanualFigures/SPSS2.pdf>]
+<LabmanualFigures/SPSS5.pdf, id=1835, 313.68811pt x 502.6487pt>
 File: LabmanualFigures/SPSS5.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS5.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS5.pdf used on input line 302.
 (pdftex.def)             Requested size: 218.39905pt x 349.9726pt.
- [77 <./LabmanualFigures/SPSS3.pdf> <./LabmanualFigures/SPSS4.pdf>] [78 <./Labm
+ [79 <./LabmanualFigures/SPSS3.pdf> <./LabmanualFigures/SPSS4.pdf>] [80 <./Labm
 anualFigures/SPSS5.pdf>]
-<LabmanualFigures/SPSS6.pdf, id=1953, 225.47438pt x 251.64726pt>
+<LabmanualFigures/SPSS6.pdf, id=1973, 225.47438pt x 251.64726pt>
 File: LabmanualFigures/SPSS6.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS6.pdf>
@@ -1540,28 +1546,28 @@ Overfull \hbox (0.12086pt too wide) in paragraph at lines 331--332
 n represents 
  []
 
-<LabmanualFigures/SPSS7.pdf, id=1954, 277.75017pt x 119.74205pt>
+<LabmanualFigures/SPSS7.pdf, id=1974, 277.75017pt x 119.74205pt>
 File: LabmanualFigures/SPSS7.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS7.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS7.pdf used on input line 334.
 (pdftex.def)             Requested size: 156.0pt x 67.25606pt.
 
-<LabmanualFigures/SPSS8.pdf, id=1955, 174.3955pt x 227.4076pt>
+<LabmanualFigures/SPSS8.pdf, id=1975, 174.3955pt x 227.4076pt>
 File: LabmanualFigures/SPSS8.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS8.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS8.pdf used on input line 342.
 (pdftex.def)             Requested size: 156.0pt x 203.42268pt.
 
-<LabmanualFigures/SPSS9.pdf, id=1956, 187.78426pt x 108.84193pt>
+<LabmanualFigures/SPSS9.pdf, id=1976, 187.78426pt x 108.84193pt>
 File: LabmanualFigures/SPSS9.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS9.pdf>
 Package pdftex.def Info: LabmanualFigures/SPSS9.pdf used on input line 348.
 (pdftex.def)             Requested size: 156.0pt x 90.42014pt.
 
-<LabmanualFigures/SPSS10.pdf, id=1957, 421.85121pt x 180.22398pt>
+<LabmanualFigures/SPSS10.pdf, id=1977, 421.85121pt x 180.22398pt>
 File: LabmanualFigures/SPSS10.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS10.pdf>
@@ -1572,9 +1578,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 362--365
 
  []
 
-[79 <./LabmanualFigures/SPSS6.pdf> <./LabmanualFigures/SPSS7.pdf>] [80 <./Labma
+[81 <./LabmanualFigures/SPSS6.pdf> <./LabmanualFigures/SPSS7.pdf>] [82 <./Labma
 nualFigures/SPSS8.pdf> <./LabmanualFigures/SPSS9.pdf> <./LabmanualFigures/SPSS1
-0.pdf>] <LabmanualFigures/SPSS11.pdf, id=2244, 275.7018pt x 286.84886pt>
+0.pdf>] <LabmanualFigures/SPSS11.pdf, id=2263, 275.7018pt x 286.84886pt>
 File: LabmanualFigures/SPSS11.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS11.pdf>
@@ -1585,7 +1591,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--373
 
  []
 
-<LabmanualFigures/SPSS12.pdf, id=2245, 253.25555pt x 114.56752pt>
+<LabmanualFigures/SPSS12.pdf, id=2264, 253.25555pt x 114.56752pt>
 File: LabmanualFigures/SPSS12.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS12.pdf>
@@ -1596,7 +1602,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 380--383
 
  []
 
-<LabmanualFigures/SPSS13.pdf, id=2246, 522.33908pt x 167.88411pt>
+<LabmanualFigures/SPSS13.pdf, id=2265, 522.33908pt x 167.88411pt>
 File: LabmanualFigures/SPSS13.pdf Graphic file (type pdf)
 
 <use LabmanualFigures/SPSS13.pdf>
@@ -1607,7 +1613,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 391--394
 
  []
 
-[81 <./LabmanualFigures/SPSS11.pdf>]
+[83 <./LabmanualFigures/SPSS11.pdf>]
 Overfull \hbox (0.11475pt too wide) in paragraph at lines 402--403
 \T1/pplj/m/n/10 (+7) report the main effect you will need to compute the averag
 es for each 
@@ -1619,13 +1625,13 @@ Overfull \hbox (0.12766pt too wide) in paragraph at lines 402--403
 can have SPSS 
  []
 
-[82 <./LabmanualFigures/SPSS12.pdf> <./LabmanualFigures/SPSS13.pdf>]
+[84 <./LabmanualFigures/SPSS12.pdf> <./LabmanualFigures/SPSS13.pdf>]
 Overfull \hbox (0.10428pt too wide) in paragraph at lines 417--418
 \T1/pplj/m/n/10 (+9) = 124.92, MSE = 379.14, p<.05. Mean performance was lower 
 for level 
  []
 
-) [83] [84] (./writing.tex
+) [85] [86] (./writing.tex
 Overfull \hbox (0.13237pt too wide) in paragraph at lines 10--11
 \T1/pplj/m/n/10 (+6) “an-swer” to the ques-tion that your in-ves-ti-ga-tion
  will con-firm or 
@@ -1637,7 +1643,7 @@ Overfull \hbox (0.10478pt too wide) in paragraph at lines 13--14
 s and ma-te-ri-als, and 
  []
 
-[85
+[87
 
 ]
 Overfull \hbox (0.1025pt too wide) in paragraph at lines 19--20
@@ -1651,7 +1657,7 @@ Overfull \hbox (0.11488pt too wide) in paragraph at lines 22--23
 ings along 
  []
 
-[86] <APA1.pdf, id=2379, 614.295pt x 794.97pt>
+[88] <APA1.pdf, id=2402, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf>
 Package pdftex.def Info: APA1.pdf used on input line 30.
@@ -1661,7 +1667,7 @@ File: APA1.pdf Graphic file (type pdf)
 Package pdftex.def Info: APA1.pdf used on input line 30.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<APA1.pdf, id=2382, page=1, 614.295pt x 794.97pt>
+<APA1.pdf, id=2405, page=1, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 1>
 Package pdftex.def Info: APA1.pdf, page1 used on input line 30.
@@ -1671,7 +1677,7 @@ File: APA1.pdf Graphic file (type pdf)
 <use APA1.pdf, page 1>
 Package pdftex.def Info: APA1.pdf, page1 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [87]
+ [89]
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 1>
 Package pdftex.def Info: APA1.pdf, page1 used on input line 30.
@@ -1685,8 +1691,8 @@ File: APA1.pdf Graphic file (type pdf)
 <use APA1.pdf, page 1>
 Package pdftex.def Info: APA1.pdf, page1 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [88 <./APA1.pdf>]
-<APA1.pdf, id=2413, page=2, 614.295pt x 794.97pt>
+ [90 <./APA1.pdf>]
+<APA1.pdf, id=2437, page=2, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 2>
 Package pdftex.def Info: APA1.pdf, page2 used on input line 30.
@@ -1700,8 +1706,8 @@ File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 2>
 Package pdftex.def Info: APA1.pdf, page2 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [89 <./APA1.pdf>]
-<APA1.pdf, id=2422, page=3, 614.295pt x 794.97pt>
+ [91 <./APA1.pdf>]
+<APA1.pdf, id=2447, page=3, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 3>
 Package pdftex.def Info: APA1.pdf, page3 used on input line 30.
@@ -1715,8 +1721,8 @@ File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 3>
 Package pdftex.def Info: APA1.pdf, page3 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [90 <./APA1.pdf>]
-<APA1.pdf, id=2435, page=4, 614.295pt x 794.97pt>
+ [92 <./APA1.pdf>]
+<APA1.pdf, id=2460, page=4, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 4>
 Package pdftex.def Info: APA1.pdf, page4 used on input line 30.
@@ -1730,8 +1736,8 @@ File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 4>
 Package pdftex.def Info: APA1.pdf, page4 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [91 <./APA1.pdf>]
-<APA1.pdf, id=2441, page=5, 614.295pt x 794.97pt>
+ [93 <./APA1.pdf>]
+<APA1.pdf, id=2465, page=5, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 5>
 Package pdftex.def Info: APA1.pdf, page5 used on input line 30.
@@ -1745,8 +1751,8 @@ File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 5>
 Package pdftex.def Info: APA1.pdf, page5 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [92 <./APA1.pdf>]
-<APA1.pdf, id=2446, page=6, 614.295pt x 794.97pt>
+ [94 <./APA1.pdf>]
+<APA1.pdf, id=2470, page=6, 614.295pt x 794.97pt>
 File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 6>
 Package pdftex.def Info: APA1.pdf, page6 used on input line 30.
@@ -1760,8 +1766,8 @@ File: APA1.pdf Graphic file (type pdf)
  <use APA1.pdf, page 6>
 Package pdftex.def Info: APA1.pdf, page6 used on input line 30.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [93 <./APA1.pdf>]
-<APA2.pdf, id=2451, 614.295pt x 794.97pt>
+ [95 <./APA1.pdf>]
+<APA2.pdf, id=2475, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf>
 Package pdftex.def Info: APA2.pdf used on input line 34.
@@ -1771,7 +1777,7 @@ File: APA2.pdf Graphic file (type pdf)
 Package pdftex.def Info: APA2.pdf used on input line 34.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<APA2.pdf, id=2454, page=1, 614.295pt x 794.97pt>
+<APA2.pdf, id=2478, page=1, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 1>
 Package pdftex.def Info: APA2.pdf, page1 used on input line 34.
@@ -1781,7 +1787,7 @@ File: APA2.pdf Graphic file (type pdf)
 <use APA2.pdf, page 1>
 Package pdftex.def Info: APA2.pdf, page1 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [94]
+ [96]
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 1>
 Package pdftex.def Info: APA2.pdf, page1 used on input line 34.
@@ -1795,8 +1801,8 @@ File: APA2.pdf Graphic file (type pdf)
 <use APA2.pdf, page 1>
 Package pdftex.def Info: APA2.pdf, page1 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [95 <./APA2.pdf>]
-<APA2.pdf, id=2489, page=2, 614.295pt x 794.97pt>
+ [97 <./APA2.pdf>]
+<APA2.pdf, id=2515, page=2, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 2>
 Package pdftex.def Info: APA2.pdf, page2 used on input line 34.
@@ -1810,8 +1816,8 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 2>
 Package pdftex.def Info: APA2.pdf, page2 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [96 <./APA2.pdf>]
-<APA2.pdf, id=2494, page=3, 614.295pt x 794.97pt>
+ [98 <./APA2.pdf>]
+<APA2.pdf, id=2521, page=3, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 3>
 Package pdftex.def Info: APA2.pdf, page3 used on input line 34.
@@ -1825,8 +1831,8 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 3>
 Package pdftex.def Info: APA2.pdf, page3 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [97 <./APA2.pdf>]
-<APA2.pdf, id=2500, page=4, 614.295pt x 794.97pt>
+ [99 <./APA2.pdf>]
+<APA2.pdf, id=2526, page=4, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 4>
 Package pdftex.def Info: APA2.pdf, page4 used on input line 34.
@@ -1840,8 +1846,8 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 4>
 Package pdftex.def Info: APA2.pdf, page4 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [98 <./APA2.pdf>]
-<APA2.pdf, id=2505, page=5, 614.295pt x 794.97pt>
+ [100 <./APA2.pdf>]
+<APA2.pdf, id=2531, page=5, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 5>
 Package pdftex.def Info: APA2.pdf, page5 used on input line 34.
@@ -1855,8 +1861,8 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 5>
 Package pdftex.def Info: APA2.pdf, page5 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [99 <./APA2.pdf>]
-<APA2.pdf, id=2515, page=6, 614.295pt x 794.97pt>
+ [101 <./APA2.pdf>]
+<APA2.pdf, id=2540, page=6, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 6>
 Package pdftex.def Info: APA2.pdf, page6 used on input line 34.
@@ -1870,8 +1876,8 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 6>
 Package pdftex.def Info: APA2.pdf, page6 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [100 <./APA2.pdf>]
-<APA2.pdf, id=2520, page=7, 614.295pt x 794.97pt>
+ [102 <./APA2.pdf>]
+<APA2.pdf, id=2545, page=7, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 7>
 Package pdftex.def Info: APA2.pdf, page7 used on input line 34.
@@ -1885,8 +1891,8 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 7>
 Package pdftex.def Info: APA2.pdf, page7 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [101 <./APA2.pdf>]
-<APA2.pdf, id=2525, page=8, 614.295pt x 794.97pt>
+ [103 <./APA2.pdf>]
+<APA2.pdf, id=2551, page=8, 614.295pt x 794.97pt>
 File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 8>
 Package pdftex.def Info: APA2.pdf, page8 used on input line 34.
@@ -1900,7 +1906,7 @@ File: APA2.pdf Graphic file (type pdf)
  <use APA2.pdf, page 8>
 Package pdftex.def Info: APA2.pdf, page8 used on input line 34.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [102 <./APA2.pdf>])
+ [104 <./APA2.pdf>])
 (./Lab_Manual.bblpdfTeX warning (ext4): destination with the same identifier (n
 ame{cite.crump_warning:_2010}) has been already used, duplicate ignored
 <to be read again> 
@@ -1963,43 +1969,87 @@ l.52 \bibitem[Yin, 1969]{yin_looking_1969}
                                           )
 No file Lab_Manual.ind.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
-[103
+[105
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
  (./Lab_Manual.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
-Package rerunfilecheck Info: File `Lab_Manual.out' has not changed.
-(rerunfilecheck)             Checksum: 79DDA737B5E064664A412A6219F6DE5F;6655.
 
+
+Package rerunfilecheck Warning: File `Lab_Manual.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Lab_Manual.out':
+(rerunfilecheck)             Before: 79DDA737B5E064664A412A6219F6DE5F;6655
+(rerunfilecheck)             After:  93CA857E844E7F82EB0D51550292731A;6655.
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 17943 strings out of 492995
- 264096 string characters out of 6132704
+ 17963 strings out of 492995
+ 264326 string characters out of 6132704
  446223 words of memory out of 5000000
  20411 multiletter control sequences out of 15000+600000
  100362 words of font info for 314 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,18n,72p,1564b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
-017/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2017/tex
-mf-dist/fonts/type1/public/bera/fvmb8a.pfb></usr/local/texlive/2017/texmf-dist/
-fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
-pe1/public/bera/fvmro8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw
-/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvet
-ic/uhvro8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/upl
-r8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pf
-b>
-Output written on Lab_Manual.pdf (103 pages, 3886911 bytes).
+pdfTeX warning (dest): name{subsection*.151} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection*.145} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection*.133} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection*.117} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection*.114} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.153} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.150} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.144} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.143} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.132} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.116} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.113} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.112} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/bera/fvmb8a.pfb></usr/local/texlive/2017/texmf-dist/fo
+nts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/bera/fvmro8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/h
+elvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic
+/uhvro8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8
+a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Lab_Manual.pdf (105 pages, 3888974 bytes).
 PDF statistics:
- 2658 PDF objects out of 2984 (max. 8388607)
- 1891 compressed objects within 19 object streams
- 358 named destinations out of 1000 (max. 500000)
+ 2689 PDF objects out of 2984 (max. 8388607)
+ 1919 compressed objects within 20 object streams
+ 378 named destinations out of 1000 (max. 500000)
  77381 words of extra memory for PDF output out of 89155 (max. 10000000)
 

@@ -105,49 +105,50 @@
 \contentsline {subsection}{References and Figures or Tables}{64}{subsection*.106}
 \contentsline {chapter}{Labs 9 - 14: The Final Project}{65}{chapter*.107}
 \contentsline {section}{Overview}{65}{section*.108}
-\contentsline {subsection}{2-3 minute individual presentation (5\% of total grade)}{65}{subsection*.109}
-\contentsline {subsection}{APA style research report (15\% of total grade)}{66}{subsection*.110}
-\contentsline {subsection}{10 minute group presentation (5\% of total grade)}{66}{subsection*.111}
-\contentsline {chapter}{Statistical Analysis And Reporting}{67}{chapter*.112}
-\contentsline {section}{Excel Tips}{67}{section*.113}
-\contentsline {subsection}{What is Excel?}{67}{subsection*.114}
-\contentsline {subsection}{What is Excel used for in this course?}{67}{subsection*.115}
-\contentsline {section}{Using Excel}{68}{section*.116}
-\contentsline {subsection}{The excel window}{68}{subsection*.117}
-\contentsline {subsection}{Inputting data}{68}{subsection*.118}
-\contentsline {subsection}{Addressing cells}{68}{subsection*.119}
-\contentsline {subsection}{Setting one cell to equal another}{69}{subsection*.120}
-\contentsline {subsection}{Adding cells together, and copying commands across other cells}{69}{subsection*.121}
-\contentsline {subsection}{Using a formula to add two numbers together}{70}{subsection*.122}
-\contentsline {subsection}{Getting an average}{70}{subsection*.123}
-\contentsline {subsection}{Other formulas}{71}{subsection*.124}
-\contentsline {subsection}{Selecting a range of cells}{71}{subsection*.125}
-\contentsline {subsection}{Copying a formula to another cell: relative coordinates}{71}{subsection*.126}
-\contentsline {subsection}{Absolute coordinates}{72}{subsection*.127}
-\contentsline {subsection}{Sorting data}{72}{subsection*.128}
-\contentsline {subsection}{Making a histogram}{73}{subsection*.129}
-\contentsline {subsection}{Making a table}{74}{subsection*.130}
-\contentsline {subsection}{Paired Samples T-test}{74}{subsection*.131}
-\contentsline {section}{SPSS}{76}{section*.132}
-\contentsline {subsection}{Paired Samples T-test in SPSS}{76}{subsection*.133}
-\contentsline {subsection}{2 x 2 Repeated Measures ANOVA}{77}{subsection*.134}
-\contentsline {subsection}{From Data to Analysis}{77}{subsection*.135}
-\contentsline {subsection}{2x2 Repeated measures ANOVA in SPSS}{79}{subsection*.136}
-\contentsline {subsection}{Finding numbers in the SPSS analysis output}{81}{subsection*.137}
-\contentsline {subsection}{The ANOVA table}{82}{subsection*.138}
-\contentsline {subsection}{Main effect for IV 1}{82}{subsection*.139}
-\contentsline {subsection}{Main effect for IV 2}{83}{subsection*.140}
-\contentsline {subsection}{The interaction effect}{83}{subsection*.141}
-\contentsline {subsection}{Post Hoc Tests to interpret the interaction}{83}{subsection*.142}
-\contentsline {chapter}{Writing An APA Style Paper}{85}{chapter*.143}
-\contentsline {section}{How to write a research report}{85}{section*.144}
-\contentsline {subsection}{Introduction}{85}{subsection*.145}
-\contentsline {subsection}{Methods}{85}{subsection*.146}
-\contentsline {subsection}{Results}{86}{subsection*.147}
-\contentsline {subsection}{Discussion of results}{86}{subsection*.148}
-\contentsline {subsection}{Conclusions and recommendations}{86}{subsection*.149}
-\contentsline {section}{APA style}{87}{section*.150}
-\contentsline {subsection}{APA style formatting}{87}{subsection*.151}
-\contentsline {subsection}{Sample APA report}{94}{subsection*.152}
-\contentsline {chapter}{Bibliography}{103}{chapter*.153}
+\contentsline {subsection}{Requirements}{65}{subsection*.109}
+\contentsline {subsection}{2-3 minute individual presentation (5\% of total grade)}{66}{subsection*.110}
+\contentsline {subsection}{APA style research report (15\% of total grade)}{66}{subsection*.111}
+\contentsline {subsection}{10 minute group presentation (5\% of total grade)}{67}{subsection*.112}
+\contentsline {chapter}{Statistical Analysis And Reporting}{69}{chapter*.113}
+\contentsline {section}{Excel Tips}{69}{section*.114}
+\contentsline {subsection}{What is Excel?}{69}{subsection*.115}
+\contentsline {subsection}{What is Excel used for in this course?}{69}{subsection*.116}
+\contentsline {section}{Using Excel}{70}{section*.117}
+\contentsline {subsection}{The excel window}{70}{subsection*.118}
+\contentsline {subsection}{Inputting data}{70}{subsection*.119}
+\contentsline {subsection}{Addressing cells}{70}{subsection*.120}
+\contentsline {subsection}{Setting one cell to equal another}{71}{subsection*.121}
+\contentsline {subsection}{Adding cells together, and copying commands across other cells}{71}{subsection*.122}
+\contentsline {subsection}{Using a formula to add two numbers together}{72}{subsection*.123}
+\contentsline {subsection}{Getting an average}{72}{subsection*.124}
+\contentsline {subsection}{Other formulas}{73}{subsection*.125}
+\contentsline {subsection}{Selecting a range of cells}{73}{subsection*.126}
+\contentsline {subsection}{Copying a formula to another cell: relative coordinates}{73}{subsection*.127}
+\contentsline {subsection}{Absolute coordinates}{74}{subsection*.128}
+\contentsline {subsection}{Sorting data}{74}{subsection*.129}
+\contentsline {subsection}{Making a histogram}{75}{subsection*.130}
+\contentsline {subsection}{Making a table}{76}{subsection*.131}
+\contentsline {subsection}{Paired Samples T-test}{76}{subsection*.132}
+\contentsline {section}{SPSS}{78}{section*.133}
+\contentsline {subsection}{Paired Samples T-test in SPSS}{78}{subsection*.134}
+\contentsline {subsection}{2 x 2 Repeated Measures ANOVA}{79}{subsection*.135}
+\contentsline {subsection}{From Data to Analysis}{79}{subsection*.136}
+\contentsline {subsection}{2x2 Repeated measures ANOVA in SPSS}{81}{subsection*.137}
+\contentsline {subsection}{Finding numbers in the SPSS analysis output}{83}{subsection*.138}
+\contentsline {subsection}{The ANOVA table}{84}{subsection*.139}
+\contentsline {subsection}{Main effect for IV 1}{84}{subsection*.140}
+\contentsline {subsection}{Main effect for IV 2}{85}{subsection*.141}
+\contentsline {subsection}{The interaction effect}{85}{subsection*.142}
+\contentsline {subsection}{Post Hoc Tests to interpret the interaction}{85}{subsection*.143}
+\contentsline {chapter}{Writing An APA Style Paper}{87}{chapter*.144}
+\contentsline {section}{How to write a research report}{87}{section*.145}
+\contentsline {subsection}{Introduction}{87}{subsection*.146}
+\contentsline {subsection}{Methods}{87}{subsection*.147}
+\contentsline {subsection}{Results}{88}{subsection*.148}
+\contentsline {subsection}{Discussion of results}{88}{subsection*.149}
+\contentsline {subsection}{Conclusions and recommendations}{88}{subsection*.150}
+\contentsline {section}{APA style}{89}{section*.151}
+\contentsline {subsection}{APA style formatting}{89}{subsection*.152}
+\contentsline {subsection}{Sample APA report}{96}{subsection*.153}
+\contentsline {chapter}{Bibliography}{105}{chapter*.154}
 \contentsfinish 
