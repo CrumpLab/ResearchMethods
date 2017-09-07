@@ -6,8 +6,8 @@ bookdown::gitbook:
         <li><a href="./">Research Methods</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
-    download: ["pdf", "epub"]
+    edit: https://github.com/CrumpLab/ResearchMethods/blob/master/%s
+    download: ["pdf"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

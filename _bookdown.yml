@@ -1,4 +1,7 @@
-book_filename: "bookdown-demo"
+book_filename: "Methods_Crump"
+repo: https://github.com/CrumpLab/ResearchMethods
+edit: https://github.com/CrumpLab/ResearchMethods/%s
+output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
