@@ -14,7 +14,7 @@ The web-book version can be found here: [https://crumplab.github.io/ResearchMeth
   
 2. The source code for this textbook is available in this github repository
  
- a. Edit the .Rmd files, and push them back
+ a. Edit the .Rmd files, and submit pull requests
   
   b. The edit link in the top bar of the textbook should automatically take you to the source .Rmd file
   
