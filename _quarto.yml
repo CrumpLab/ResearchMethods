@@ -12,6 +12,7 @@ website:
   repo-url: https://github.com/CrumpLab/ResearchMethods/
   repo-branch: master
   repo-actions: [edit]
+  google-analytics: "G-1G3JXMZKFK"
   title: "Research Methods for Psychology"
   sidebar:
     logo: ResearchMethods.png
