@@ -1,0 +1,38 @@
+---
+author: 
+  - "Matthew J. C. Crump"
+  - "Paul C. Price"
+  - "Rajiv Jhangiani"
+  - "I-Chant A. Chiang"
+  - "Dana C. Leighton"
+date: "1/1/2017"
+description: "Last compiled 1/17/25"
+---
+
+# Research Methods for Psychology {.unnumbered}
+
+##  Welcome {.unnumbered}
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
+
+:::: {.content-visible when-format="html"}
+::: {.column-margin}
+
+```{r, echo=FALSE}
+knitr::include_graphics("ResearchMethods.png")
+```
+
+:::
+::::
+
+
+This textbook is an adaptation of one originally written by Paul C. Price (California State University, Fresno) and adapted by The Saylor Foundation under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License without attribution as requested by the work's original creator or licensee. The original text is available [here](http://www.saylor.org/site/textbooks/)
+
+This adaptation constitutes the Brooklyn College edition by Matthew J. C. Crump (Brooklyn College and Graduate Center of the City University of New York). This newest adaptation incorporates the second Canadian edition by Rajiv S. Jhangiani (Kwantlen Polytechnic University) and I-Chant A. Chiang (Quest University Canada) and is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. And, incorporates the second U.S. edition authored by Dana C. Leighton (Southern Arkansas University) and is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+
+Revisions in the current edition are listed by the change logs in the github repository [here](https://github.com/CrumpLab/ResearchMethods) 
+
+Research Methods in Psychology - Brooklyn College Edition by Paul C. Price, Rajiv Jhangiani, I-Chant A. Chiang, Dana C. Leighton, & Matthew J. C. Crump is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted.
+

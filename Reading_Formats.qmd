@@ -1,0 +1,19 @@
+---
+author: 
+  - "Matthew J. C. Crump"
+---
+
+# Reading Formats {.unnumbered}
+
+This book is currently readable on the web and the chapters are available as individual downloadable pdfs. The web version has better formatting and additional content.
+
+## Web-version
+
+This book was written with the web in mind, and may contain additional features compared to the hard-copy. The web-based version of this book is located at:
+
+<https://www.crumplab.com/ResearchMethods/>
+
+## PDF version
+
+The pdf versions of each chapter are available as individual downloads from each chapter page in the online book (see the right-side navigation). The pdfs may have some formatting issues.
+

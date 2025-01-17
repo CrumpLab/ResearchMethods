@@ -1,0 +1,42 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!*.rmd"
+  output-dir: docs
+  resources:
+   - "Figures/"
+
+website:
+  site-url: https://crumplab.com/ResearchMethods/
+  repo-url: https://github.com/CrumpLab/ResearchMethods/
+  repo-branch: master
+  repo-actions: [edit]
+  title: "Research Methods for Psychology"
+  sidebar:
+    logo: ResearchMethods.png
+    contents:
+      - index.qmd
+      - Reading_Formats.qmd
+      - 01-PsychScience.qmd
+      - 02-GettingStarted.qmd
+      - 03-Measurement.qmd
+      - 04-SingleFactor.qmd
+      - 05-Factorial.qmd
+      - 06-Theory.qmd
+      - 07-Ethics.qmd
+      - 08-Control.qmd
+      - 09-Nonexperimental.qmd
+      - 10-Survey.qmd
+      - 11-Single.qmd
+      - 12-Presenting.qmd
+      - 13-Descriptives.qmd
+      - 14-Inferential.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+editor: source
+
